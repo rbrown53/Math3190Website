@@ -1,0 +1,325 @@
+---
+title: "**MATH 3190 Homework 1 Solutions**"
+subtitle: |
+  Due January 29, 2026\
+  Focus: Notes 1-3\
+  Total Points: 90 + 10 (Self-Critique Comment and Uploading to GitHub) = 100
+format: 
+  html: # Change this to "html" (without the quotes) to render in html
+    embed-resources: true
+urlcolor: blue
+execute: # Will set these as the default for all code chunks
+  eval: true
+  echo: true
+editor_options: 
+  chunk_output_type: console
+---
+
+Note that your homework should be completed in Quarto. You can just add your answers and code to this document in the appropriate part. The file should be rendered as an html document or pdf document (html is quicker to render and you will need an installation of LaTeX to render as a pdf). You will "turn in" this homework by uploading the files, the .qmd and output file, to your GitHub `Math_3190_Assignment` repository in the `Homework/Homework_1` directory. Make sure all supporting files (if there are any) are in this directory as well. You should use `git` and `Unix` commands in a terminal for this (i.e. don't manually upload files to GitHub). In addition, you will submit just your html or pdf file on Canvas to unlock the solutions. 
+
+Don't forget to also put a [self-critique comment]{.underline} on Canvas indicating what you did correctly and incorrectly and include any questions you may have about the assignment after submitting the assignment and thoroughly looking through the solutions.
+
+
+# Problem 1 (18 points)
+
+In [two different code chunks]{.underline}, write two functions called `gghist` and `ggbox`. The first code chunk is already given below, but you'll need to add the second one. The `gghist` function should create a ggplot histogram of a variable that is given as a vector. The `ggbox` function should create a ggplot box plot when a single numeric vector is given or it should create side-by-side box plots if one numeric and one categorical variables are given. You can check if a vector is numeric with the `is.numeric()` function. Allow the user to indicate whether it should be horizontal or vertical box plots. Make sure you set `echo` and `eval` both to `true` for these code chunks. Also make sure to label the code chunks. 
+
+```{r}
+#| label: gghist
+gghist <- function(x, fill_color = "lightblue", num_bins = 30) {
+  data.frame(x) |>
+    ggplot(aes(x = x)) +
+    geom_histogram(color = "black",
+                   fill = fill_color,
+                   bins = num_bins)
+}
+```
+
+```{r}
+#| label: ggbox
+ggbox <- function(x, y = NULL, fill_color = "lightblue", horizontal = FALSE) {
+  if(!is.numeric(x) & is.null(y)) {
+    stop("The variable should be numeric.")
+  }
+  if(is.numeric(x) & is.null(y)) {
+    if(horizontal) {
+      p <- data.frame(x) |>
+        ggplot(aes(x = x)) +
+        geom_boxplot(color = "black",
+                       fill = fill_color)
+    } else {
+      p <- data.frame(x) |>
+        ggplot(aes(y = x)) +
+        geom_boxplot(color = "black",
+                       fill = fill_color)
+    }
+  } else if (is.numeric(x) & !is.numeric(y)) {
+    if(horizontal) {
+      p <- data.frame(x, y) |>
+        ggplot(aes(x = x, y = y)) +
+        geom_boxplot(color = "black",
+                       fill = fill_color) +
+        labs(x = "x", y = "y")
+    } else {
+      p <- data.frame(x, y) |>
+        ggplot(aes(x = y, y = x)) +
+        geom_boxplot(color = "black",
+                       fill = fill_color) +
+        labs(y = "x", x = "y")
+    }
+  } else if (!is.numeric(x) & is.numeric(y)) {
+    if(horizontal) {
+      p <- data.frame(x, y) |>
+        ggplot(aes(x = y, y = x)) +
+        geom_boxplot(color = "black",
+                       fill = fill_color) +
+        labs(x = "x", y = "y")
+    } else {
+      p <- data.frame(x, y) |>
+        ggplot(aes(x = x, y = y)) +
+        geom_boxplot(color = "black",
+                       fill = fill_color) +
+        labs(y = "x", x = "y")
+    }
+  }
+  print(p)
+}
+```
+
+
+# Problem 2 (57 points)
+
+### Part a (6 points)
+Learn about the built-in `read.fwf()` **R** function for use in downloading data from a URL into **R**. The `widths` and `strip.white` options will be especially useful here. Use this function to download the scores for all college basketball games for the 2024-2025 season [http://kenpom.com/cbbga26.txt](http://kenpom.com/cbbga26.txt) and then convert it to a tibble (load the `tidyverse` package first). The second team listed per line is the home team. It is not clear what the numbers, letters, or city names indicate after the second listed score. Notice that this is a "live" file that gets updated every day! So, your tibble size may change if you work on this assignment over the course of several days. That's fine. Give the code you used to download these data in a labeled code chunk.
+
+
+```{r}
+#| label: read_bb
+library(tidyverse) |> suppressPackageStartupMessages()
+cbbga <- read.fwf("https://kenpom.com/cbbga26.txt", 
+                    widths = c(10, 24, 3, 24, 3, 50),
+                    strip.white = T) |>
+  as_tibble()
+```
+
+
+Now lets practice using our tidy data/tidyverse tools! Using your `cbbga` tibble, try doing the following. In each part, save the object as a new tibble (like `cbbga2`, `cbbga3`, etc) and in each subsequent part, use the tibble you created in the previous part. 
+
+### Part b (2 points)
+Use `rename()` to rename all of your variables to names that make sense. Then print the first six rows of the new tibble using the `head()` function. 
+
+```{r}
+#| label: rename
+cbbga2 <- rename(cbbga, 
+       date = V1, away_team = V2, away_score = V3, 
+       home_team = V4, home_score = V5, notes = V6)
+head(cbbga2)
+```
+
+### Part c (2 points)
+Use `mutate()` to create a new column that gives the score differences (home team score minus away team score). Then print the first six rows of the new tibble using the `head()` function. 
+
+```{r}
+#| label: mutate
+cbbga3 <- mutate(cbbga2, score_diff = home_score - away_score)
+head(cbbga3)
+```
+
+### Part d (2 points)
+Use `arrange()` to sort the data set by the home team alphabetically. Then print the first six rows of the new tibble using the `head()` function. 
+
+```{r}
+#| label: arrange
+cbbga4 <- mutate(cbbga3, home_team)
+head(cbbga4)
+```
+
+### Part e (2 points)
+Use `select()` to remove the extra variable(s) that had that irrelevant information at the end of each line. Note: you can select every variable except one by using `!`. Then print the first six rows of the new tibble using the `head()` function. 
+
+```{r}
+#| label: select
+cbbga5 <- select(cbbga4, !notes) # Get rid of that original V6 variable
+head(cbbga5)
+```
+
+### Part f (3 points)
+Put parts a-e all together in one piping expression (with 5 pipes) and save this as a new object in **R**.
+
+```{r}
+#| label: all_pipes
+cbbga26 <- read.fwf("https://kenpom.com/cbbga26.txt", 
+                    widths = c(10, 24, 3, 24, 3, 50),
+                    strip.white = T) |>
+  as_tibble() |>
+  rename(date = V1, away_team = V2, away_score = V3, 
+         home_team = V4, home_score = V5, notes = V6) |>
+  mutate(score_diff = home_score - away_score) |>
+  arrange(home_team) |>
+  select(!notes)
+head(cbbga26)
+```
+
+### Part g (3 points)
+Use `filter()` to reduce the data down to only games played in 2025 (you could use the `lubridate` package for this, since it specializes in dealing with dates, but some base **R** packages will also work). Save this in a new tibble. **We will use this tibble with only the 2025 years from here on out**. 
+
+```{r}
+#| label: filter
+cbbga25 <- cbbga26 |>
+  filter(substr(date, nchar(date)-3, nchar(date)) == "2025")
+
+# Alternative:
+cbbga25 <- cbbga26 |>
+  filter(year(mdy(date)) == 2025)
+
+head(cbbga25)
+```
+
+### Part h (4 points)
+Write a function that will filter the tibble to only games played by a given team. Demonstrate your function by displaying games played by SUU in 2025.
+
+```{r}
+#| label: filter_function
+filter_bb <- function(bb_df, team_name) {
+  filtered_df <- bb_df |>
+    filter(home_team == team_name | away_team == team_name)
+  filtered_df
+}
+filter_bb(cbbga25, "Southern Utah")
+```
+
+### Part i (7 points)
+Use `summarize()` to extract SUU's win/loss record and winning percentage for their 2025 games. Hint: using the `case_when()` function inside of a `mutate()` function to create a new variable that indicates whether SUU won or lost is helpful. You can verify on the Internet that SUU had 4 wins and 10 losses in 2025, so if your code retruns those values, you did it correctly. 
+
+```{r summarize, eval = T, echo = T}
+cbbga25 |>
+  filter(home_team == "Southern Utah" | away_team == "Southern Utah") |>
+  mutate("W/L" = case_when(
+    home_team == "Southern Utah" & score_diff > 0 ~ "W",
+    away_team == "Southern Utah" & score_diff < 0 ~ "W",
+    .default = "L")) |>
+  summarize(wins = sum(`W/L` == "W"),
+            losses = sum(`W/L` == "L"),
+            winning_perc = round(sum(`W/L` == "W")/n()*100, 2))
+  
+```
+
+### Part j (7 points)
+Generalize this by writing a function that will do this for a given team, and create a tibble with this information for all teams. Arrange this tibble first by winning percentage (descending) and by team (alphabetically) if there are any ties when it comes to winning percentage. A `for` loop and the `add_row()` function may be useful here.
+
+```{r}
+#| label: summarize_function
+win_loss_bb <- function(team_name, bb_df) {
+  bb_df |>
+    filter(home_team == team_name | away_team == team_name) |>
+    mutate("W/L" = case_when(
+      home_team == team_name & score_diff > 0 ~ "W",
+      away_team == team_name & score_diff < 0 ~ "W",
+      .default = "L")) |>
+    summarize(team = team_name,
+              wins = sum(`W/L` == "W"),
+              losses = sum(`W/L` == "L"),
+              winning_perc = round(sum(`W/L` == "W")/n()*100, 2))
+}
+win_loss_bb("Southern Utah", cbbga25)
+
+
+all_teams <- unique(c(cbbga25$home_team, cbbga25$away_team))
+win_loss_tibble <- win_loss_bb(all_teams[1], cbbga25)
+for(i in 2:length(all_teams)) {
+  win_loss_tibble <- add_row(win_loss_tibble, 
+                             win_loss_bb(all_teams[i], cbbga25))
+}
+win_loss_tibble <- win_loss_tibble |>
+  arrange(desc(winning_perc), team)
+win_loss_tibble
+```
+
+### Part k (5 points)
+With only the 2025 games, use the `gghist()` you wrote in Problem 1 on the score differences variable you created in part c. Add appropriate labels and a title to your graph. Also, use the `#| fig-width:`, `#| fig-height:`, `#| out-width:`, and `#| fig-align:` code chunk options to center the figure and then to adjust your figure to a size you like. Play around with different sizes to see what those options adjust. 
+
+```{r}
+#| label: bb_gghist
+#| fig-width: 5
+#| fig-height: 5
+#| out-width: "50%"
+#| fig-align: "center"
+gghist(cbbga25$score_diff) + 
+  labs(x = "Score Difference (Home - Away Team)", 
+       title = "Histogram of Home Team and Away Team Scores")
+```
+
+### Part l (9 points)
+Filter the tibble with all 2025 games to only include Utah Tech or Southern Utah, then crate a tibble or data frame where each row is a game played by either team that has one column indicating the school, Utah Tech or Southern Utah, and a second column indicating the number of points that team played, regardless of whether the team was home or away. Then use your `ggbox()` function to create a side-by-side boxplot of number of points scored in all 2025 games for each team.
+
+Note, this is a little challenging. The most straightforward way to do this is to use the `pivot_longer()` function with `cols = ` the names of the two columns that have the away and the home teams (the names of these columns should not be in quotes, but they should be in a vector `c()`). Try to do this yourself first, but using AI for some help is fine. 
+
+```{r}
+#| label: bb_ggbox
+#| fig-width: 5
+#| fig-height: 5
+#| out-width: "50%"
+#| fig-align: "center"
+cbbga_utah <- cbbga25 |> 
+  pivot_longer(cols = c(away_team, home_team), values_to = "team") |>
+  mutate(
+    score = case_when(
+      name == "away_team" ~ away_score,
+      name == "home_team" ~ home_score
+    )
+  ) |> 
+  filter(team %in% c("Southern Utah", "Utah Tech")) |>
+  select(team, score)
+ggbox(cbbga_utah$score, cbbga_utah$team)
+```
+
+
+### Part m (5 points)
+Create one more appropriate graphs for the 2025 basketball data. This graph could be anything you'd like as long as you use `ggplot2`, it shows something meaningful, and it is not the same as the graphs you made in parts k or l. 
+
+**Answers will vary here.**
+
+# Problem 3 (15 points)
+Repeat parts b-e and g of Problem 2 using Python in Quarto. First, pass the original object that you read in from the website to Python without any changes to it (you do not need to read the file from the web in Python, but you can if you'd like) and then use `pandas` (or `polars` if you'd like) to rename the columns as indicated in part b, add the columns specified in part c, arrange the data as in part d, drop the "garbage" column as in part e, and filter it down as in part g. The `pandas` functions `rename`, `assign` (instead of `mutate`), `drop` (instead of `select`) and `str.contains` (used to select the right rows) will be useful here. Be sure to follow the guide in Notes 3 to properly install Python, install the `pandas` library and to load it in **R**.
+
+```{r}
+#| label: python_setup
+library(reticulate)
+# py_install(packages = "pandas") # Only run this once.
+```
+
+```{python}
+#| label: py_code
+import pandas as pd
+# Pass object as r.cbbga and rename the columns
+cbbga26 = r.cbbga
+cbbga26 = cbbga26.rename(
+  columns = {"V1": "date", "V2": "away_team", "V3": "away_score",
+             "V4": "home_team", "V5": "home_score", "V6": "notes"}
+  )
+
+# Add new columns
+cbbga26 = cbbga26.assign(
+    score_diff = cbbga26["home_score"]-cbbga26["away_score"]
+    )
+# Drop V6
+cbbga26 = cbbga26.drop(columns = ["notes"])
+
+# Filter down to 2025 scores:
+cbbga25 = cbbga26[cbbga26["date"].str.contains("2025")]
+
+
+# Same as above, but in one expression:
+cbbga25 = r.cbbga.rename(
+  columns = {"V1": "date", "V2": "away_team", "V3": "away_score",
+             "V4": "home_team", "V5": "home_score", "V6": "notes"}
+  ).assign(
+    score_diff = lambda x: x["home_score"]-x["away_score"]
+    ).drop(
+      columns = ["notes"]
+      ).query(
+        "date.str.contains('2025')"
+        )
+print(cbbga25)
+```
+

@@ -1,0 +1,2635 @@
+date,team1,score1,team2,score2,venue,score_diff
+11/14/2023,Prairie View A&M,79,Abilene Christian,74,Abilene Christian,5
+11/19/2023,Fordham,45,Abilene Christian,59,Abilene Christian,-14
+12/02/2023,Stephen F. Austin,79,Abilene Christian,74,Abilene Christian,5
+12/06/2023,Northern Arizona,78,Abilene Christian,76,Abilene Christian,2
+12/10/2023,Howard Payne,69,Abilene Christian,120,Abilene Christian,-51
+12/17/2023,UTEP,82,Abilene Christian,88,Abilene Christian,-6
+11/06/2023,Portland St.,62,Air Force,55,Air Force,7
+11/16/2023,Lindenwood,58,Air Force,76,Air Force,-18
+11/17/2023,William & Mary,71,Air Force,80,Air Force,-9
+11/19/2023,Nebraska Omaha,56,Air Force,58,Air Force,-2
+11/22/2023,VMI,54,Air Force,64,Air Force,-10
+12/09/2023,Eastern Washington,73,Air Force,68,Air Force,5
+12/21/2023,Northern Colorado,83,Air Force,79,Air Force,4
+11/10/2023,Southern Miss,54,Akron,72,Akron,-18
+11/14/2023,Heidelberg,56,Akron,114,Akron,-58
+11/19/2023,FIU,71,Akron,77,Akron,-6
+11/20/2023,Utah St.,65,Akron,62,Akron,3
+11/21/2023,Drake,79,Akron,59,Akron,20
+12/05/2023,Bradley,52,Akron,67,Akron,-15
+12/17/2023,Miami Hamilton,45,Akron,88,Akron,-43
+12/21/2023,Gardner Webb,90,Akron,94,Akron,-4
+12/30/2023,St. Bonaventure,62,Akron,61,Akron,1
+11/06/2023,Morehead St.,73,Alabama,105,Alabama,-32
+11/10/2023,Indiana St.,80,Alabama,102,Alabama,-22
+11/14/2023,South Alabama,46,Alabama,102,Alabama,-56
+11/17/2023,Mercer,67,Alabama,98,Alabama,-31
+11/28/2023,Clemson,85,Alabama,77,Alabama,8
+12/04/2023,Arkansas St.,65,Alabama,89,Alabama,-24
+12/09/2023,Purdue,92,Alabama,86,Alabama,6
+12/23/2023,Eastern Kentucky,67,Alabama,111,Alabama,-44
+12/30/2023,Liberty,56,Alabama,101,Alabama,-45
+11/29/2023,Tennessee St.,83,Alabama A&M,85,Alabama A&M,-2
+12/13/2023,UAB,93,Alabama A&M,82,Alabama A&M,11
+12/16/2023,Chattanooga,88,Alabama A&M,72,Alabama A&M,16
+11/14/2023,Oglethorpe,51,Alabama St.,115,Alabama St.,-64
+12/03/2023,MUW,60,Alabama St.,80,Alabama St.,-20
+12/19/2023,USC,79,Alabama St.,59,Alabama St.,20
+11/21/2023,Army,59,Albany,62,Albany,-3
+11/29/2023,Boston University,72,Albany,86,Albany,-14
+12/02/2023,Dartmouth,68,Albany,73,Albany,-5
+12/05/2023,SUNY Potsdam,59,Albany,98,Albany,-39
+12/19/2023,Sacred Heart,79,Albany,93,Albany,-14
+11/08/2023,Xavier LA,62,Alcorn St.,70,Alcorn St.,-8
+11/13/2023,Siena,58,American,78,American,-20
+11/16/2023,NJIT,73,American,87,American,-14
+11/22/2023,Mount St. Mary's,65,American,68,American,-3
+11/26/2023,Hood,74,American,103,American,-29
+12/02/2023,Saint Francis,75,American,73,American,2
+11/07/2023,Oakland City,49,Appalachian St.,87,Appalachian St.,-38
+11/21/2023,UNC Wilmington,56,Appalachian St.,86,Appalachian St.,-30
+11/26/2023,Austin Peay,58,Appalachian St.,78,Appalachian St.,-20
+11/29/2023,East Tennessee St.,61,Appalachian St.,72,Appalachian St.,-11
+12/03/2023,Auburn,64,Appalachian St.,69,Appalachian St.,-5
+12/05/2023,Central Pennsylvania,35,Appalachian St.,111,Appalachian St.,-76
+12/21/2023,UNC Asheville,76,Appalachian St.,63,Appalachian St.,13
+12/30/2023,Louisiana Monroe,55,Appalachian St.,67,Appalachian St.,-12
+11/06/2023,Morgan St.,59,Arizona,122,Arizona,-63
+11/13/2023,Southern,59,Arizona,97,Arizona,-38
+11/17/2023,Belmont,68,Arizona,100,Arizona,-32
+11/19/2023,UT Arlington,56,Arizona,101,Arizona,-45
+11/23/2023,Michigan St.,68,Arizona,74,Arizona,-6
+12/02/2023,Colgate,55,Arizona,82,Arizona,-27
+12/09/2023,Wisconsin,73,Arizona,98,Arizona,-25
+12/20/2023,Alabama,74,Arizona,87,Arizona,-13
+12/23/2023,Florida Atlantic,96,Arizona,95,Arizona,1
+11/11/2023,Texas Southern,52,Arizona St.,63,Arizona St.,-11
+11/16/2023,UMass Lowell,69,Arizona St.,71,Arizona St.,-2
+11/23/2023,BYU,77,Arizona St.,49,Arizona St.,28
+11/24/2023,Vanderbilt,67,Arizona St.,82,Arizona St.,-15
+11/29/2023,Sam Houston St.,61,Arizona St.,78,Arizona St.,-17
+12/03/2023,San Francisco,61,Arizona St.,72,Arizona St.,-11
+12/06/2023,SMU,74,Arizona St.,76,Arizona St.,-2
+12/20/2023,Northwestern,65,Arizona St.,46,Arizona St.,19
+11/06/2023,Alcorn St.,59,Arkansas,93,Arkansas,-34
+11/10/2023,Gardner Webb,68,Arkansas,86,Arkansas,-18
+11/13/2023,Old Dominion,77,Arkansas,86,Arkansas,-9
+11/17/2023,UNC Greensboro,78,Arkansas,72,Arkansas,6
+11/23/2023,Memphis,84,Arkansas,79,Arkansas,5
+11/24/2023,North Carolina,87,Arkansas,72,Arkansas,15
+11/29/2023,Duke,75,Arkansas,80,Arkansas,-5
+12/04/2023,Furman,83,Arkansas,97,Arkansas,-14
+12/16/2023,Lipscomb,66,Arkansas,69,Arkansas,-3
+12/21/2023,Abilene Christian,73,Arkansas,83,Arkansas,-10
+12/30/2023,UNC Wilmington,90,Arkansas,106,Arkansas,-16
+11/09/2023,Champion Christian,73,Arkansas Pine Bluff,116,Arkansas Pine Bluff,-43
+11/11/2023,Southwestern Christian,68,Arkansas Pine Bluff,112,Arkansas Pine Bluff,-44
+11/18/2023,Incarnate Word,100,Arkansas Pine Bluff,81,Arkansas Pine Bluff,19
+11/27/2023,Arkansas Baptist,60,Arkansas Pine Bluff,85,Arkansas Pine Bluff,-25
+12/18/2023,Ecclesia,75,Arkansas Pine Bluff,125,Arkansas Pine Bluff,-50
+11/14/2023,Alcorn St.,86,Arkansas St.,100,Arkansas St.,-14
+11/25/2023,UT Rio Grande Valley,58,Arkansas St.,75,Arkansas St.,-17
+11/28/2023,Jackson St.,75,Arkansas St.,71,Arkansas St.,4
+12/09/2023,UAB,68,Arkansas St.,87,Arkansas St.,-19
+11/06/2023,Marist,71,Army,55,Army,16
+11/17/2023,Quinnipiac,67,Army,58,Army,9
+11/29/2023,Central Connecticut,79,Army,51,Army,28
+12/01/2023,SUNY Maritime,39,Army,74,Army,-35
+12/05/2023,Le Moyne,51,Army,68,Army,-17
+12/17/2023,Stony Brook,78,Army,74,Army,4
+12/30/2023,US Merchant Marine,50,Army,58,Army,-8
+11/10/2023,Southeastern Louisiana,71,Auburn,86,Auburn,-15
+11/17/2023,St. Bonaventure,60,Auburn,77,Auburn,-17
+11/21/2023,Alabama A&M,54,Auburn,84,Auburn,-30
+11/29/2023,Virginia Tech,57,Auburn,74,Auburn,-17
+12/09/2023,Indiana,76,Auburn,104,Auburn,-28
+12/13/2023,UNC Asheville,62,Auburn,87,Auburn,-25
+12/17/2023,USC,75,Auburn,91,Auburn,-16
+12/22/2023,Alabama St.,62,Auburn,82,Auburn,-20
+12/30/2023,Chattanooga,66,Auburn,101,Auburn,-35
+11/06/2023,Life,72,Austin Peay,90,Austin Peay,-18
+11/14/2023,Fisk,52,Austin Peay,79,Austin Peay,-27
+11/20/2023,Tarleton St.,66,Austin Peay,59,Austin Peay,7
+11/22/2023,Sacramento St.,71,Austin Peay,74,Austin Peay,-3
+11/29/2023,Morehead St.,61,Austin Peay,50,Austin Peay,11
+12/05/2023,Midway,44,Austin Peay,98,Austin Peay,-54
+12/09/2023,Murray St.,49,Austin Peay,53,Austin Peay,-4
+12/22/2023,Ohio,67,Austin Peay,71,Austin Peay,-4
+11/06/2023,Houston Christian,63,BYU,110,BYU,-47
+11/10/2023,San Diego St.,65,BYU,74,BYU,-9
+11/15/2023,Southeastern Louisiana,48,BYU,105,BYU,-57
+11/18/2023,Morgan St.,50,BYU,93,BYU,-43
+11/24/2023,N.C. State,86,BYU,95,BYU,-9
+12/01/2023,Fresno St.,56,BYU,85,BYU,-29
+12/05/2023,Evansville,55,BYU,96,BYU,-41
+12/13/2023,Denver,74,BYU,90,BYU,-16
+12/16/2023,Georgia St.,54,BYU,86,BYU,-32
+12/22/2023,Bellarmine,59,BYU,101,BYU,-42
+12/30/2023,Wyoming,68,BYU,94,BYU,-26
+11/07/2023,Goshen,40,Ball St.,101,Ball St.,-61
+11/11/2023,Old Dominion,68,Ball St.,73,Ball St.,-5
+11/14/2023,Oakland City,51,Ball St.,92,Ball St.,-41
+11/21/2023,USC Upstate,58,Ball St.,75,Ball St.,-17
+11/24/2023,Arkansas Pine Bluff,74,Ball St.,92,Ball St.,-18
+12/02/2023,Bellarmine,58,Ball St.,67,Ball St.,-9
+12/10/2023,SIU Edwardsville,71,Ball St.,83,Ball St.,-12
+12/16/2023,Indiana St.,83,Ball St.,72,Ball St.,11
+11/07/2023,Auburn,82,Baylor,88,Baylor,-6
+11/09/2023,John Brown,70,Baylor,96,Baylor,-26
+11/12/2023,Gardner Webb,62,Baylor,77,Baylor,-15
+11/14/2023,UMKC,61,Baylor,99,Baylor,-38
+11/28/2023,Nicholls St.,70,Baylor,108,Baylor,-38
+12/02/2023,Northwestern St.,40,Baylor,91,Baylor,-51
+12/05/2023,Seton Hall,60,Baylor,78,Baylor,-18
+12/22/2023,Mississippi Valley St.,48,Baylor,107,Baylor,-59
+11/20/2023,Morehead St.,64,Bellarmine,51,Bellarmine,13
+11/21/2023,Midway,56,Bellarmine,77,Bellarmine,-21
+12/04/2023,Boyce,54,Bellarmine,88,Bellarmine,-34
+12/07/2023,Berea,59,Bellarmine,98,Bellarmine,-39
+12/16/2023,Evansville,70,Bellarmine,61,Bellarmine,9
+11/06/2023,Georgia St.,87,Belmont,89,Belmont,-2
+11/14/2023,Berry,59,Belmont,93,Belmont,-34
+11/24/2023,Monmouth,93,Belmont,84,Belmont,9
+12/02/2023,Valparaiso,68,Belmont,77,Belmont,-9
+12/06/2023,Lipscomb,71,Belmont,72,Belmont,-1
+12/20/2023,Arkansas St.,70,Belmont,74,Belmont,-4
+11/10/2023,Trinity FL,46,Bethune Cookman,113,Bethune Cookman,-67
+11/15/2023,Trinity Baptist,63,Bethune Cookman,104,Bethune Cookman,-41
+11/20/2023,Charleston Southern,73,Bethune Cookman,79,Bethune Cookman,-6
+11/25/2023,Delaware St.,72,Bethune Cookman,64,Bethune Cookman,8
+12/01/2023,Incarnate Word,82,Bethune Cookman,96,Bethune Cookman,-14
+11/12/2023,Keystone,50,Binghamton,104,Binghamton,-54
+11/18/2023,Marist,59,Binghamton,82,Binghamton,-23
+11/25/2023,Army,68,Binghamton,75,Binghamton,-7
+12/09/2023,Le Moyne,79,Binghamton,91,Binghamton,-12
+12/19/2023,Niagara,69,Binghamton,74,Binghamton,-5
+12/30/2023,Marywood,52,Binghamton,108,Binghamton,-56
+11/07/2023,Vanguard,55,Boise St.,89,Boise St.,-34
+11/12/2023,San Francisco,58,Boise St.,63,Boise St.,-5
+11/24/2023,VCU,61,Boise St.,65,Boise St.,-4
+11/26/2023,Butler,70,Boise St.,56,Boise St.,14
+12/01/2023,Saint Mary's,60,Boise St.,63,Boise St.,-3
+12/05/2023,North Texas,64,Boise St.,69,Boise St.,-5
+12/09/2023,Western Oregon,70,Boise St.,109,Boise St.,-39
+12/12/2023,Northwestern St.,54,Boise St.,95,Boise St.,-41
+12/17/2023,Cal St. Fullerton,65,Boise St.,88,Boise St.,-23
+12/29/2023,Utah Valley,63,Boise St.,85,Boise St.,-22
+11/06/2023,Fairfield,70,Boston College,89,Boston College,-19
+11/15/2023,Richmond,61,Boston College,68,Boston College,-7
+11/18/2023,Harvard,64,Boston College,73,Boston College,-9
+12/02/2023,N.C. State,84,Boston College,78,Boston College,6
+12/05/2023,Central Connecticut,68,Boston College,82,Boston College,-14
+12/08/2023,Holy Cross,64,Boston College,95,Boston College,-31
+12/21/2023,Lehigh,69,Boston College,85,Boston College,-16
+11/16/2023,Bryant,79,Boston University,95,Boston University,-16
+11/26/2023,Northern Vermont   Joh,49,Boston University,90,Boston University,-41
+12/06/2023,Maine,74,Boston University,65,Boston University,9
+12/22/2023,UMass Lowell,71,Boston University,63,Boston University,8
+12/30/2023,Merrimack,63,Boston University,74,Boston University,-11
+11/06/2023,Chicago St.,41,Bowling Green,70,Bowling Green,-29
+11/11/2023,Arkansas St.,75,Bowling Green,81,Bowling Green,-6
+11/17/2023,Bellarmine,85,Bowling Green,67,Bowling Green,18
+11/24/2023,Western Kentucky,72,Bowling Green,65,Bowling Green,7
+11/25/2023,Lipscomb,61,Bowling Green,82,Bowling Green,-21
+11/26/2023,Canisius,73,Bowling Green,77,Bowling Green,-4
+12/10/2023,Ohio Dominican,49,Bowling Green,97,Bowling Green,-48
+12/16/2023,UMKC,69,Bowling Green,79,Bowling Green,-10
+12/19/2023,Hampton,65,Bowling Green,75,Bowling Green,-10
+12/22/2023,Siena Heights,58,Bowling Green,79,Bowling Green,-21
+11/11/2023,Utah St.,66,Bradley,72,Bradley,-6
+11/14/2023,Tarleton St.,63,Bradley,86,Bradley,-23
+11/25/2023,Vermont,70,Bradley,79,Bradley,-9
+12/02/2023,Indiana St.,85,Bradley,77,Bradley,8
+12/15/2023,Cleveland St.,76,Bradley,69,Bradley,7
+12/21/2023,SIU Edwardsville,64,Bradley,75,Bradley,-11
+12/28/2023,Truman St.,47,Bradley,69,Bradley,-22
+11/11/2023,Loyola MD,77,Brown,75,Brown,2
+11/16/2023,Rhode Island College,51,Brown,92,Brown,-41
+11/25/2023,UMKC,83,Brown,93,Brown,-10
+12/01/2023,Bryant,69,Brown,66,Brown,3
+12/22/2023,Siena,67,Brown,71,Brown,-4
+11/06/2023,Manhattan,61,Bryant,59,Bryant,2
+11/08/2023,Fisher,79,Bryant,140,Bryant,-61
+11/20/2023,Howard,61,Bryant,67,Bryant,-6
+11/27/2023,Springfield,74,Bryant,108,Bryant,-34
+12/16/2023,Towson,93,Bryant,101,Bryant,-8
+12/22/2023,Drexel,86,Bryant,104,Bryant,-18
+11/06/2023,Delaware,78,Bucknell,57,Bucknell,21
+11/20/2023,Southern Indiana,56,Bucknell,67,Bucknell,-11
+11/29/2023,Princeton,85,Bucknell,71,Bucknell,14
+12/16/2023,Radford,70,Bucknell,63,Bucknell,7
+12/30/2023,Saint Peter's,67,Bucknell,58,Bucknell,9
+11/06/2023,Fairleigh Dickinson,92,Buffalo,86,Buffalo,6
+11/11/2023,South Alabama,70,Buffalo,56,Buffalo,14
+11/15/2023,Roberts Wesleyan,83,Buffalo,89,Buffalo,-6
+11/20/2023,Hofstra,102,Buffalo,68,Buffalo,34
+11/21/2023,Louisiana,68,Buffalo,60,Buffalo,8
+11/22/2023,Iona,89,Buffalo,64,Buffalo,25
+12/02/2023,St. Bonaventure,80,Buffalo,65,Buffalo,15
+12/09/2023,Western Kentucky,82,Buffalo,65,Buffalo,17
+12/29/2023,Niagara,69,Buffalo,63,Buffalo,6
+11/06/2023,Eastern Michigan,55,Butler,94,Butler,-39
+11/10/2023,Southeast Missouri St.,56,Butler,91,Butler,-35
+11/13/2023,East Tennessee St.,47,Butler,81,Butler,-34
+11/23/2023,Florida Atlantic,91,Butler,86,Butler,5
+11/24/2023,Penn St.,78,Butler,88,Butler,-10
+11/30/2023,Texas Tech,95,Butler,103,Butler,-8
+12/05/2023,Buffalo,59,Butler,72,Butler,-13
+12/09/2023,California,90,Butler,97,Butler,-7
+12/15/2023,Saginaw Valley St.,70,Butler,96,Butler,-26
+12/19/2023,Georgetown,64,Butler,74,Butler,-10
+11/06/2023,San Francisco St.,57,Cal Baptist,74,Cal Baptist,-17
+11/10/2023,Jackson St.,66,Cal Baptist,80,Cal Baptist,-14
+11/17/2023,Portland St.,66,Cal Baptist,63,Cal Baptist,3
+11/18/2023,St. Thomas,62,Cal Baptist,66,Cal Baptist,-4
+11/19/2023,Cal Poly,58,Cal Baptist,67,Cal Baptist,-9
+11/25/2023,Vanguard,59,Cal Baptist,69,Cal Baptist,-10
+12/06/2023,Utah Tech,72,Cal Baptist,69,Cal Baptist,3
+12/19/2023,Western Kentucky,73,Cal Baptist,70,Cal Baptist,3
+12/27/2023,Chicago St.,62,Cal Baptist,74,Cal Baptist,-12
+11/06/2023,La Verne,62,Cal Poly,80,Cal Poly,-18
+11/17/2023,St. Thomas,60,Cal Poly,61,Cal Poly,-1
+11/18/2023,Portland St.,73,Cal Poly,57,Cal Poly,16
+11/29/2023,San Jose St.,77,Cal Poly,81,Cal Poly,-4
+12/18/2023,Eastern Washington,62,Cal Poly,53,Cal Poly,9
+12/21/2023,Nebraska Omaha,53,Cal Poly,66,Cal Poly,-13
+12/28/2023,Cal St. Northridge,83,Cal Poly,73,Cal Poly,10
+11/06/2023,Southern Utah,72,Cal St. Bakersfield,73,Cal St. Bakersfield,-1
+11/16/2023,Saint Katherine,44,Cal St. Bakersfield,77,Cal St. Bakersfield,-33
+12/05/2023,Whittier,58,Cal St. Bakersfield,106,Cal St. Bakersfield,-48
+12/19/2023,South Dakota,76,Cal St. Bakersfield,96,Cal St. Bakersfield,-20
+12/30/2023,UC Irvine,75,Cal St. Bakersfield,56,Cal St. Bakersfield,19
+11/11/2023,La Sierra,48,Cal St. Fullerton,78,Cal St. Fullerton,-30
+11/20/2023,Southern Miss,67,Cal St. Fullerton,74,Cal St. Fullerton,-7
+12/01/2023,North Dakota,54,Cal St. Fullerton,64,Cal St. Fullerton,-10
+12/03/2023,Stanton,52,Cal St. Fullerton,102,Cal St. Fullerton,-50
+12/20/2023,Pacific,56,Cal St. Fullerton,67,Cal St. Fullerton,-11
+12/28/2023,Long Beach St.,81,Cal St. Fullerton,71,Cal St. Fullerton,10
+11/17/2023,Life Pacific,67,Cal St. Northridge,98,Cal St. Northridge,-31
+11/21/2023,Le Moyne,80,Cal St. Northridge,70,Cal St. Northridge,10
+11/24/2023,Mississippi Valley St.,48,Cal St. Northridge,84,Cal St. Northridge,-36
+12/07/2023,Bethesda,54,Cal St. Northridge,92,Cal St. Northridge,-38
+12/11/2023,Utah Tech,75,Cal St. Northridge,80,Cal St. Northridge,-5
+12/22/2023,Montana St.,70,Cal St. Northridge,82,Cal St. Northridge,-12
+11/06/2023,St. Thomas,66,California,71,California,-5
+11/10/2023,Pacific,87,California,79,California,8
+11/13/2023,Cal St. Bakersfield,63,California,83,California,-20
+11/16/2023,Montana St.,63,California,60,California,3
+11/20/2023,UTEP,75,California,72,California,3
+11/22/2023,Tulane,84,California,81,California,3
+12/02/2023,Santa Clara,69,California,84,California,-15
+12/20/2023,UC San Diego,67,California,71,California,-4
+12/29/2023,Arizona,100,California,81,California,19
+12/31/2023,Arizona St.,71,California,69,California,2
+11/06/2023,Navy,48,Campbell,59,Campbell,-11
+11/20/2023,North Carolina Central,78,Campbell,75,Campbell,3
+11/21/2023,Idaho St.,69,Campbell,55,Campbell,14
+11/22/2023,The Citadel,58,Campbell,65,Campbell,-7
+12/02/2023,Southern Virginia,56,Campbell,87,Campbell,-31
+12/12/2023,Pfeiffer,59,Campbell,88,Campbell,-29
+12/14/2023,St. Augustine,48,Campbell,97,Campbell,-49
+12/18/2023,Morgan St.,76,Campbell,83,Campbell,-7
+11/20/2023,D'Youville,69,Canisius,109,Canisius,-40
+12/01/2023,Quinnipiac,73,Canisius,93,Canisius,-20
+12/03/2023,Saint Peter's,54,Canisius,52,Canisius,2
+12/06/2023,Robert Morris,80,Canisius,87,Canisius,-7
+11/10/2023,Hendrix,39,Central Arkansas,82,Central Arkansas,-43
+11/13/2023,Arkansas Pine Bluff,85,Central Arkansas,83,Central Arkansas,2
+11/25/2023,Eastern Michigan,74,Central Arkansas,71,Central Arkansas,3
+11/26/2023,New Orleans,79,Central Arkansas,74,Central Arkansas,5
+12/07/2023,Little Rock,71,Central Arkansas,75,Central Arkansas,-4
+12/20/2023,Western Illinois,65,Central Arkansas,54,Central Arkansas,11
+11/13/2023,Framingham St.,42,Central Connecticut,99,Central Connecticut,-57
+11/19/2023,Manhattan,67,Central Connecticut,63,Central Connecticut,4
+12/02/2023,Holy Cross,67,Central Connecticut,78,Central Connecticut,-11
+12/19/2023,Northeastern,79,Central Connecticut,74,Central Connecticut,5
+12/30/2023,Saint Elizabeth,38,Central Connecticut,99,Central Connecticut,-61
+11/11/2023,Louisiana Monroe,74,Central Michigan,64,Central Michigan,10
+11/20/2023,Siena,56,Central Michigan,70,Central Michigan,-14
+12/06/2023,Valparaiso,67,Central Michigan,71,Central Michigan,-4
+12/19/2023,Davenport,66,Central Michigan,90,Central Michigan,-24
+12/21/2023,Detroit Mercy,63,Central Michigan,75,Central Michigan,-12
+11/20/2023,Kansas,83,Chaminade,56,Chaminade,27
+11/21/2023,UCLA,76,Chaminade,48,Chaminade,28
+11/22/2023,Syracuse,105,Chaminade,56,Chaminade,49
+11/06/2023,Iona,69,Charleston,71,Charleston,-2
+11/10/2023,Duquesne,90,Charleston,72,Charleston,18
+12/01/2023,Liberty,67,Charleston,76,Charleston,-9
+12/10/2023,Rhode Island,70,Charleston,85,Charleston,-15
+12/14/2023,The Citadel,71,Charleston,86,Charleston,-15
+12/18/2023,Coastal Carolina,81,Charleston,84,Charleston,-3
+12/21/2023,Saint Joseph's,82,Charleston,89,Charleston,-7
+12/29/2023,Montreat,59,Charleston,96,Charleston,-37
+11/06/2023,Toccoa Falls,59,Charleston Southern,94,Charleston Southern,-35
+11/09/2023,North Florida,81,Charleston Southern,70,Charleston Southern,11
+11/13/2023,Johnson & Wales NC,61,Charleston Southern,102,Charleston Southern,-41
+12/02/2023,South Carolina St.,64,Charleston Southern,66,Charleston Southern,-2
+12/13/2023,North Alabama,76,Charleston Southern,64,Charleston Southern,12
+12/21/2023,Kentucky Christian,79,Charleston Southern,103,Charleston Southern,-24
+11/06/2023,Maine,52,Charlotte,69,Charlotte,-17
+11/10/2023,Liberty,71,Charlotte,59,Charlotte,12
+11/15/2023,Utah Valley,45,Charlotte,62,Charlotte,-17
+11/19/2023,George Mason,49,Charlotte,54,Charlotte,-5
+11/25/2023,Georgia St.,57,Charlotte,65,Charlotte,-8
+11/29/2023,Davidson,85,Charlotte,81,Charlotte,4
+12/05/2023,Stetson,62,Charlotte,85,Charlotte,-23
+12/22/2023,Greensboro,44,Charlotte,91,Charlotte,-47
+11/06/2023,Covenant,44,Chattanooga,89,Chattanooga,-45
+11/14/2023,Bellarmine,64,Chattanooga,72,Chattanooga,-8
+11/19/2023,Tennessee Tech,63,Chattanooga,68,Chattanooga,-5
+11/24/2023,Evansville,85,Chattanooga,77,Chattanooga,8
+11/26/2023,Southeast Missouri St.,56,Chattanooga,72,Chattanooga,-16
+12/10/2023,Tennessee Wesleyan,51,Chattanooga,112,Chattanooga,-61
+12/19/2023,Gardner Webb,66,Chattanooga,69,Chattanooga,-3
+11/09/2023,Mercer,66,Chicago St.,61,Chicago St.,5
+11/14/2023,Cal St. Northridge,74,Chicago St.,64,Chicago St.,10
+11/22/2023,Morgan St.,83,Chicago St.,84,Chicago St.,-1
+11/25/2023,Tennessee Martin,94,Chicago St.,71,Chicago St.,23
+11/30/2023,Delaware St.,76,Chicago St.,69,Chicago St.,7
+12/03/2023,Stetson,54,Chicago St.,77,Chicago St.,-23
+12/10/2023,St. Thomas,66,Chicago St.,50,Chicago St.,16
+12/18/2023,UT Rio Grande Valley,68,Chicago St.,78,Chicago St.,-10
+12/20/2023,Bethune Cookman,54,Chicago St.,55,Chicago St.,-1
+11/06/2023,Illinois Chicago,58,Cincinnati,69,Cincinnati,-11
+11/10/2023,Detroit Mercy,61,Cincinnati,93,Cincinnati,-32
+11/12/2023,Eastern Washington,73,Cincinnati,85,Cincinnati,-12
+11/19/2023,Northern Kentucky,66,Cincinnati,90,Cincinnati,-24
+11/22/2023,Georgia Tech,54,Cincinnati,89,Cincinnati,-35
+12/03/2023,Florida Gulf Coast,62,Cincinnati,99,Cincinnati,-37
+12/12/2023,Bryant,53,Cincinnati,85,Cincinnati,-32
+12/16/2023,Dayton,82,Cincinnati,68,Cincinnati,14
+12/19/2023,Merrimack,49,Cincinnati,65,Cincinnati,-16
+12/22/2023,Stetson,75,Cincinnati,83,Cincinnati,-8
+12/29/2023,Evansville,58,Cincinnati,76,Cincinnati,-18
+11/06/2023,Winthrop,56,Clemson,78,Clemson,-22
+11/12/2023,Davidson,65,Clemson,68,Clemson,-3
+11/19/2023,Boise St.,68,Clemson,85,Clemson,-17
+11/24/2023,Alcorn St.,69,Clemson,90,Clemson,-21
+12/06/2023,South Carolina,67,Clemson,72,Clemson,-5
+12/09/2023,TCU,66,Clemson,74,Clemson,-8
+12/22/2023,Queens,79,Clemson,109,Clemson,-30
+12/29/2023,Radford,58,Clemson,93,Clemson,-35
+11/08/2023,Defiance,41,Cleveland St.,102,Cleveland St.,-61
+11/11/2023,Ohio,78,Cleveland St.,82,Cleveland St.,-4
+11/15/2023,Canisius,61,Cleveland St.,71,Cleveland St.,-10
+11/22/2023,East Tennessee St.,70,Cleveland St.,72,Cleveland St.,-2
+11/25/2023,Alabama A&M,59,Cleveland St.,86,Cleveland St.,-27
+12/02/2023,Detroit Mercy,58,Cleveland St.,69,Cleveland St.,-11
+12/21/2023,Western Michigan,77,Cleveland St.,90,Cleveland St.,-13
+12/28/2023,Oakland,67,Cleveland St.,75,Cleveland St.,-8
+11/06/2023,Piedmont,86,Coastal Carolina,88,Coastal Carolina,-2
+11/16/2023,Wichita St.,86,Coastal Carolina,77,Coastal Carolina,9
+11/17/2023,Furman,89,Coastal Carolina,80,Coastal Carolina,9
+11/19/2023,Charleston,80,Coastal Carolina,72,Coastal Carolina,8
+11/26/2023,North Carolina Central,70,Coastal Carolina,58,Coastal Carolina,12
+11/29/2023,USC Upstate,70,Coastal Carolina,72,Coastal Carolina,-2
+12/02/2023,Winthrop,90,Coastal Carolina,87,Coastal Carolina,3
+12/04/2023,St. Andrews Pres.,46,Coastal Carolina,110,Coastal Carolina,-64
+12/09/2023,Wofford,88,Coastal Carolina,80,Coastal Carolina,8
+12/21/2023,North Carolina A&T,85,Coastal Carolina,82,Coastal Carolina,3
+12/30/2023,Troy,72,Coastal Carolina,65,Coastal Carolina,7
+11/06/2023,Brown,70,Colgate,72,Colgate,-2
+11/18/2023,Gardner Webb,52,Colgate,59,Colgate,-7
+11/22/2023,Harvard,76,Colgate,70,Colgate,6
+11/29/2023,Binghamton,49,Colgate,84,Colgate,-35
+12/06/2023,Vermont St.,37,Colgate,115,Colgate,-78
+11/06/2023,Towson,57,Colorado,75,Colorado,-18
+11/10/2023,Grambling St.,63,Colorado,95,Colorado,-32
+11/14/2023,Milwaukee,79,Colorado,106,Colorado,-27
+11/21/2023,Florida St.,77,Colorado,71,Colorado,6
+11/26/2023,Iona,68,Colorado,85,Colorado,-17
+12/03/2023,Pepperdine,66,Colorado,91,Colorado,-25
+12/15/2023,Northern Colorado,68,Colorado,90,Colorado,-22
+12/21/2023,Utah Tech,71,Colorado,98,Colorado,-27
+12/29/2023,Washington,69,Colorado,73,Colorado,-4
+12/31/2023,Washington St.,67,Colorado,74,Colorado,-7
+11/06/2023,Louisiana Tech,73,Colorado St.,81,Colorado St.,-8
+11/10/2023,Wright St.,77,Colorado St.,105,Colorado St.,-28
+11/17/2023,UMKC,61,Colorado St.,84,Colorado St.,-23
+11/22/2023,Boston College,74,Colorado St.,86,Colorado St.,-12
+11/29/2023,Colorado,83,Colorado St.,88,Colorado St.,-5
+12/06/2023,Denver,80,Colorado St.,90,Colorado St.,-10
+12/09/2023,Saint Mary's,64,Colorado St.,61,Colorado St.,3
+12/17/2023,CSU Pueblo,54,Colorado St.,86,Colorado St.,-32
+12/29/2023,Adams St.,61,Colorado St.,106,Colorado St.,-45
+11/11/2023,Albany,78,Columbia,75,Columbia,3
+11/12/2023,Bard,36,Columbia,86,Columbia,-50
+11/15/2023,SUNY Delhi,60,Columbia,105,Columbia,-45
+11/21/2023,LIU,67,Columbia,77,Columbia,-10
+11/25/2023,Maine,56,Columbia,75,Columbia,-19
+11/29/2023,Loyola MD,57,Columbia,69,Columbia,-12
+12/05/2023,Lafayette,72,Columbia,83,Columbia,-11
+11/06/2023,Northern Arizona,52,Connecticut,95,Connecticut,-43
+11/11/2023,Stonehill,67,Connecticut,107,Connecticut,-40
+11/14/2023,Mississippi Valley St.,53,Connecticut,87,Connecticut,-34
+11/24/2023,Manhattan,60,Connecticut,90,Connecticut,-30
+11/27/2023,New Hampshire,64,Connecticut,84,Connecticut,-20
+12/09/2023,Arkansas Pine Bluff,63,Connecticut,101,Connecticut,-38
+12/23/2023,St. John's,65,Connecticut,69,Connecticut,-4
+11/09/2023,Towson,70,Coppin St.,49,Coppin St.,21
+11/30/2023,UMBC,70,Coppin St.,89,Coppin St.,-19
+12/06/2023,Wagner,62,Coppin St.,59,Coppin St.,3
+11/08/2023,Morrisville St.,86,Cornell,107,Cornell,-21
+11/19/2023,Cal St. Fullerton,70,Cornell,88,Cornell,-18
+11/20/2023,Utah Valley,61,Cornell,74,Cornell,-13
+11/29/2023,Monmouth,87,Cornell,91,Cornell,-4
+12/30/2023,Colgate,64,Cornell,77,Cornell,-13
+11/07/2023,Florida A&M,54,Creighton,105,Creighton,-51
+11/11/2023,North Dakota St.,60,Creighton,89,Creighton,-29
+11/14/2023,Iowa,84,Creighton,92,Creighton,-8
+11/18/2023,Texas Southern,50,Creighton,82,Creighton,-32
+11/23/2023,Colorado St.,69,Creighton,48,Creighton,21
+12/09/2023,Central Michigan,64,Creighton,109,Creighton,-45
+12/16/2023,Alabama,82,Creighton,85,Creighton,-3
+12/20/2023,Villanova,68,Creighton,66,Creighton,2
+11/10/2023,UMass Lowell,81,Dartmouth,48,Dartmouth,33
+11/15/2023,Westfield St.,61,Dartmouth,79,Dartmouth,-18
+12/06/2023,New Hampshire,64,Dartmouth,76,Dartmouth,-12
+12/09/2023,Marist,63,Dartmouth,53,Dartmouth,10
+12/13/2023,Boston University,56,Dartmouth,63,Dartmouth,-7
+12/18/2023,Thomas,48,Dartmouth,77,Dartmouth,-29
+11/06/2023,Washington & Lee,63,Davidson,86,Davidson,-23
+11/21/2023,Boston University,45,Davidson,69,Davidson,-24
+12/02/2023,Wright St.,73,Davidson,82,Davidson,-9
+12/06/2023,Campbell,50,Davidson,62,Davidson,-12
+12/09/2023,Miami OH,61,Davidson,79,Davidson,-18
+12/16/2023,Lynchburg,63,Davidson,98,Davidson,-35
+12/21/2023,USC Upstate,59,Davidson,62,Davidson,-3
+11/06/2023,SIU Edwardsville,47,Dayton,63,Dayton,-16
+11/17/2023,St. John's,81,Dayton,88,Dayton,-7
+11/24/2023,Youngstown St.,69,Dayton,77,Dayton,-8
+12/02/2023,Grambling St.,46,Dayton,76,Dayton,-30
+12/09/2023,Troy,70,Dayton,82,Dayton,-12
+12/20/2023,Oakland,67,Dayton,91,Dayton,-24
+12/30/2023,Longwood,69,Dayton,78,Dayton,-9
+11/07/2023,Purdue Fort Wayne,82,DePaul,74,DePaul,8
+11/11/2023,Long Beach St.,77,DePaul,73,DePaul,4
+11/14/2023,South Dakota,60,DePaul,72,DePaul,-12
+11/19/2023,San Francisco,70,DePaul,54,DePaul,16
+11/25/2023,Northern Illinois,89,DePaul,79,DePaul,10
+12/01/2023,Iowa St.,99,DePaul,80,DePaul,19
+12/09/2023,Louisville,68,DePaul,75,DePaul,-7
+12/16/2023,Northwestern,56,DePaul,46,DePaul,10
+12/23/2023,Villanova,84,DePaul,48,DePaul,36
+12/30/2023,Chicago St.,58,DePaul,70,DePaul,-12
+11/08/2023,Goldey Beacom,68,Delaware,101,Delaware,-33
+11/12/2023,Air Force,57,Delaware,65,Delaware,-8
+11/24/2023,Brown,59,Delaware,67,Delaware,-8
+11/25/2023,UNC Greensboro,88,Delaware,77,Delaware,11
+12/20/2023,Rider,88,Delaware,85,Delaware,3
+12/30/2023,Princeton,84,Delaware,82,Delaware,2
+11/15/2023,Delaware,78,Delaware St.,67,Delaware St.,11
+12/05/2023,Gwynedd Mercy,58,Delaware St.,105,Delaware St.,-47
+12/07/2023,Virginia Lynchburg,73,Delaware St.,106,Delaware St.,-33
+12/09/2023,Longwood,62,Delaware St.,61,Delaware St.,1
+12/30/2023,Mount St. Mary's,73,Delaware St.,77,Delaware St.,-4
+11/09/2023,Cal Poly,76,Denver,97,Denver,-21
+11/22/2023,Colorado Christian,68,Denver,100,Denver,-32
+12/02/2023,Colorado College,66,Denver,90,Denver,-24
+12/18/2023,Adams St.,83,Denver,89,Denver,-6
+12/20/2023,Northern New Mexico,57,Denver,90,Denver,-33
+12/31/2023,Oral Roberts,89,Denver,86,Denver,3
+11/21/2023,Eastern Michigan,76,Detroit Mercy,72,Detroit Mercy,4
+11/29/2023,Oakland,65,Detroit Mercy,50,Detroit Mercy,15
+12/06/2023,Ball St.,68,Detroit Mercy,65,Detroit Mercy,3
+11/08/2023,Lipscomb,70,Drake,85,Drake,-15
+11/14/2023,SW Minnesota St.,67,Drake,87,Drake,-20
+11/19/2023,Oakland,77,Drake,85,Drake,-8
+11/25/2023,Texas Southern,71,Drake,77,Drake,-6
+12/02/2023,Missouri St.,57,Drake,74,Drake,-17
+12/06/2023,Saint Louis,69,Drake,75,Drake,-6
+12/14/2023,Grambling St.,56,Drake,68,Drake,-12
+12/19/2023,Alcorn St.,55,Drake,92,Drake,-37
+11/14/2023,Temple,66,Drexel,64,Drexel,2
+11/17/2023,Fairfield,47,Drexel,65,Drexel,-18
+11/19/2023,Queens,52,Drexel,62,Drexel,-10
+12/16/2023,Albany,52,Drexel,71,Drexel,-19
+12/18/2023,Penn State Allegheny,49,Drexel,117,Drexel,-68
+11/06/2023,Dartmouth,54,Duke,92,Duke,-38
+11/10/2023,Arizona,78,Duke,73,Duke,5
+11/17/2023,Bucknell,60,Duke,90,Duke,-30
+11/21/2023,La Salle,66,Duke,95,Duke,-29
+11/24/2023,Southern Indiana,62,Duke,80,Duke,-18
+12/09/2023,Charlotte,56,Duke,80,Duke,-24
+12/12/2023,Hofstra,68,Duke,89,Duke,-21
+12/20/2023,Baylor,70,Duke,78,Duke,-8
+12/30/2023,Queens,69,Duke,106,Duke,-37
+11/06/2023,Cleveland St.,77,Duquesne,79,Duquesne,-2
+11/13/2023,Stony Brook,63,Duquesne,85,Duquesne,-22
+11/15/2023,Princeton,70,Duquesne,67,Duquesne,3
+11/17/2023,Rider,58,Duquesne,77,Duquesne,-19
+11/29/2023,UC Irvine,62,Duquesne,66,Duquesne,-4
+12/08/2023,Saint Peter's,59,Duquesne,68,Duquesne,-9
+12/18/2023,Bradley,67,Duquesne,69,Duquesne,-2
+12/30/2023,Cleary,47,Duquesne,95,Duquesne,-48
+11/06/2023,Ferrum,61,East Carolina,91,East Carolina,-30
+11/11/2023,Campbell,63,East Carolina,77,East Carolina,-14
+11/15/2023,USC Upstate,83,East Carolina,81,East Carolina,2
+11/19/2023,Northeastern,82,East Carolina,76,East Carolina,6
+11/20/2023,Georgia Southern,64,East Carolina,82,East Carolina,-18
+11/21/2023,Kennesaw St.,84,East Carolina,85,East Carolina,-1
+11/30/2023,UNC Wilmington,66,East Carolina,74,East Carolina,-8
+12/04/2023,Maryland Eastern Shore,52,East Carolina,63,East Carolina,-11
+12/09/2023,South Carolina,68,East Carolina,62,East Carolina,6
+12/20/2023,Delaware St.,50,East Carolina,79,East Carolina,-29
+12/29/2023,East Tennessee St.,86,East Carolina,70,East Carolina,16
+11/06/2023,King,56,East Tennessee St.,73,East Tennessee St.,-17
+11/17/2023,Davidson,68,East Tennessee St.,70,East Tennessee St.,-2
+11/24/2023,Alabama A&M,71,East Tennessee St.,82,East Tennessee St.,-11
+12/10/2023,Tennessee Tech,72,East Tennessee St.,73,East Tennessee St.,-1
+12/15/2023,Tusculum,43,East Tennessee St.,105,East Tennessee St.,-62
+12/20/2023,UMKC,57,East Tennessee St.,70,East Tennessee St.,-13
+11/08/2023,Monmouth IL,45,Eastern Illinois,91,Eastern Illinois,-46
+11/18/2023,Coppin St.,46,Eastern Illinois,48,Eastern Illinois,-2
+11/25/2023,Eureka,39,Eastern Illinois,85,Eastern Illinois,-46
+12/02/2023,St. Louis Pharmacy,50,Eastern Illinois,112,Eastern Illinois,-62
+12/07/2023,IUPUI,58,Eastern Illinois,75,Eastern Illinois,-17
+12/10/2023,Central Arkansas,73,Eastern Illinois,70,Eastern Illinois,3
+12/17/2023,Blackburn,66,Eastern Illinois,87,Eastern Illinois,-21
+11/07/2023,West Virginia Tech,72,Eastern Kentucky,108,Eastern Kentucky,-36
+11/10/2023,Wilberforce,75,Eastern Kentucky,133,Eastern Kentucky,-58
+11/17/2023,Tennessee Martin,80,Eastern Kentucky,74,Eastern Kentucky,6
+11/21/2023,Prairie View A&M,76,Eastern Kentucky,64,Eastern Kentucky,12
+11/27/2023,Troy,76,Eastern Kentucky,77,Eastern Kentucky,-1
+12/10/2023,Bethany WV,56,Eastern Kentucky,121,Eastern Kentucky,-65
+12/17/2023,Northern Kentucky,85,Eastern Kentucky,75,Eastern Kentucky,10
+11/11/2023,Georgia Southern,60,Eastern Michigan,70,Eastern Michigan,-10
+11/18/2023,Cleveland St.,62,Eastern Michigan,69,Eastern Michigan,-7
+11/26/2023,North Dakota,72,Eastern Michigan,70,Eastern Michigan,2
+12/01/2023,Lake Superior St.,53,Eastern Michigan,68,Eastern Michigan,-15
+12/08/2023,Oakland,77,Eastern Michigan,63,Eastern Michigan,14
+12/21/2023,Hampton,69,Eastern Michigan,72,Eastern Michigan,-3
+12/30/2023,Northwood MI,64,Eastern Michigan,67,Eastern Michigan,-3
+11/22/2023,Walla Walla,46,Eastern Washington,97,Eastern Washington,-51
+12/13/2023,Portland Bible,34,Eastern Washington,103,Eastern Washington,-69
+12/28/2023,Portland St.,57,Eastern Washington,91,Eastern Washington,-34
+12/30/2023,Sacramento St.,61,Eastern Washington,87,Eastern Washington,-26
+11/09/2023,East Tennessee St.,76,Elon,79,Elon,-3
+11/27/2023,Presbyterian,79,Elon,82,Elon,-3
+11/30/2023,Warren Wilson,56,Elon,127,Elon,-71
+12/15/2023,Bridgewater VA,70,Elon,104,Elon,-34
+12/29/2023,Valparaiso,78,Elon,82,Elon,-4
+11/06/2023,Miami OH,64,Evansville,72,Evansville,-8
+11/09/2023,St. Louis Pharmacy,46,Evansville,116,Evansville,-70
+11/18/2023,Ball St.,50,Evansville,74,Evansville,-24
+12/02/2023,Northern Iowa,89,Evansville,91,Evansville,-2
+12/18/2023,Tennessee Martin,91,Evansville,98,Evansville,-7
+12/20/2023,Tennessee Tech,51,Evansville,82,Evansville,-31
+11/09/2023,Tarleton St.,82,FIU,65,FIU,17
+11/20/2023,Marshall,80,FIU,69,FIU,11
+11/21/2023,Loyola Marymount,61,FIU,60,FIU,1
+11/26/2023,Kennesaw St.,84,FIU,91,FIU,-7
+11/29/2023,Florida Gulf Coast,68,FIU,65,FIU,3
+12/02/2023,LIU,59,FIU,74,FIU,-15
+12/16/2023,Trinity FL,55,FIU,146,FIU,-91
+12/19/2023,Stetson,80,FIU,68,FIU,12
+12/21/2023,Maine,74,FIU,82,FIU,-8
+11/13/2023,Mount Saint Mary,45,Fairfield,92,Fairfield,-47
+11/18/2023,Queens,69,Fairfield,63,Fairfield,6
+11/24/2023,New Hampshire,83,Fairfield,80,Fairfield,3
+12/01/2023,Iona,78,Fairfield,67,Fairfield,11
+12/17/2023,Wagner,51,Fairfield,63,Fairfield,-12
+12/30/2023,Le Moyne,72,Fairfield,78,Fairfield,-6
+11/08/2023,Penn State Brandywine,63,Fairleigh Dickinson,107,Fairleigh Dickinson,-44
+11/15/2023,Saint Peter's,70,Fairleigh Dickinson,71,Fairleigh Dickinson,-1
+11/18/2023,Penn State Schuylkill,66,Fairleigh Dickinson,124,Fairleigh Dickinson,-58
+11/25/2023,Jacksonville,91,Fairleigh Dickinson,90,Fairleigh Dickinson,1
+12/11/2023,Columbia,87,Fairleigh Dickinson,83,Fairleigh Dickinson,4
+12/21/2023,Fairfield,92,Fairleigh Dickinson,69,Fairleigh Dickinson,23
+11/06/2023,Loyola MD,73,Florida,93,Florida,-20
+11/10/2023,Virginia,73,Florida,70,Florida,3
+11/14/2023,Florida A&M,68,Florida,89,Florida,-21
+11/17/2023,Florida St.,68,Florida,89,Florida,-21
+11/24/2023,Baylor,95,Florida,91,Florida,4
+12/05/2023,Merrimack,57,Florida,77,Florida,-20
+12/09/2023,Richmond,76,Florida,87,Florida,-11
+12/14/2023,East Carolina,65,Florida,70,Florida,-5
+12/22/2023,Grambling St.,57,Florida,96,Florida,-39
+12/30/2023,Quinnipiac,72,Florida,97,Florida,-25
+11/20/2023,Oregon,67,Florida A&M,54,Florida A&M,13
+11/29/2023,Albany St.,92,Florida A&M,85,Florida A&M,7
+12/09/2023,LeMoyne Owen,78,Florida A&M,108,Florida A&M,-30
+11/14/2023,Eastern Michigan,57,Florida Atlantic,100,Florida Atlantic,-43
+11/18/2023,Bryant,61,Florida Atlantic,52,Florida Atlantic,9
+11/24/2023,Texas A&M,89,Florida Atlantic,96,Florida Atlantic,-7
+11/30/2023,Liberty,58,Florida Atlantic,83,Florida Atlantic,-25
+12/02/2023,Charleston,74,Florida Atlantic,90,Florida Atlantic,-16
+12/13/2023,FIU,60,Florida Atlantic,94,Florida Atlantic,-34
+11/10/2023,Ave Maria,71,Florida Gulf Coast,80,Florida Gulf Coast,-9
+11/17/2023,Missouri St.,70,Florida Gulf Coast,61,Florida Gulf Coast,9
+11/18/2023,Hampton,92,Florida Gulf Coast,85,Florida Gulf Coast,7
+11/20/2023,Norfolk St.,69,Florida Gulf Coast,66,Florida Gulf Coast,3
+11/25/2023,UNC Wilmington,71,Florida Gulf Coast,55,Florida Gulf Coast,16
+12/05/2023,New College of Florida,54,Florida Gulf Coast,87,Florida Gulf Coast,-33
+12/22/2023,Florida Memorial,75,Florida Gulf Coast,78,Florida Gulf Coast,-3
+12/30/2023,Florida Atlantic,68,Florida Gulf Coast,72,Florida Gulf Coast,-4
+11/10/2023,Kennesaw St.,67,Florida St.,94,Florida St.,-27
+11/13/2023,Central Michigan,67,Florida St.,94,Florida St.,-27
+11/29/2023,Georgia,68,Florida St.,66,Florida St.,2
+12/16/2023,SMU,68,Florida St.,57,Florida St.,11
+12/19/2023,North Florida,75,Florida St.,91,Florida St.,-16
+12/22/2023,Winthrop,61,Florida St.,67,Florida St.,-6
+12/30/2023,Lipscomb,78,Florida St.,75,Florida St.,3
+11/06/2023,Wagner,64,Fordham,68,Fordham,-4
+11/11/2023,Cornell,78,Fordham,73,Fordham,5
+11/17/2023,Norfolk St.,64,Fordham,77,Fordham,-13
+11/27/2023,Manhattan,61,Fordham,93,Fordham,-32
+11/30/2023,Fairleigh Dickinson,52,Fordham,80,Fordham,-28
+12/03/2023,Tulane,89,Fordham,81,Fordham,8
+12/06/2023,NJIT,80,Fordham,77,Fordham,3
+12/10/2023,North Texas,59,Fordham,60,Fordham,-1
+12/21/2023,Central Connecticut,82,Fordham,80,Fordham,2
+12/30/2023,Columbia,78,Fordham,87,Fordham,-9
+11/06/2023,Fresno Pacific,66,Fresno St.,77,Fresno St.,-11
+11/15/2023,Morgan St.,68,Fresno St.,87,Fresno St.,-19
+11/22/2023,James Madison,95,Fresno St.,64,Fresno St.,31
+11/27/2023,UC Santa Barbara,69,Fresno St.,65,Fresno St.,4
+12/05/2023,Idaho St.,67,Fresno St.,79,Fresno St.,-12
+12/09/2023,Pacific,56,Fresno St.,89,Fresno St.,-33
+12/15/2023,Cal St. Bakersfield,58,Fresno St.,61,Fresno St.,-3
+12/18/2023,Portland St.,75,Fresno St.,72,Fresno St.,3
+11/06/2023,North Greenville,68,Furman,84,Furman,-16
+11/10/2023,Belmont,76,Furman,99,Furman,-23
+11/19/2023,Wyoming,78,Furman,71,Furman,7
+11/28/2023,South Carolina St.,78,Furman,86,Furman,-8
+12/09/2023,Bob Jones,58,Furman,100,Furman,-42
+12/19/2023,Presbyterian,61,Furman,76,Furman,-15
+12/30/2023,Anderson SC,79,Furman,74,Furman,5
+11/06/2023,Erskine,58,Gardner Webb,98,Gardner Webb,-40
+11/19/2023,Yale,71,Gardner Webb,70,Gardner Webb,1
+11/25/2023,Limestone,51,Gardner Webb,92,Gardner Webb,-41
+12/02/2023,Western Carolina,77,Gardner Webb,82,Gardner Webb,-5
+12/06/2023,Wofford,81,Gardner Webb,66,Gardner Webb,15
+12/11/2023,North Greenville,60,Gardner Webb,79,Gardner Webb,-19
+12/16/2023,Appalachian St.,80,Gardner Webb,59,Gardner Webb,21
+11/06/2023,Monmouth,61,George Mason,72,George Mason,-11
+11/10/2023,Austin Peay,45,George Mason,67,George Mason,-22
+11/15/2023,Cornell,83,George Mason,90,George Mason,-7
+11/25/2023,East Carolina,59,George Mason,81,George Mason,-22
+11/29/2023,NJIT,68,George Mason,86,George Mason,-18
+12/16/2023,Loyola MD,54,George Mason,62,George Mason,-8
+12/19/2023,Bridgewater VA,60,George Mason,84,George Mason,-24
+12/30/2023,North Carolina A&T,69,George Mason,94,George Mason,-25
+11/06/2023,Stonehill,44,George Washington,89,George Washington,-45
+11/11/2023,William & Mary,89,George Washington,95,George Washington,-6
+11/14/2023,Hofstra,60,George Washington,71,George Washington,-11
+11/18/2023,New Hampshire,67,George Washington,79,George Washington,-12
+11/24/2023,Ohio,94,George Washington,99,George Washington,-5
+11/25/2023,Illinois Chicago,89,George Washington,79,George Washington,10
+11/26/2023,Delaware,71,George Washington,81,George Washington,-10
+12/05/2023,Navy,77,George Washington,79,George Washington,-2
+12/09/2023,Coppin St.,45,George Washington,76,George Washington,-31
+12/12/2023,Bowie St.,73,George Washington,88,George Washington,-15
+12/21/2023,Alcorn St.,75,George Washington,79,George Washington,-4
+12/30/2023,Maryland Eastern Shore,63,George Washington,69,George Washington,-6
+11/07/2023,Le Moyne,57,Georgetown,94,Georgetown,-37
+11/11/2023,Holy Cross,68,Georgetown,67,Georgetown,1
+11/18/2023,Mount St. Mary's,72,Georgetown,83,Georgetown,-11
+11/19/2023,American,83,Georgetown,88,Georgetown,-5
+11/25/2023,Jackson St.,81,Georgetown,88,Georgetown,-7
+11/29/2023,Merrimack,67,Georgetown,69,Georgetown,-2
+12/02/2023,TCU,84,Georgetown,83,Georgetown,1
+12/09/2023,Syracuse,80,Georgetown,68,Georgetown,12
+12/12/2023,Coppin St.,54,Georgetown,71,Georgetown,-17
+11/10/2023,Wake Forest,77,Georgia,80,Georgia,-3
+11/12/2023,North Carolina Central,54,Georgia,64,Georgia,-10
+11/17/2023,Miami FL,79,Georgia,68,Georgia,11
+11/24/2023,Winthrop,69,Georgia,78,Georgia,-9
+12/01/2023,Mercer,69,Georgia,80,Georgia,-11
+12/05/2023,Georgia Tech,62,Georgia,76,Georgia,-14
+12/16/2023,High Point,58,Georgia,66,Georgia,-8
+12/20/2023,Mount St. Mary's,82,Georgia,94,Georgia,-12
+12/22/2023,North Florida,60,Georgia,78,Georgia,-18
+12/30/2023,Alabama A&M,73,Georgia,93,Georgia,-20
+12/02/2023,Jacksonville,81,Georgia Southern,79,Georgia Southern,2
+12/16/2023,UNC Wilmington,82,Georgia Southern,77,Georgia Southern,5
+12/19/2023,Florida Gulf Coast,53,Georgia Southern,42,Georgia Southern,11
+12/30/2023,Southern Miss,67,Georgia Southern,88,Georgia Southern,-21
+11/17/2023,Northern Illinois,70,Georgia St.,64,Georgia St.,6
+11/19/2023,Little Rock,77,Georgia St.,88,Georgia St.,-11
+12/04/2023,Middle Georgia St.,57,Georgia St.,89,Georgia St.,-32
+12/19/2023,Toccoa Falls,45,Georgia St.,122,Georgia St.,-77
+12/30/2023,Arkansas St.,90,Georgia St.,91,Georgia St.,-1
+11/06/2023,Georgia Southern,62,Georgia Tech,84,Georgia Tech,-22
+11/09/2023,Howard,85,Georgia Tech,88,Georgia Tech,-3
+11/14/2023,UMass Lowell,74,Georgia Tech,71,Georgia Tech,3
+11/28/2023,Mississippi St.,59,Georgia Tech,67,Georgia Tech,-8
+12/02/2023,Duke,68,Georgia Tech,72,Georgia Tech,-4
+12/09/2023,Alabama A&M,49,Georgia Tech,70,Georgia Tech,-21
+12/24/2023,Nevada,72,Georgia Tech,64,Georgia Tech,8
+11/10/2023,Yale,71,Gonzaga,86,Gonzaga,-15
+11/14/2023,Eastern Oregon,57,Gonzaga,123,Gonzaga,-66
+11/20/2023,Purdue,73,Gonzaga,63,Gonzaga,10
+11/21/2023,Syracuse,57,Gonzaga,76,Gonzaga,-19
+11/28/2023,Cal St. Bakersfield,65,Gonzaga,81,Gonzaga,-16
+12/05/2023,Arkansas Pine Bluff,71,Gonzaga,111,Gonzaga,-40
+12/11/2023,Mississippi Valley St.,40,Gonzaga,78,Gonzaga,-38
+12/15/2023,Connecticut,76,Gonzaga,63,Gonzaga,13
+12/20/2023,Jackson St.,76,Gonzaga,100,Gonzaga,-24
+12/29/2023,San Diego St.,84,Gonzaga,74,Gonzaga,10
+11/06/2023,UNT Dallas,67,Grambling St.,82,Grambling St.,-15
+11/14/2023,Champion Christian,73,Grambling St.,113,Grambling St.,-40
+11/17/2023,Delaware St.,71,Grambling St.,63,Grambling St.,8
+11/06/2023,Southeast Missouri St.,67,Grand Canyon,88,Grand Canyon,-21
+11/12/2023,Northern Arizona,55,Grand Canyon,89,Grand Canyon,-34
+11/17/2023,San Francisco,72,Grand Canyon,76,Grand Canyon,-4
+11/19/2023,South Carolina,75,Grand Canyon,68,Grand Canyon,7
+11/25/2023,North Dakota St.,71,Grand Canyon,86,Grand Canyon,-15
+12/02/2023,UT Arlington,69,Grand Canyon,76,Grand Canyon,-7
+12/05/2023,San Diego St.,73,Grand Canyon,79,Grand Canyon,-6
+12/16/2023,Portland,63,Grand Canyon,91,Grand Canyon,-28
+12/20/2023,Sam Houston St.,64,Grand Canyon,76,Grand Canyon,-12
+12/27/2023,Bethesda,74,Grand Canyon,124,Grand Canyon,-50
+12/30/2023,Louisiana Tech,70,Grand Canyon,73,Grand Canyon,-3
+11/09/2023,St. Francis IL,56,Green Bay,72,Green Bay,-16
+11/21/2023,UC Riverside,74,Green Bay,68,Green Bay,6
+11/25/2023,St. Thomas,51,Green Bay,64,Green Bay,-13
+12/02/2023,Milwaukee,58,Green Bay,70,Green Bay,-12
+12/09/2023,Western Illinois,68,Green Bay,59,Green Bay,9
+12/21/2023,MSOE,46,Green Bay,79,Green Bay,-33
+12/29/2023,Wright St.,77,Green Bay,88,Green Bay,-11
+12/31/2023,Robert Morris,61,Green Bay,78,Green Bay,-17
+11/09/2023,Mid Atlantic Christian,46,Hampton,109,Hampton,-63
+11/20/2023,San Jose St.,71,Hampton,52,Hampton,19
+11/27/2023,UMBC,80,Hampton,76,Hampton,4
+12/03/2023,Virginia Lynchburg,66,Hampton,121,Hampton,-55
+12/11/2023,Mary Baldwin,53,Hampton,100,Hampton,-47
+12/16/2023,James Madison,88,Hampton,71,Hampton,17
+11/06/2023,UMass Boston,50,Harvard,78,Harvard,-28
+11/14/2023,Northeastern,56,Harvard,80,Harvard,-24
+11/29/2023,American,75,Harvard,80,Harvard,-5
+12/08/2023,Army,64,Harvard,70,Harvard,-6
+12/21/2023,Holy Cross,72,Harvard,74,Harvard,-2
+12/30/2023,Iona,69,Harvard,60,Harvard,9
+11/14/2023,Hawaii Hilo,66,Hawaii,82,Hawaii,-16
+11/16/2023,Niagara,73,Hawaii,92,Hawaii,-19
+11/21/2023,Northern Arizona,61,Hawaii,70,Hawaii,-9
+11/24/2023,UT Rio Grande Valley,57,Hawaii,76,Hawaii,-19
+12/03/2023,Central Arkansas,76,Hawaii,95,Hawaii,-19
+12/10/2023,Hawaii Pacific,53,Hawaii,78,Hawaii,-25
+12/17/2023,Nevada,72,Hawaii,66,Hawaii,6
+12/21/2023,Portland,56,Hawaii,69,Hawaii,-13
+12/22/2023,Georgia Tech,73,Hawaii,68,Hawaii,5
+12/24/2023,TCU,65,Hawaii,51,Hawaii,14
+12/30/2023,Cal St. Fullerton,63,Hawaii,61,Hawaii,2
+11/06/2023,St. Andrews Pres.,51,High Point,105,High Point,-54
+11/20/2023,Iona,68,High Point,82,High Point,-14
+11/26/2023,Mount Olive,73,High Point,122,High Point,-49
+11/29/2023,Morgan St.,59,High Point,77,High Point,-18
+12/05/2023,Western Carolina,71,High Point,97,High Point,-26
+12/08/2023,North Carolina A&T,62,High Point,75,High Point,-13
+12/19/2023,UNC Greensboro,63,High Point,74,High Point,-11
+12/22/2023,Canisius,70,High Point,78,High Point,-8
+12/30/2023,Bellarmine,85,High Point,90,High Point,-5
+11/06/2023,St. Joseph's NY,48,Hofstra,101,Hofstra,-53
+11/10/2023,Princeton,74,Hofstra,67,Hofstra,7
+11/21/2023,Wright St.,76,Hofstra,85,Hofstra,-9
+11/22/2023,High Point,92,Hofstra,97,Hofstra,-5
+11/30/2023,South Florida,63,Hofstra,82,Hofstra,-19
+12/16/2023,Norfolk St.,58,Hofstra,74,Hofstra,-16
+11/14/2023,Sacred Heart,84,Holy Cross,77,Holy Cross,7
+11/18/2023,Elon,83,Holy Cross,69,Holy Cross,14
+11/29/2023,Maine,72,Holy Cross,57,Holy Cross,15
+12/18/2023,Quinnipiac,77,Holy Cross,57,Holy Cross,20
+12/29/2023,Elms,60,Holy Cross,88,Holy Cross,-28
+11/06/2023,Louisiana Monroe,31,Houston,84,Houston,-53
+11/11/2023,Texas A&M Corpus Chris,50,Houston,82,Houston,-32
+11/13/2023,Stetson,48,Houston,79,Houston,-31
+11/19/2023,Dayton,55,Houston,69,Houston,-14
+11/24/2023,Montana,44,Houston,79,Houston,-35
+12/06/2023,Rice,39,Houston,75,Houston,-36
+12/09/2023,Jackson St.,55,Houston,89,Houston,-34
+12/16/2023,Texas A&M,66,Houston,70,Houston,-4
+12/21/2023,Texas St.,37,Houston,72,Houston,-35
+12/30/2023,Penn,42,Houston,81,Houston,-39
+11/15/2023,FIU,83,Houston Christian,74,Houston Christian,9
+11/20/2023,UTSA,89,Houston Christian,87,Houston Christian,2
+12/06/2023,Southwestern Adventist,58,Houston Christian,95,Houston Christian,-37
+12/16/2023,Champion Christian,72,Houston Christian,107,Houston Christian,-35
+11/06/2023,Hampton,80,Howard,92,Howard,-12
+11/14/2023,Boston University,53,Howard,64,Howard,-11
+11/28/2023,Cincinnati,86,Howard,81,Howard,5
+12/13/2023,Regent,49,Howard,88,Howard,-39
+11/06/2023,Spalding,63,IUPUI,70,IUPUI,-7
+11/17/2023,Elon,86,IUPUI,72,IUPUI,14
+11/19/2023,Holy Cross,74,IUPUI,61,IUPUI,13
+11/25/2023,Cleary,70,IUPUI,78,IUPUI,-8
+12/02/2023,Northern Kentucky,71,IUPUI,55,IUPUI,16
+12/16/2023,Lindenwood,73,IUPUI,67,IUPUI,6
+12/21/2023,Defiance,67,IUPUI,90,IUPUI,-23
+12/29/2023,Detroit Mercy,55,IUPUI,67,IUPUI,-12
+12/31/2023,Cleveland St.,86,IUPUI,77,IUPUI,9
+11/09/2023,Cal St. Northridge,76,Idaho,73,Idaho,3
+11/14/2023,Evergreen St.,42,Idaho,88,Idaho,-46
+11/17/2023,Pacific Lutheran,52,Idaho,96,Idaho,-44
+11/24/2023,UC San Diego,70,Idaho,73,Idaho,-3
+11/29/2023,Denver,67,Idaho,65,Idaho,2
+12/02/2023,Cal Poly,70,Idaho,85,Idaho,-15
+12/05/2023,Pacific,53,Idaho,83,Idaho,-30
+12/28/2023,Sacramento St.,58,Idaho,61,Idaho,-3
+12/30/2023,Portland St.,77,Idaho,72,Idaho,5
+11/06/2023,Warner Pacific,36,Idaho St.,92,Idaho St.,-56
+11/16/2023,Northwest,51,Idaho St.,85,Idaho St.,-34
+11/20/2023,The Citadel,62,Idaho St.,61,Idaho St.,1
+12/02/2023,Lindenwood,70,Idaho St.,76,Idaho St.,-6
+12/28/2023,Montana St.,74,Idaho St.,66,Idaho St.,8
+12/30/2023,Montana,76,Idaho St.,68,Idaho St.,8
+11/06/2023,Eastern Illinois,52,Illinois,80,Illinois,-28
+11/10/2023,Oakland,53,Illinois,64,Illinois,-11
+11/14/2023,Marquette,71,Illinois,64,Illinois,7
+11/17/2023,Valparaiso,64,Illinois,87,Illinois,-23
+11/19/2023,Southern,60,Illinois,88,Illinois,-28
+11/24/2023,Western Illinois,52,Illinois,84,Illinois,-32
+12/05/2023,Florida Atlantic,89,Illinois,98,Illinois,-9
+12/17/2023,Colgate,57,Illinois,74,Illinois,-17
+12/29/2023,Fairleigh Dickinson,71,Illinois,104,Illinois,-33
+11/10/2023,Little Rock,71,Illinois Chicago,86,Illinois Chicago,-15
+11/19/2023,Aurora,48,Illinois Chicago,99,Illinois Chicago,-51
+11/24/2023,Middle Tennessee,40,Illinois Chicago,70,Illinois Chicago,-30
+11/26/2023,UNC Greensboro,58,Illinois Chicago,57,Illinois Chicago,1
+11/30/2023,Illinois St.,69,Illinois Chicago,64,Illinois Chicago,5
+12/12/2023,Green Bay,70,Illinois Chicago,68,Illinois Chicago,2
+12/16/2023,Western Michigan,68,Illinois Chicago,89,Illinois Chicago,-21
+12/21/2023,Incarnate Word,67,Illinois Chicago,66,Illinois Chicago,1
+11/06/2023,Lourdes,56,Illinois St.,75,Illinois St.,-19
+11/15/2023,Eastern Illinois,61,Illinois St.,69,Illinois St.,-8
+11/20/2023,Long Beach St.,52,Illinois St.,61,Illinois St.,-9
+11/21/2023,High Point,74,Illinois St.,72,Illinois St.,2
+12/03/2023,Murray St.,72,Illinois St.,76,Illinois St.,-4
+12/06/2023,Northern Kentucky,59,Illinois St.,62,Illinois St.,-3
+12/09/2023,Norfolk St.,64,Illinois St.,58,Illinois St.,6
+12/17/2023,North Dakota St.,65,Illinois St.,75,Illinois St.,-10
+12/21/2023,Southeast Missouri St.,64,Illinois St.,85,Illinois St.,-21
+11/14/2023,Schreiner,63,Incarnate Word,104,Incarnate Word,-41
+11/22/2023,Jacksonville St.,66,Incarnate Word,67,Incarnate Word,-1
+12/09/2023,Northern Arizona,76,Incarnate Word,75,Incarnate Word,1
+11/07/2023,Florida Gulf Coast,63,Indiana,69,Indiana,-6
+11/12/2023,Army,64,Indiana,72,Indiana,-8
+11/16/2023,Wright St.,80,Indiana,89,Indiana,-9
+11/19/2023,Connecticut,77,Indiana,57,Indiana,20
+11/26/2023,Harvard,76,Indiana,89,Indiana,-13
+12/01/2023,Maryland,53,Indiana,65,Indiana,-12
+12/16/2023,Kansas,75,Indiana,71,Indiana,4
+12/19/2023,Morehead St.,68,Indiana,69,Indiana,-1
+12/21/2023,North Alabama,66,Indiana,83,Indiana,-17
+12/29/2023,Kennesaw St.,87,Indiana,100,Indiana,-13
+11/06/2023,St. Mary of the Woods,60,Indiana St.,90,Indiana St.,-30
+11/14/2023,IUPUI,57,Indiana St.,96,Indiana St.,-39
+11/21/2023,Rice,88,Indiana St.,103,Indiana St.,-15
+11/24/2023,Toledo,74,Indiana St.,76,Indiana St.,-2
+11/28/2023,Southern Illinois,48,Indiana St.,77,Indiana St.,-29
+12/09/2023,Southern Indiana,54,Indiana St.,98,Indiana St.,-44
+12/19/2023,Tennessee St.,69,Indiana St.,90,Indiana St.,-21
+11/10/2023,Sacred Heart,81,Iona,88,Iona,-7
+11/29/2023,Marist,68,Iona,64,Iona,4
+12/06/2023,Hofstra,62,Iona,57,Iona,5
+12/10/2023,Saint Francis,54,Iona,61,Iona,-7
+12/21/2023,Colgate,65,Iona,85,Iona,-20
+11/07/2023,North Dakota,68,Iowa,110,Iowa,-42
+11/10/2023,Alabama St.,67,Iowa,98,Iowa,-31
+11/17/2023,Arkansas St.,74,Iowa,88,Iowa,-14
+11/23/2023,Oklahoma,79,Iowa,67,Iowa,12
+11/29/2023,North Florida,78,Iowa,103,Iowa,-25
+12/10/2023,Michigan,90,Iowa,80,Iowa,10
+12/16/2023,Florida A&M,52,Iowa,88,Iowa,-36
+12/20/2023,UMBC,81,Iowa,103,Iowa,-22
+12/29/2023,Northern Illinois,74,Iowa,103,Iowa,-29
+11/06/2023,Green Bay,44,Iowa St.,85,Iowa St.,-41
+11/09/2023,Lindenwood,47,Iowa St.,102,Iowa St.,-55
+11/12/2023,Idaho St.,55,Iowa St.,86,Iowa St.,-31
+11/19/2023,Grambling St.,37,Iowa St.,92,Iowa St.,-55
+11/26/2023,Texas A&M,73,Iowa St.,69,Iowa St.,4
+12/07/2023,Iowa,65,Iowa St.,90,Iowa St.,-25
+12/10/2023,Prairie View A&M,56,Iowa St.,107,Iowa St.,-51
+12/17/2023,Florida A&M,58,Iowa St.,96,Iowa St.,-38
+12/21/2023,Eastern Illinois,48,Iowa St.,80,Iowa St.,-32
+12/31/2023,New Hampshire,70,Iowa St.,85,Iowa St.,-15
+12/16/2023,Howard,74,Jackson St.,81,Jackson St.,-7
+12/17/2023,North Carolina A&T,60,Jackson St.,68,Jackson St.,-8
+11/06/2023,Johnson FL,46,Jacksonville,113,Jacksonville,-67
+11/14/2023,Georgia Southern,68,Jacksonville,85,Jacksonville,-17
+11/29/2023,Campbell,48,Jacksonville,62,Jacksonville,-14
+12/14/2023,Trinity Baptist,54,Jacksonville,91,Jacksonville,-37
+12/18/2023,Louisiana Monroe,65,Jacksonville,75,Jacksonville,-10
+12/30/2023,Erskine,52,Jacksonville,79,Jacksonville,-27
+11/07/2023,Brescia,41,Jacksonville St.,91,Jacksonville St.,-50
+11/11/2023,Utah Tech,81,Jacksonville St.,79,Jacksonville St.,2
+11/26/2023,Incarnate Word,65,Jacksonville St.,67,Jacksonville St.,-2
+11/30/2023,South Alabama,52,Jacksonville St.,70,Jacksonville St.,-18
+12/03/2023,East Tennessee St.,61,Jacksonville St.,59,Jacksonville St.,2
+12/08/2023,Illinois Chicago,55,Jacksonville St.,49,Jacksonville St.,6
+12/28/2023,Fort Valley St.,57,Jacksonville St.,93,Jacksonville St.,-36
+12/31/2023,Trevecca Nazarene,67,Jacksonville St.,107,Jacksonville St.,-40
+11/12/2023,Howard,86,James Madison,107,James Madison,-21
+11/17/2023,Radford,73,James Madison,76,James Madison,-3
+11/29/2023,Buffalo,66,James Madison,81,James Madison,-15
+12/03/2023,Keystone,59,James Madison,130,James Madison,-71
+12/19/2023,Coppin St.,48,James Madison,87,James Madison,-39
+12/30/2023,Texas St.,65,James Madison,82,James Madison,-17
+11/06/2023,North Carolina Central,56,Kansas,99,Kansas,-43
+11/10/2023,Manhattan,61,Kansas,99,Kansas,-38
+11/22/2023,Tennessee,60,Kansas,69,Kansas,-9
+11/28/2023,Eastern Illinois,63,Kansas,71,Kansas,-8
+12/01/2023,Connecticut,65,Kansas,69,Kansas,-4
+12/05/2023,UMKC,69,Kansas,88,Kansas,-19
+12/09/2023,Missouri,64,Kansas,73,Kansas,-9
+12/22/2023,Yale,60,Kansas,75,Kansas,-15
+12/30/2023,Wichita St.,67,Kansas,86,Kansas,-19
+11/06/2023,USC,82,Kansas St.,69,Kansas St.,13
+11/10/2023,Bellarmine,75,Kansas St.,83,Kansas St.,-8
+11/13/2023,South Dakota St.,68,Kansas St.,91,Kansas St.,-23
+11/19/2023,Miami FL,91,Kansas St.,83,Kansas St.,8
+11/22/2023,Central Arkansas,56,Kansas St.,100,Kansas St.,-44
+11/28/2023,Oral Roberts,78,Kansas St.,88,Kansas St.,-10
+12/02/2023,North Alabama,74,Kansas St.,75,Kansas St.,-1
+12/05/2023,Villanova,71,Kansas St.,72,Kansas St.,-1
+12/17/2023,Nebraska,62,Kansas St.,46,Kansas St.,16
+12/21/2023,Wichita St.,60,Kansas St.,69,Kansas St.,-9
+11/07/2023,Oakwood,46,Kennesaw St.,93,Kennesaw St.,-47
+11/15/2023,Keiser,55,Kennesaw St.,101,Kennesaw St.,-46
+11/19/2023,Georgia Southern,92,Kennesaw St.,96,Kennesaw St.,-4
+12/02/2023,Georgia St.,77,Kennesaw St.,88,Kennesaw St.,-11
+12/05/2023,UNC Asheville,76,Kennesaw St.,79,Kennesaw St.,-3
+12/19/2023,Brescia,59,Kennesaw St.,91,Kennesaw St.,-32
+11/06/2023,Malone,58,Kent St.,79,Kent St.,-21
+11/09/2023,James Madison,113,Kent St.,108,Kent St.,5
+11/11/2023,Fresno St.,69,Kent St.,79,Kent St.,-10
+11/17/2023,Hampton,62,Kent St.,100,Kent St.,-38
+11/20/2023,Fordham,72,Kent St.,79,Kent St.,-7
+11/26/2023,Charleston,84,Kent St.,78,Kent St.,6
+11/30/2023,Shawnee St.,61,Kent St.,103,Kent St.,-42
+12/09/2023,Cleveland St.,77,Kent St.,83,Kent St.,-6
+11/06/2023,New Mexico St.,46,Kentucky,86,Kentucky,-40
+11/10/2023,Texas A&M Commerce,61,Kentucky,81,Kentucky,-20
+11/14/2023,Kansas,89,Kentucky,84,Kentucky,5
+11/17/2023,Stonehill,67,Kentucky,101,Kentucky,-34
+11/20/2023,Saint Joseph's,88,Kentucky,96,Kentucky,-8
+11/24/2023,Marshall,82,Kentucky,118,Kentucky,-36
+11/28/2023,Miami FL,73,Kentucky,95,Kentucky,-22
+12/02/2023,UNC Wilmington,80,Kentucky,73,Kentucky,7
+12/29/2023,Illinois St.,70,Kentucky,96,Kentucky,-26
+11/10/2023,Air Force,82,LIU,67,LIU,15
+11/24/2023,Texas A&M Corpus Chris,68,LIU,83,LIU,-15
+12/28/2023,Albany,86,LIU,69,LIU,17
+11/06/2023,Mississippi Valley St.,60,LSU,106,LSU,-46
+11/10/2023,Nicholls St.,68,LSU,66,LSU,2
+11/16/2023,Dayton,70,LSU,67,LSU,3
+11/17/2023,North Texas,62,LSU,66,LSU,-4
+11/24/2023,North Florida,63,LSU,75,LSU,-12
+12/01/2023,Southeastern Louisiana,66,LSU,73,LSU,-7
+12/09/2023,Kansas St.,75,LSU,60,LSU,15
+12/13/2023,Alabama St.,56,LSU,74,LSU,-18
+12/21/2023,Lamar,66,LSU,87,LSU,-21
+12/29/2023,Northwestern St.,55,LSU,96,LSU,-41
+11/07/2023,Drexel,61,La Salle,67,La Salle,-6
+11/11/2023,Northeastern,74,La Salle,79,La Salle,-5
+11/14/2023,Bucknell,57,La Salle,69,La Salle,-12
+11/18/2023,Southern Indiana,78,La Salle,79,La Salle,-1
+11/26/2023,Coppin St.,62,La Salle,81,La Salle,-19
+12/06/2023,Loyola MD,61,La Salle,62,La Salle,-1
+12/21/2023,Rosemont,41,La Salle,107,La Salle,-66
+12/30/2023,Howard,71,La Salle,66,La Salle,5
+11/19/2023,Wilkes,53,Lafayette,69,Lafayette,-16
+11/26/2023,Belmont,79,Lafayette,69,Lafayette,10
+11/29/2023,Drexel,69,Lafayette,48,Lafayette,21
+12/02/2023,Cornell,79,Lafayette,71,Lafayette,8
+12/09/2023,La Salle,67,Lafayette,51,Lafayette,16
+12/21/2023,Quinnipiac,78,Lafayette,60,Lafayette,18
+11/18/2023,Utah Tech,81,Lake Erie,69,Lake Erie,12
+11/06/2023,Jarvis Christian,66,Lamar,114,Lamar,-48
+11/14/2023,UTSA,82,Lamar,90,Lamar,-8
+11/24/2023,Bethune Cookman,65,Lamar,83,Lamar,-18
+11/26/2023,Delaware St.,81,Lamar,84,Lamar,-3
+12/14/2023,Louisiana Monroe,73,Lamar,97,Lamar,-24
+12/18/2023,Southern Miss,82,Lamar,79,Lamar,3
+12/30/2023,Paul Quinn,64,Lamar,91,Lamar,-27
+11/13/2023,SUNY Canton,46,Le Moyne,105,Le Moyne,-59
+11/29/2023,Fredonia St.,54,Le Moyne,92,Le Moyne,-38
+12/16/2023,Dartmouth,54,Le Moyne,80,Le Moyne,-26
+12/18/2023,Houghton,72,Le Moyne,92,Le Moyne,-20
+11/06/2023,Cornell,84,Lehigh,78,Lehigh,6
+11/16/2023,SUNY Oneonta,65,Lehigh,90,Lehigh,-25
+11/29/2023,Saint Francis,62,Lehigh,61,Lehigh,1
+12/09/2023,Cairn,33,Lehigh,88,Lehigh,-55
+11/06/2023,Mid Atlantic Christian,43,Liberty,103,Liberty,-60
+11/16/2023,Furman,74,Liberty,88,Liberty,-14
+11/17/2023,Wichita St.,66,Liberty,83,Liberty,-17
+11/19/2023,Vermont,61,Liberty,71,Liberty,-10
+11/25/2023,Maryland Eastern Shore,62,Liberty,99,Liberty,-37
+12/05/2023,Mississippi Valley St.,39,Liberty,74,Liberty,-35
+12/09/2023,Grand Canyon,69,Liberty,64,Liberty,5
+12/13/2023,Tennessee St.,52,Liberty,74,Liberty,-22
+12/16/2023,St. Andrews Pres.,26,Liberty,99,Liberty,-73
+11/13/2023,Hannibal LaGrange,52,Lindenwood,83,Lindenwood,-31
+11/17/2023,Nebraska Omaha,70,Lindenwood,72,Lindenwood,-2
+11/27/2023,Utah Tech,73,Lindenwood,66,Lindenwood,7
+12/09/2023,UMKC,72,Lindenwood,67,Lindenwood,5
+12/12/2023,Avila,64,Lindenwood,81,Lindenwood,-17
+12/22/2023,Rockford,54,Lindenwood,81,Lindenwood,-27
+12/31/2023,Southern Indiana,73,Lindenwood,62,Lindenwood,11
+11/11/2023,Asbury,74,Lipscomb,113,Lipscomb,-39
+11/18/2023,Alabama A&M,81,Lipscomb,106,Lipscomb,-25
+11/24/2023,UNC Asheville,75,Lipscomb,86,Lipscomb,-11
+11/29/2023,Chattanooga,68,Lipscomb,82,Lipscomb,-14
+12/10/2023,Tennessee St.,71,Lipscomb,78,Lipscomb,-7
+12/20/2023,Bryan,55,Lipscomb,101,Lipscomb,-46
+11/06/2023,Texas St.,66,Little Rock,71,Little Rock,-5
+11/18/2023,Northern Illinois,98,Little Rock,93,Little Rock,5
+11/22/2023,Georgia St.,93,Little Rock,90,Little Rock,3
+11/25/2023,Tulsa,82,Little Rock,84,Little Rock,-2
+11/28/2023,Ball St.,64,Little Rock,90,Little Rock,-26
+12/01/2023,Arkansas St.,66,Little Rock,77,Little Rock,-11
+12/10/2023,Winthrop,85,Little Rock,68,Little Rock,17
+12/13/2023,UTSA,84,Little Rock,93,Little Rock,-9
+12/18/2023,Murray St.,66,Little Rock,80,Little Rock,-14
+12/21/2023,Jacksonville St.,90,Little Rock,60,Little Rock,30
+11/21/2023,Iona,76,Long Beach St.,80,Long Beach St.,-4
+12/02/2023,Sacramento St.,73,Long Beach St.,83,Long Beach St.,-10
+12/06/2023,Life Pacific,66,Long Beach St.,88,Long Beach St.,-22
+12/19/2023,Cal St.Dominguez Hills,78,Long Beach St.,107,Long Beach St.,-29
+12/30/2023,Cal St. Northridge,84,Long Beach St.,68,Long Beach St.,16
+11/11/2023,St. Mary's MD,43,Longwood,95,Longwood,-52
+11/18/2023,North Carolina Central,66,Longwood,73,Longwood,-7
+11/24/2023,Delaware St.,82,Longwood,84,Longwood,-2
+11/25/2023,Lamar,72,Longwood,83,Longwood,-11
+11/26/2023,Bethune Cookman,48,Longwood,69,Longwood,-21
+11/30/2023,The Apprentice School,46,Longwood,95,Longwood,-49
+12/11/2023,Gallaudet,61,Longwood,92,Longwood,-31
+12/17/2023,VMI,49,Longwood,68,Longwood,-19
+11/06/2023,Youngstown St.,62,Louisiana,72,Louisiana,-10
+11/15/2023,Louisiana Christian,56,Louisiana,107,Louisiana,-51
+11/22/2023,Long Beach St.,82,Louisiana,92,Louisiana,-10
+11/27/2023,Loyola LA,54,Louisiana,78,Louisiana,-24
+12/13/2023,Eastern Kentucky,62,Louisiana,73,Louisiana,-11
+11/16/2023,Louisiana Tech,73,Louisiana Monroe,63,Louisiana Monroe,10
+11/20/2023,Ecclesia,74,Louisiana Monroe,103,Louisiana Monroe,-29
+11/28/2023,Northwestern St.,70,Louisiana Monroe,74,Louisiana Monroe,-4
+12/05/2023,Champion Christian,63,Louisiana Monroe,110,Louisiana Monroe,-47
+11/13/2023,Lyon,43,Louisiana Tech,100,Louisiana Tech,-57
+11/21/2023,Southern Utah,53,Louisiana Tech,67,Louisiana Tech,-14
+11/22/2023,McNeese St.,62,Louisiana Tech,71,Louisiana Tech,-9
+11/25/2023,Dillard,65,Louisiana Tech,105,Louisiana Tech,-40
+12/02/2023,Nicholls St.,55,Louisiana Tech,68,Louisiana Tech,-13
+12/09/2023,Louisiana,67,Louisiana Tech,72,Louisiana Tech,-5
+12/12/2023,Southeastern Louisiana,60,Louisiana Tech,89,Louisiana Tech,-29
+11/06/2023,UMBC,93,Louisville,94,Louisville,-1
+11/10/2023,Chattanooga,81,Louisville,71,Louisville,10
+11/15/2023,Coppin St.,41,Louisville,61,Louisville,-20
+11/19/2023,Texas,81,Louisville,80,Louisville,1
+11/20/2023,Indiana,74,Louisville,66,Louisville,8
+11/26/2023,New Mexico St.,84,Louisville,90,Louisville,-6
+11/29/2023,Bellarmine,68,Louisville,73,Louisville,-5
+12/13/2023,Arkansas St.,75,Louisville,63,Louisville,12
+12/17/2023,Pepperdine,63,Louisville,85,Louisville,-22
+12/21/2023,Kentucky,95,Louisville,76,Louisville,19
+11/08/2023,Florida Atlantic,75,Loyola Chicago,62,Loyola Chicago,13
+11/11/2023,Eastern Illinois,65,Loyola Chicago,89,Loyola Chicago,-24
+11/14/2023,Illinois Chicago,72,Loyola Chicago,67,Loyola Chicago,5
+11/18/2023,New Orleans,70,Loyola Chicago,73,Loyola Chicago,-3
+11/22/2023,Creighton,88,Loyola Chicago,65,Loyola Chicago,23
+11/23/2023,Boston College,68,Loyola Chicago,71,Loyola Chicago,-3
+11/28/2023,Chicago St.,53,Loyola Chicago,62,Loyola Chicago,-9
+12/02/2023,Harvard,53,Loyola Chicago,75,Loyola Chicago,-22
+12/09/2023,Goshen,64,Loyola Chicago,115,Loyola Chicago,-51
+12/19/2023,Charleston Southern,59,Loyola Chicago,72,Loyola Chicago,-13
+12/30/2023,Central Michigan,35,Loyola Chicago,73,Loyola Chicago,-38
+11/15/2023,Binghamton,63,Loyola MD,57,Loyola MD,6
+11/18/2023,Sacred Heart,66,Loyola MD,51,Loyola MD,15
+12/02/2023,Delaware St.,79,Loyola MD,73,Loyola MD,6
+12/09/2023,Mount St. Mary's,77,Loyola MD,64,Loyola MD,13
+12/22/2023,St. Mary's MD,57,Loyola MD,91,Loyola MD,-34
+11/07/2023,Westcliff,68,Loyola Marymount,109,Loyola Marymount,-41
+11/12/2023,Yale,83,Loyola Marymount,80,Loyola Marymount,3
+11/14/2023,Jackson St.,66,Loyola Marymount,88,Loyola Marymount,-22
+11/19/2023,Stephen F. Austin,86,Loyola Marymount,76,Loyola Marymount,10
+11/20/2023,Oakland,74,Loyola Marymount,69,Loyola Marymount,5
+11/25/2023,UTEP,47,Loyola Marymount,67,Loyola Marymount,-20
+11/29/2023,Central Arkansas,63,Loyola Marymount,90,Loyola Marymount,-27
+12/16/2023,UC Santa Barbara,68,Loyola Marymount,59,Loyola Marymount,9
+12/18/2023,Detroit Mercy,56,Loyola Marymount,76,Loyola Marymount,-20
+12/22/2023,Colorado St.,76,Loyola Marymount,67,Loyola Marymount,9
+12/29/2023,Tarleton St.,79,Loyola Marymount,66,Loyola Marymount,13
+11/08/2023,Maine Presque Isle,59,Maine,111,Maine,-52
+11/12/2023,Merrimack,71,Maine,65,Maine,6
+11/17/2023,Presbyterian,66,Maine,80,Maine,-14
+12/03/2023,Brown,49,Maine,60,Maine,-11
+12/09/2023,Central Connecticut,56,Maine,69,Maine,-13
+11/16/2023,Felician,67,Manhattan,79,Manhattan,-12
+12/01/2023,Mount St. Mary's,74,Manhattan,75,Manhattan,-1
+12/08/2023,Fairleigh Dickinson,76,Manhattan,71,Manhattan,5
+12/30/2023,Wagner,68,Manhattan,56,Manhattan,12
+11/25/2023,Bucknell,49,Marist,73,Marist,-24
+12/03/2023,Manhattan,56,Marist,70,Marist,-14
+12/18/2023,Maryland Eastern Shore,52,Marist,76,Marist,-24
+12/30/2023,Lehigh,65,Marist,58,Marist,7
+11/06/2023,Northern Illinois,70,Marquette,92,Marquette,-22
+11/10/2023,Rider,65,Marquette,95,Marquette,-30
+11/20/2023,UCLA,69,Marquette,71,Marquette,-2
+11/21/2023,Kansas,59,Marquette,73,Marquette,-14
+11/22/2023,Purdue,78,Marquette,75,Marquette,3
+11/28/2023,Southern,56,Marquette,93,Marquette,-37
+12/06/2023,Texas,65,Marquette,86,Marquette,-21
+12/09/2023,Notre Dame,59,Marquette,78,Marquette,-19
+12/14/2023,St. Thomas,79,Marquette,84,Marquette,-5
+12/22/2023,Georgetown,51,Marquette,81,Marquette,-30
+12/30/2023,Creighton,67,Marquette,72,Marquette,-5
+11/06/2023,Queens,73,Marshall,89,Marshall,-16
+11/10/2023,Radford,66,Marshall,62,Marshall,4
+11/21/2023,Oakland,78,Marshall,71,Marshall,7
+12/02/2023,Miami OH,79,Marshall,74,Marshall,5
+12/06/2023,Duquesne,85,Marshall,72,Marshall,13
+12/16/2023,UNC Greensboro,65,Marshall,72,Marshall,-7
+12/18/2023,Bluefield,70,Marshall,103,Marshall,-33
+12/21/2023,UNC Wilmington,78,Marshall,69,Marshall,9
+12/30/2023,Louisiana,61,Marshall,75,Marshall,-14
+11/07/2023,Mount St. Mary's,53,Maryland,68,Maryland,-15
+11/10/2023,Davidson,64,Maryland,61,Maryland,3
+11/21/2023,UMBC,68,Maryland,92,Maryland,-24
+11/25/2023,South Alabama,55,Maryland,68,Maryland,-13
+11/28/2023,Rider,76,Maryland,103,Maryland,-27
+12/06/2023,Penn St.,75,Maryland,81,Maryland,-6
+12/12/2023,Alcorn St.,65,Maryland,105,Maryland,-40
+12/19/2023,Nicholls St.,67,Maryland,73,Maryland,-6
+12/28/2023,Coppin St.,53,Maryland,75,Maryland,-22
+11/11/2023,Cairn,65,Maryland Eastern Shore,83,Maryland Eastern Shore,-18
+11/15/2023,Longwood,80,Maryland Eastern Shore,61,Maryland Eastern Shore,19
+11/18/2023,Penn,80,Maryland Eastern Shore,83,Maryland Eastern Shore,-3
+11/07/2023,Albany,71,Massachusetts,92,Massachusetts,-21
+11/13/2023,Quinnipiac,81,Massachusetts,102,Massachusetts,-21
+11/17/2023,Harvard,78,Massachusetts,75,Massachusetts,3
+11/22/2023,Central Connecticut,60,Massachusetts,89,Massachusetts,-29
+12/02/2023,South Florida,56,Massachusetts,66,Massachusetts,-10
+12/09/2023,UMass Lowell,77,Massachusetts,91,Massachusetts,-14
+12/16/2023,West Virginia,79,Massachusetts,87,Massachusetts,-8
+12/21/2023,Georgia Tech,73,Massachusetts,70,Massachusetts,3
+12/24/2023,Old Dominion,65,Massachusetts,87,Massachusetts,-22
+12/30/2023,Siena,66,Massachusetts,79,Massachusetts,-13
+11/10/2023,Biblical Studies,55,McNeese St.,96,McNeese St.,-41
+11/13/2023,Champion Christian,46,McNeese St.,110,McNeese St.,-64
+11/14/2023,LeTourneau,49,McNeese St.,81,McNeese St.,-32
+11/21/2023,Texas St.,48,McNeese St.,59,McNeese St.,-11
+12/02/2023,Tennessee Martin,80,McNeese St.,91,McNeese St.,-11
+12/05/2023,Miss. Univ. for Women,23,McNeese St.,92,McNeese St.,-69
+12/13/2023,Southern Miss,48,McNeese St.,67,McNeese St.,-19
+12/17/2023,Louisiana,72,McNeese St.,74,McNeese St.,-2
+11/06/2023,Jackson St.,77,Memphis,94,Memphis,-17
+11/17/2023,Alabama St.,75,Memphis,92,Memphis,-17
+11/22/2023,Michigan,67,Memphis,71,Memphis,-4
+11/24/2023,Villanova,79,Memphis,63,Memphis,16
+12/16/2023,Clemson,77,Memphis,79,Memphis,-2
+12/19/2023,Virginia,54,Memphis,77,Memphis,-23
+12/23/2023,Vanderbilt,75,Memphis,77,Memphis,-2
+12/30/2023,Austin Peay,70,Memphis,81,Memphis,-11
+11/06/2023,Clark Atlanta,71,Mercer,64,Mercer,7
+12/06/2023,South Alabama,83,Mercer,62,Mercer,21
+12/09/2023,Georgia St.,60,Mercer,64,Mercer,-4
+12/16/2023,Florida Gulf Coast,65,Mercer,70,Mercer,-5
+12/19/2023,Queens,65,Mercer,84,Mercer,-19
+12/21/2023,Thomas,75,Mercer,98,Mercer,-23
+12/29/2023,Talladega,50,Mercer,74,Mercer,-24
+11/09/2023,Worcester St.,72,Merrimack,93,Merrimack,-21
+11/22/2023,North Carolina A&T,73,Merrimack,96,Merrimack,-23
+11/25/2023,Alabama St.,66,Merrimack,60,Merrimack,6
+12/02/2023,UMass Lowell,68,Merrimack,74,Merrimack,-6
+12/09/2023,Felician,85,Merrimack,89,Merrimack,-4
+12/22/2023,Bucknell,52,Merrimack,68,Merrimack,-16
+11/06/2023,NJIT,60,Miami FL,101,Miami FL,-41
+11/10/2023,UCF,72,Miami FL,88,Miami FL,-16
+11/13/2023,FIU,80,Miami FL,86,Miami FL,-6
+12/02/2023,Notre Dame,49,Miami FL,62,Miami FL,-13
+12/06/2023,LIU,49,Miami FL,97,Miami FL,-48
+12/10/2023,Colorado,90,Miami FL,63,Miami FL,27
+12/16/2023,La Salle,77,Miami FL,84,Miami FL,-7
+12/21/2023,Stonehill,59,Miami FL,97,Miami FL,-38
+12/29/2023,North Florida,55,Miami FL,95,Miami FL,-40
+11/11/2023,Texas St.,75,Miami OH,65,Miami OH,10
+11/17/2023,Coppin St.,48,Miami OH,76,Miami OH,-28
+11/19/2023,Eastern Illinois,64,Miami OH,76,Miami OH,-12
+11/28/2023,Spalding,43,Miami OH,82,Miami OH,-39
+12/22/2023,Vermont,69,Miami OH,70,Miami OH,-1
+12/29/2023,Wilberforce,69,Miami OH,119,Miami OH,-50
+11/07/2023,UNC Asheville,74,Michigan,99,Michigan,-25
+11/10/2023,Youngstown St.,62,Michigan,92,Michigan,-30
+11/17/2023,Long Beach St.,94,Michigan,86,Michigan,8
+11/24/2023,Texas Tech,73,Michigan,57,Michigan,16
+12/05/2023,Indiana,78,Michigan,75,Michigan,3
+12/16/2023,Eastern Michigan,66,Michigan,83,Michigan,-17
+12/19/2023,Florida,106,Michigan,101,Michigan,5
+12/29/2023,McNeese St.,87,Michigan,76,Michigan,11
+11/06/2023,James Madison,79,Michigan St.,76,Michigan St.,3
+11/09/2023,Southern Indiana,51,Michigan St.,74,Michigan St.,-23
+11/14/2023,Duke,74,Michigan St.,65,Michigan St.,9
+11/17/2023,Butler,54,Michigan St.,74,Michigan St.,-20
+11/19/2023,Alcorn St.,49,Michigan St.,81,Michigan St.,-32
+11/28/2023,Georgia Southern,55,Michigan St.,86,Michigan St.,-31
+12/05/2023,Wisconsin,70,Michigan St.,57,Michigan St.,13
+12/16/2023,Baylor,64,Michigan St.,88,Michigan St.,-24
+12/18/2023,Oakland,62,Michigan St.,79,Michigan St.,-17
+12/21/2023,Stony Brook,55,Michigan St.,99,Michigan St.,-44
+12/30/2023,Indiana St.,75,Michigan St.,87,Michigan St.,-12
+11/06/2023,Northern Kentucky,57,Middle Tennessee,74,Middle Tennessee,-17
+11/09/2023,Stephen F. Austin,62,Middle Tennessee,67,Middle Tennessee,-5
+11/13/2023,Western Carolina,66,Middle Tennessee,64,Middle Tennessee,2
+11/18/2023,Milligan,62,Middle Tennessee,88,Middle Tennessee,-26
+11/21/2023,UAB,58,Middle Tennessee,57,Middle Tennessee,1
+11/26/2023,UMKC,59,Middle Tennessee,63,Middle Tennessee,-4
+12/02/2023,Wofford,74,Middle Tennessee,64,Middle Tennessee,10
+12/05/2023,Missouri St.,73,Middle Tennessee,77,Middle Tennessee,-4
+12/09/2023,Belmont,75,Middle Tennessee,65,Middle Tennessee,10
+11/06/2023,Wisconsin Stout,73,Milwaukee,91,Milwaukee,-18
+11/17/2023,Luther,56,Milwaukee,85,Milwaukee,-29
+11/20/2023,Stetson,85,Milwaukee,67,Milwaukee,18
+11/21/2023,Siena,59,Milwaukee,61,Milwaukee,-2
+11/25/2023,Southern Miss,90,Milwaukee,84,Milwaukee,6
+12/13/2023,Longwood,80,Milwaukee,67,Milwaukee,13
+12/22/2023,Chattanooga,83,Milwaukee,85,Milwaukee,-2
+12/29/2023,Robert Morris,75,Milwaukee,78,Milwaukee,-3
+12/31/2023,Wright St.,83,Milwaukee,91,Milwaukee,-8
+11/06/2023,Bethune Cookman,60,Minnesota,80,Minnesota,-20
+11/10/2023,UTSA,76,Minnesota,102,Minnesota,-26
+11/16/2023,Missouri,70,Minnesota,68,Minnesota,2
+11/18/2023,USC Upstate,53,Minnesota,67,Minnesota,-14
+11/21/2023,Arkansas Pine Bluff,67,Minnesota,86,Minnesota,-19
+11/30/2023,New Orleans,64,Minnesota,97,Minnesota,-33
+12/06/2023,Nebraska,65,Minnesota,76,Minnesota,-11
+12/09/2023,Florida Gulf Coast,57,Minnesota,77,Minnesota,-20
+12/12/2023,IUPUI,65,Minnesota,101,Minnesota,-36
+12/21/2023,Ball St.,63,Minnesota,80,Minnesota,-17
+12/29/2023,Maine,62,Minnesota,80,Minnesota,-18
+11/06/2023,Alabama St.,59,Mississippi,69,Mississippi,-10
+11/10/2023,Eastern Washington,64,Mississippi,75,Mississippi,-11
+11/14/2023,Detroit Mercy,69,Mississippi,70,Mississippi,-1
+11/17/2023,Sam Houston St.,67,Mississippi,70,Mississippi,-3
+11/28/2023,N.C. State,52,Mississippi,72,Mississippi,-20
+12/02/2023,Memphis,77,Mississippi,80,Mississippi,-3
+12/05/2023,Mount St. Mary's,68,Mississippi,77,Mississippi,-9
+12/16/2023,California,78,Mississippi,88,Mississippi,-10
+12/19/2023,Troy,53,Mississippi,74,Mississippi,-21
+12/23/2023,Southern Miss,72,Mississippi,89,Mississippi,-17
+12/31/2023,Bryant,78,Mississippi,95,Mississippi,-17
+11/08/2023,Arizona St.,56,Mississippi St.,71,Mississippi St.,-15
+11/11/2023,Tennessee Martin,63,Mississippi St.,87,Mississippi St.,-24
+11/14/2023,North Alabama,54,Mississippi St.,81,Mississippi St.,-27
+11/24/2023,Nicholls St.,61,Mississippi St.,74,Mississippi St.,-13
+12/03/2023,Southern,60,Mississippi St.,59,Mississippi St.,1
+12/09/2023,Tulane,76,Mississippi St.,106,Mississippi St.,-30
+12/13/2023,Murray St.,81,Mississippi St.,85,Mississippi St.,-4
+12/17/2023,North Texas,54,Mississippi St.,72,Mississippi St.,-18
+12/31/2023,Bethune Cookman,62,Mississippi St.,85,Mississippi St.,-23
+11/06/2023,Arkansas Pine Bluff,79,Missouri,101,Missouri,-22
+11/10/2023,Memphis,70,Missouri,55,Missouri,15
+11/13/2023,SIU Edwardsville,50,Missouri,68,Missouri,-18
+11/19/2023,Jackson St.,73,Missouri,72,Missouri,1
+11/22/2023,South Carolina St.,59,Missouri,82,Missouri,-23
+11/25/2023,Loyola MD,70,Missouri,78,Missouri,-8
+12/03/2023,Wichita St.,72,Missouri,82,Missouri,-10
+12/17/2023,Seton Hall,93,Missouri,87,Missouri,6
+12/22/2023,Illinois,97,Missouri,73,Missouri,24
+12/30/2023,Central Arkansas,59,Missouri,92,Missouri,-33
+11/13/2023,Oral Roberts,69,Missouri St.,84,Missouri St.,-15
+11/19/2023,Kent St.,52,Missouri St.,56,Missouri St.,-4
+11/20/2023,Abilene Christian,69,Missouri St.,87,Missouri St.,-18
+11/25/2023,South Carolina St.,74,Missouri St.,92,Missouri St.,-18
+11/29/2023,Evansville,78,Missouri St.,90,Missouri St.,-12
+12/09/2023,Sam Houston St.,60,Missouri St.,69,Missouri St.,-9
+12/19/2023,Lindenwood,57,Missouri St.,79,Missouri St.,-22
+11/18/2023,Princeton,82,Monmouth,57,Monmouth,25
+11/21/2023,Lehigh,79,Monmouth,88,Monmouth,-9
+11/25/2023,Lafayette,53,Monmouth,63,Monmouth,-10
+12/09/2023,Northern Illinois,71,Monmouth,74,Monmouth,-3
+12/16/2023,Rider,71,Monmouth,77,Monmouth,-6
+12/21/2023,Manhattan,71,Monmouth,77,Monmouth,-6
+11/07/2023,Northwest Indian,59,Montana,107,Montana,-48
+11/12/2023,UC Davis,65,Montana,78,Montana,-13
+11/16/2023,North Dakota St.,78,Montana,69,Montana,9
+12/02/2023,San Jose St.,58,Montana,75,Montana,-17
+12/05/2023,Montana State Northern,67,Montana,91,Montana,-24
+12/09/2023,Montana Tech,67,Montana,88,Montana,-21
+11/06/2023,Northwest Indian,63,Montana St.,103,Montana St.,-40
+11/20/2023,Green Bay,54,Montana St.,53,Montana St.,1
+11/22/2023,UC Riverside,68,Montana St.,69,Montana St.,-1
+11/26/2023,Long Beach St.,75,Montana St.,69,Montana St.,6
+11/30/2023,Rocky Mountain,70,Montana St.,62,Montana St.,8
+12/16/2023,American Indian,81,Montana St.,106,Montana St.,-25
+12/19/2023,Southern Utah,88,Montana St.,89,Montana St.,-1
+11/08/2023,Shawnee St.,40,Morehead St.,96,Morehead St.,-56
+11/14/2023,Mercer,66,Morehead St.,74,Morehead St.,-8
+11/22/2023,Midway,53,Morehead St.,94,Morehead St.,-41
+12/03/2023,Chattanooga,80,Morehead St.,87,Morehead St.,-7
+12/14/2023,Saint Mary of the Wood,33,Morehead St.,102,Morehead St.,-69
+12/21/2023,Alice Lloyd,39,Morehead St.,101,Morehead St.,-62
+11/09/2023,Cheyney,52,Morgan St.,100,Morgan St.,-48
+11/12/2023,Penn St. Wilkes Barre,60,Morgan St.,78,Morgan St.,-18
+12/03/2023,Longwood,88,Morgan St.,54,Morgan St.,34
+12/06/2023,UMBC,80,Morgan St.,92,Morgan St.,-12
+12/09/2023,Virginia Lynchburg,50,Morgan St.,120,Morgan St.,-70
+12/22/2023,James Madison,89,Morgan St.,75,Morgan St.,14
+11/11/2023,Coppin St.,60,Mount St. Mary's,74,Mount St. Mary's,-14
+11/25/2023,Howard,87,Mount St. Mary's,83,Mount St. Mary's,4
+12/03/2023,Siena,48,Mount St. Mary's,80,Mount St. Mary's,-32
+12/23/2023,LIU,59,Mount St. Mary's,87,Mount St. Mary's,-28
+11/06/2023,Midway,58,Murray St.,91,Murray St.,-33
+11/10/2023,Tennessee Tech,72,Murray St.,78,Murray St.,-6
+11/14/2023,Western Kentucky,86,Murray St.,81,Murray St.,5
+11/20/2023,UNC Wilmington,83,Murray St.,81,Murray St.,2
+11/22/2023,Appalachian St.,67,Murray St.,57,Murray St.,10
+11/29/2023,Bradley,72,Murray St.,79,Murray St.,-7
+12/16/2023,Southeastern Louisiana,61,Murray St.,55,Murray St.,6
+12/22/2023,SMU,92,Murray St.,65,Murray St.,27
+12/30/2023,Middle Tennessee,54,Murray St.,75,Murray St.,-21
+11/06/2023,The Citadel,59,N.C. State,72,N.C. State,-13
+11/10/2023,Abilene Christian,64,N.C. State,84,N.C. State,-20
+11/17/2023,Charleston Southern,53,N.C. State,87,N.C. State,-34
+12/06/2023,Maryland Eastern Shore,61,N.C. State,93,N.C. State,-32
+12/12/2023,Tennessee Martin,67,N.C. State,81,N.C. State,-14
+12/20/2023,Saint Louis,70,N.C. State,82,N.C. State,-12
+12/23/2023,Detroit Mercy,66,N.C. State,83,N.C. State,-17
+11/11/2023,Saint Peter's,75,NJIT,48,NJIT,27
+11/20/2023,Delaware St.,72,NJIT,81,NJIT,-9
+12/02/2023,Fairleigh Dickinson,71,NJIT,68,NJIT,3
+12/22/2023,Medgar Evers,51,NJIT,127,NJIT,-76
+12/31/2023,Morgan St.,53,NJIT,69,NJIT,-16
+11/10/2023,Temple,75,Navy,68,Navy,7
+11/29/2023,VMI,47,Navy,67,Navy,-20
+12/03/2023,Coppin St.,52,Navy,75,Navy,-23
+12/17/2023,Washington MD,33,Navy,91,Navy,-58
+12/30/2023,William & Mary,65,Navy,77,Navy,-12
+11/06/2023,Lindenwood,52,Nebraska,84,Nebraska,-32
+11/09/2023,Florida A&M,54,Nebraska,81,Nebraska,-27
+11/13/2023,Rider,50,Nebraska,64,Nebraska,-14
+11/15/2023,Stony Brook,63,Nebraska,84,Nebraska,-21
+11/18/2023,Oregon St.,63,Nebraska,84,Nebraska,-21
+11/22/2023,Duquesne,79,Nebraska,89,Nebraska,-10
+11/26/2023,Cal St. Fullerton,72,Nebraska,85,Nebraska,-13
+12/03/2023,Creighton,89,Nebraska,60,Nebraska,29
+12/10/2023,Michigan St.,70,Nebraska,77,Nebraska,-7
+12/20/2023,North Dakota,75,Nebraska,83,Nebraska,-8
+12/29/2023,South Carolina St.,62,Nebraska,91,Nebraska,-29
+11/06/2023,Doane,53,Nebraska Omaha,85,Nebraska Omaha,-32
+11/16/2023,William & Mary,83,Nebraska Omaha,89,Nebraska Omaha,-6
+11/22/2023,Mid America Christian,59,Nebraska Omaha,76,Nebraska Omaha,-17
+11/27/2023,York NE,68,Nebraska Omaha,104,Nebraska Omaha,-36
+11/30/2023,Bellevue,59,Nebraska Omaha,78,Nebraska Omaha,-19
+12/17/2023,Stetson,80,Nebraska Omaha,88,Nebraska Omaha,-8
+12/29/2023,Denver,95,Nebraska Omaha,80,Nebraska Omaha,15
+11/07/2023,Sacramento St.,63,Nevada,77,Nevada,-14
+11/15/2023,Pacific,39,Nevada,88,Nevada,-49
+11/18/2023,Portland,83,Nevada,108,Nevada,-25
+11/29/2023,Montana,66,Nevada,77,Nevada,-11
+12/02/2023,Loyola Marymount,59,Nevada,73,Nevada,-14
+12/06/2023,UC Davis,68,Nevada,80,Nevada,-12
+12/09/2023,Drake,72,Nevada,53,Nevada,19
+12/13/2023,Weber St.,55,Nevada,72,Nevada,-17
+12/21/2023,Temple,56,Nevada,80,Nevada,-24
+12/30/2023,Fresno Pacific,59,Nevada,92,Nevada,-33
+11/08/2023,Curry,38,New Hampshire,115,New Hampshire,-77
+11/14/2023,Brown,64,New Hampshire,82,New Hampshire,-18
+11/21/2023,Marist,71,New Hampshire,74,New Hampshire,-3
+12/03/2023,Columbia,71,New Hampshire,80,New Hampshire,-9
+12/11/2023,Stonehill,62,New Hampshire,75,New Hampshire,-13
+11/06/2023,Texas Southern,55,New Mexico,92,New Mexico,-37
+11/16/2023,UT Arlington,80,New Mexico,82,New Mexico,-2
+11/21/2023,Toledo,84,New Mexico,92,New Mexico,-8
+11/24/2023,Pepperdine,71,New Mexico,90,New Mexico,-19
+11/29/2023,Louisiana Tech,65,New Mexico,74,New Mexico,-9
+12/02/2023,New Mexico St.,62,New Mexico,106,New Mexico,-44
+12/06/2023,UC Santa Barbara,61,New Mexico,84,New Mexico,-23
+12/09/2023,Santa Clara,76,New Mexico,93,New Mexico,-17
+12/20/2023,UC Irvine,65,New Mexico,78,New Mexico,-13
+12/29/2023,Eastern New Mexico,54,New Mexico,87,New Mexico,-33
+11/08/2023,Sul Ross St.,49,New Mexico St.,84,New Mexico St.,-35
+11/14/2023,Western New Mexico,43,New Mexico St.,78,New Mexico St.,-35
+11/18/2023,Northern Colorado,71,New Mexico St.,76,New Mexico St.,-5
+11/21/2023,Fresno St.,81,New Mexico St.,76,New Mexico St.,5
+11/22/2023,Southern Illinois,81,New Mexico St.,54,New Mexico St.,27
+11/28/2023,Southwest,49,New Mexico St.,84,New Mexico St.,-35
+12/12/2023,Northern New Mexico,71,New Mexico St.,76,New Mexico St.,-5
+12/15/2023,New Mexico,73,New Mexico St.,72,New Mexico St.,1
+12/30/2023,Cal Baptist,61,New Mexico St.,66,New Mexico St.,-5
+11/06/2023,Millsaps,70,New Orleans,100,New Orleans,-30
+11/11/2023,Southern New Orleans,69,New Orleans,106,New Orleans,-37
+12/05/2023,Belhaven,65,New Orleans,79,New Orleans,-14
+12/14/2023,Birmingham Southern,51,New Orleans,91,New Orleans,-40
+11/11/2023,Bucknell,73,Niagara,64,Niagara,9
+12/01/2023,Saint Peter's,72,Niagara,67,Niagara,5
+12/03/2023,Quinnipiac,75,Niagara,68,Niagara,7
+12/06/2023,St. Bonaventure,94,Niagara,60,Niagara,34
+12/10/2023,Buffalo St.,64,Niagara,113,Niagara,-49
+12/16/2023,NJIT,81,Niagara,89,Niagara,-8
+11/15/2023,Denver,91,Nicholls St.,85,Nicholls St.,6
+11/17/2023,SIU Edwardsville,60,Nicholls St.,51,Nicholls St.,9
+11/21/2023,Blue Mountain,56,Nicholls St.,86,Nicholls St.,-30
+12/09/2023,Elizabeth City St.,70,Nicholls St.,84,Nicholls St.,-14
+12/30/2023,Mobile,65,Nicholls St.,74,Nicholls St.,-9
+11/06/2023,Penn St. Wilkes Barre,55,Norfolk St.,102,Norfolk St.,-47
+11/09/2023,The Apprentice School,56,Norfolk St.,90,Norfolk St.,-34
+11/13/2023,Hampton,68,Norfolk St.,75,Norfolk St.,-7
+11/28/2023,William & Mary,62,Norfolk St.,96,Norfolk St.,-34
+12/18/2023,Southern Virginia,52,Norfolk St.,108,Norfolk St.,-56
+12/21/2023,South Dakota St.,65,Norfolk St.,84,Norfolk St.,-19
+11/06/2023,Blue Mountain,60,North Alabama,93,North Alabama,-33
+11/09/2023,Alabama A&M,67,North Alabama,83,North Alabama,-16
+11/18/2023,Jacksonville St.,59,North Alabama,61,North Alabama,-2
+11/30/2023,Tennessee Tech,71,North Alabama,86,North Alabama,-15
+12/07/2023,Point,65,North Alabama,109,North Alabama,-44
+12/10/2023,Morehead St.,86,North Alabama,77,North Alabama,9
+11/06/2023,Radford,70,North Carolina,86,North Carolina,-16
+11/12/2023,Lehigh,68,North Carolina,90,North Carolina,-22
+11/17/2023,UC Riverside,52,North Carolina,77,North Carolina,-25
+11/29/2023,Tennessee,92,North Carolina,100,North Carolina,-8
+12/02/2023,Florida St.,70,North Carolina,78,North Carolina,-8
+12/05/2023,Connecticut,87,North Carolina,76,North Carolina,11
+12/16/2023,Kentucky,87,North Carolina,83,North Carolina,4
+12/20/2023,Oklahoma,69,North Carolina,81,North Carolina,-12
+12/29/2023,Charleston Southern,60,North Carolina,105,North Carolina,-45
+11/24/2023,Alabama St.,88,North Carolina A&T,73,North Carolina A&T,15
+12/02/2023,The Citadel,85,North Carolina A&T,68,North Carolina A&T,17
+12/12/2023,North Carolina Central,67,North Carolina A&T,62,North Carolina A&T,5
+12/16/2023,Texas Southern,79,North Carolina A&T,85,North Carolina A&T,-6
+11/09/2023,Virginia Lynchburg,54,North Carolina Central,107,North Carolina Central,-53
+11/14/2023,Mid Atlantic Christian,50,North Carolina Central,113,North Carolina Central,-63
+12/02/2023,USC Upstate,85,North Carolina Central,82,North Carolina Central,3
+12/15/2023,St. Andrews Pres.,50,North Carolina Central,102,North Carolina Central,-52
+12/20/2023,Longwood,70,North Carolina Central,79,North Carolina Central,-9
+11/12/2023,Elon,68,North Dakota,85,North Dakota,-17
+11/16/2023,Valley City St.,63,North Dakota,93,North Dakota,-30
+11/25/2023,New Orleans,69,North Dakota,71,North Dakota,-2
+11/28/2023,Concordia MN,56,North Dakota,87,North Dakota,-31
+12/09/2023,Portland,83,North Dakota,72,North Dakota,11
+12/12/2023,Waldorf,36,North Dakota,87,North Dakota,-51
+12/29/2023,St. Thomas,70,North Dakota,45,North Dakota,25
+11/08/2023,Mount Marty,66,North Dakota St.,93,North Dakota St.,-27
+11/20/2023,Wisconsin Stout,72,North Dakota St.,101,North Dakota St.,-29
+12/04/2023,San Jose St.,78,North Dakota St.,83,North Dakota St.,-5
+12/07/2023,Portland,67,North Dakota St.,78,North Dakota St.,-11
+12/10/2023,Oak Hill Christian,14,North Dakota St.,108,North Dakota St.,-94
+12/29/2023,South Dakota,75,North Dakota St.,66,North Dakota St.,9
+11/06/2023,Coastal Georgia,55,North Florida,92,North Florida,-37
+11/16/2023,Presbyterian,81,North Florida,69,North Florida,12
+11/17/2023,Northwestern St.,74,North Florida,80,North Florida,-6
+11/18/2023,Maine,58,North Florida,67,North Florida,-9
+12/02/2023,High Point,86,North Florida,79,North Florida,7
+12/05/2023,Edward Waters,47,North Florida,99,North Florida,-52
+12/09/2023,Georgia Southern,56,North Florida,64,North Florida,-8
+12/16/2023,Trinity Baptist,72,North Florida,113,North Florida,-41
+11/07/2023,Northern Iowa,77,North Texas,83,North Texas,-6
+11/11/2023,Nebraska Omaha,64,North Texas,75,North Texas,-11
+11/16/2023,St. John's,53,North Texas,52,North Texas,1
+11/26/2023,Angelo St.,50,North Texas,79,North Texas,-29
+12/02/2023,Mississippi Valley St.,48,North Texas,79,North Texas,-31
+12/23/2023,UT Arlington,52,North Texas,78,North Texas,-26
+12/30/2023,LSU Shreveport,57,North Texas,80,North Texas,-23
+11/06/2023,Boston University,58,Northeastern,67,Northeastern,-9
+11/20/2023,Kennesaw St.,79,Northeastern,77,Northeastern,2
+11/21/2023,Georgia Southern,76,Northeastern,93,Northeastern,-17
+12/02/2023,Old Dominion,68,Northeastern,81,Northeastern,-13
+12/06/2023,Vermont,73,Northeastern,71,Northeastern,2
+11/18/2023,VMI,69,Northern Arizona,78,Northern Arizona,-9
+12/02/2023,Pacific,58,Northern Arizona,78,Northern Arizona,-20
+12/16/2023,Southern Utah,74,Northern Arizona,76,Northern Arizona,-2
+11/06/2023,Colorado College,58,Northern Colorado,87,Northern Colorado,-29
+11/08/2023,Northern New Mexico,60,Northern Colorado,81,Northern Colorado,-21
+11/14/2023,Colorado St.,83,Northern Colorado,64,Northern Colorado,19
+11/21/2023,Chicago St.,77,Northern Colorado,78,Northern Colorado,-1
+11/22/2023,Radford,79,Northern Colorado,68,Northern Colorado,11
+12/02/2023,Cal St. Northridge,71,Northern Colorado,75,Northern Colorado,-4
+12/30/2023,Northern Arizona,77,Northern Colorado,92,Northern Colorado,-15
+11/11/2023,Appalachian St.,78,Northern Illinois,91,Northern Illinois,-13
+11/13/2023,Illinois Tech,55,Northern Illinois,107,Northern Illinois,-52
+12/05/2023,Indiana St.,90,Northern Illinois,67,Northern Illinois,23
+12/18/2023,Calumet,48,Northern Illinois,92,Northern Illinois,-44
+12/21/2023,Northern Iowa,76,Northern Illinois,63,Northern Illinois,13
+11/14/2023,Loras,50,Northern Iowa,90,Northern Iowa,-40
+11/22/2023,North Carolina,91,Northern Iowa,69,Northern Iowa,22
+11/29/2023,Belmont,90,Northern Iowa,70,Northern Iowa,20
+12/06/2023,Richmond,73,Northern Iowa,78,Northern Iowa,-5
+12/12/2023,Prairie View A&M,55,Northern Iowa,74,Northern Iowa,-19
+12/17/2023,Alcorn St.,82,Northern Iowa,100,Northern Iowa,-18
+11/14/2023,DePauw,68,Northern Kentucky,85,Northern Kentucky,-17
+11/22/2023,Texas A&M Corpus Chris,73,Northern Kentucky,88,Northern Kentucky,-15
+11/25/2023,LIU,64,Northern Kentucky,72,Northern Kentucky,-8
+11/29/2023,Robert Morris,59,Northern Kentucky,77,Northern Kentucky,-18
+12/09/2023,Akron,77,Northern Kentucky,76,Northern Kentucky,1
+12/14/2023,Cumberlands,59,Northern Kentucky,94,Northern Kentucky,-35
+11/06/2023,Binghamton,61,Northwestern,72,Northwestern,-11
+11/10/2023,Dayton,66,Northwestern,71,Northwestern,-5
+11/14/2023,Western Michigan,59,Northwestern,63,Northwestern,-4
+11/18/2023,Rhode Island,61,Northwestern,72,Northwestern,-11
+11/19/2023,Mississippi St.,66,Northwestern,57,Northwestern,9
+11/27/2023,Northern Illinois,67,Northwestern,89,Northwestern,-22
+12/01/2023,Purdue,88,Northwestern,92,Northwestern,-4
+12/10/2023,Detroit Mercy,59,Northwestern,91,Northwestern,-32
+12/13/2023,Chicago St.,75,Northwestern,73,Northwestern,2
+12/29/2023,Jackson St.,63,Northwestern,74,Northwestern,-11
+11/06/2023,Dallas Christian,54,Northwestern St.,101,Northwestern St.,-47
+11/13/2023,Stephen F. Austin,96,Northwestern St.,70,Northwestern St.,26
+11/16/2023,Maine,78,Northwestern St.,65,Northwestern St.,13
+12/16/2023,Rice,76,Northwestern St.,51,Northwestern St.,25
+12/19/2023,Southern New Orleans,75,Northwestern St.,99,Northwestern St.,-24
+11/06/2023,Niagara,63,Notre Dame,70,Notre Dame,-7
+11/11/2023,Western Carolina,71,Notre Dame,61,Notre Dame,10
+11/16/2023,Auburn,83,Notre Dame,59,Notre Dame,24
+11/17/2023,Oklahoma St.,64,Notre Dame,66,Notre Dame,-2
+11/22/2023,Maryland Eastern Shore,55,Notre Dame,75,Notre Dame,-20
+12/05/2023,Western Michigan,65,Notre Dame,86,Notre Dame,-21
+12/16/2023,Georgetown,72,Notre Dame,68,Notre Dame,4
+12/19/2023,The Citadel,65,Notre Dame,45,Notre Dame,20
+12/22/2023,Marist,56,Notre Dame,60,Notre Dame,-4
+12/30/2023,Virginia,54,Notre Dame,76,Notre Dame,-22
+11/14/2023,Bowling Green,62,Oakland,81,Oakland,-19
+12/02/2023,Purdue Fort Wayne,98,Oakland,77,Oakland,21
+12/06/2023,Toledo,69,Oakland,68,Oakland,1
+11/08/2023,Troy,70,Ohio,88,Ohio,-18
+11/18/2023,Detroit Mercy,52,Ohio,71,Ohio,-19
+11/25/2023,Middle Tennessee,68,Ohio,80,Ohio,-12
+11/26/2023,Brown,77,Ohio,82,Ohio,-5
+12/02/2023,Delaware,73,Ohio,74,Ohio,-1
+12/06/2023,Youngstown St.,78,Ohio,72,Ohio,6
+12/09/2023,Marshall,74,Ohio,69,Ohio,5
+12/18/2023,Defiance,28,Ohio,108,Ohio,-80
+12/30/2023,Davidson,72,Ohio,69,Ohio,3
+11/06/2023,Oakland,73,Ohio St.,79,Ohio St.,-6
+11/10/2023,Texas A&M,73,Ohio St.,66,Ohio St.,7
+11/15/2023,Merrimack,52,Ohio St.,76,Ohio St.,-24
+11/19/2023,Western Michigan,56,Ohio St.,73,Ohio St.,-17
+11/24/2023,Alabama,81,Ohio St.,92,Ohio St.,-11
+11/29/2023,Central Michigan,61,Ohio St.,88,Ohio St.,-27
+12/03/2023,Minnesota,74,Ohio St.,84,Ohio St.,-10
+12/06/2023,Miami OH,64,Ohio St.,84,Ohio St.,-20
+12/16/2023,UCLA,60,Ohio St.,67,Ohio St.,-7
+12/21/2023,New Orleans,36,Ohio St.,78,Ohio St.,-42
+12/30/2023,West Virginia,75,Ohio St.,78,Ohio St.,-3
+11/06/2023,Central Michigan,59,Oklahoma,89,Oklahoma,-30
+11/10/2023,Mississippi Valley St.,43,Oklahoma,82,Oklahoma,-39
+11/14/2023,Texas St.,54,Oklahoma,93,Oklahoma,-39
+11/17/2023,UT Rio Grande Valley,66,Oklahoma,90,Oklahoma,-24
+11/30/2023,Arkansas Pine Bluff,86,Oklahoma,107,Oklahoma,-21
+12/05/2023,Providence,51,Oklahoma,72,Oklahoma,-21
+12/09/2023,Arkansas,70,Oklahoma,79,Oklahoma,-9
+12/16/2023,Green Bay,47,Oklahoma,81,Oklahoma,-34
+12/28/2023,Central Arkansas,72,Oklahoma,88,Oklahoma,-16
+12/31/2023,Monmouth,56,Oklahoma,72,Oklahoma,-16
+11/06/2023,Abilene Christian,64,Oklahoma St.,59,Oklahoma St.,5
+11/12/2023,Sam Houston St.,70,Oklahoma St.,85,Oklahoma St.,-15
+11/16/2023,St. Bonaventure,66,Oklahoma St.,64,Oklahoma St.,2
+11/20/2023,New Orleans,68,Oklahoma St.,96,Oklahoma St.,-28
+11/24/2023,Houston Christian,65,Oklahoma St.,92,Oklahoma St.,-27
+11/30/2023,Creighton,79,Oklahoma St.,65,Oklahoma St.,14
+12/10/2023,Tulsa,57,Oklahoma St.,72,Oklahoma St.,-15
+12/17/2023,Oral Roberts,60,Oklahoma St.,81,Oklahoma St.,-21
+12/20/2023,Wofford,70,Oklahoma St.,76,Oklahoma St.,-6
+12/31/2023,South Carolina St.,70,Oklahoma St.,86,Oklahoma St.,-16
+11/06/2023,Virginia Wesleyan,57,Old Dominion,71,Old Dominion,-14
+11/22/2023,Princeton,76,Old Dominion,56,Old Dominion,20
+11/26/2023,Drexel,61,Old Dominion,68,Old Dominion,-7
+11/29/2023,Radford,68,Old Dominion,69,Old Dominion,-1
+12/09/2023,James Madison,84,Old Dominion,69,Old Dominion,15
+12/21/2023,TCU,111,Old Dominion,87,Old Dominion,24
+12/22/2023,Temple,63,Old Dominion,78,Old Dominion,-15
+12/30/2023,South Alabama,61,Old Dominion,59,Old Dominion,2
+11/10/2023,Mid America Christian,69,Oral Roberts,74,Oral Roberts,-5
+11/21/2023,Texas Southern,63,Oral Roberts,65,Oral Roberts,-2
+12/02/2023,Tulsa,70,Oral Roberts,79,Oral Roberts,-9
+12/09/2023,Ozark Christian,51,Oral Roberts,110,Oral Roberts,-59
+12/19/2023,John Brown,59,Oral Roberts,71,Oral Roberts,-12
+11/06/2023,Georgia,71,Oregon,82,Oregon,-11
+11/10/2023,Montana,61,Oregon,75,Oregon,-14
+11/17/2023,Tennessee St.,67,Oregon,92,Oregon,-25
+11/25/2023,Alabama,99,Oregon,91,Oregon,8
+12/02/2023,Michigan,83,Oregon,86,Oregon,-3
+12/09/2023,UTEP,49,Oregon,71,Oregon,-22
+12/12/2023,Cal Baptist,55,Oregon,76,Oregon,-21
+12/17/2023,Syracuse,83,Oregon,63,Oregon,20
+12/21/2023,Kent St.,70,Oregon,84,Oregon,-14
+12/28/2023,USC,74,Oregon,82,Oregon,-8
+12/30/2023,UCLA,59,Oregon,64,Oregon,-5
+11/06/2023,Linfield,46,Oregon St.,82,Oregon St.,-36
+11/10/2023,Troy,80,Oregon St.,81,Oregon St.,-1
+11/14/2023,Appalachian St.,71,Oregon St.,81,Oregon St.,-10
+11/22/2023,Baylor,88,Oregon St.,72,Oregon St.,16
+11/30/2023,UC Davis,59,Oregon St.,71,Oregon St.,-12
+12/04/2023,Cal Poly,63,Oregon St.,70,Oregon St.,-7
+12/09/2023,Utah Valley,71,Oregon St.,74,Oregon St.,-3
+12/17/2023,UTSA,65,Oregon St.,66,Oregon St.,-1
+12/21/2023,Idaho St.,57,Oregon St.,76,Oregon St.,-19
+12/28/2023,UCLA,69,Oregon St.,62,Oregon St.,7
+12/30/2023,USC,70,Oregon St.,86,Oregon St.,-16
+11/06/2023,Sam Houston St.,64,Pacific,57,Pacific,7
+11/18/2023,Lamar,76,Pacific,77,Pacific,-1
+11/20/2023,North Dakota,73,Pacific,71,Pacific,2
+11/24/2023,Le Moyne,71,Pacific,73,Pacific,-2
+11/26/2023,Mississippi Valley St.,65,Pacific,68,Pacific,-3
+11/29/2023,Cal St. Northridge,80,Pacific,69,Pacific,11
+12/16/2023,UC Davis,82,Pacific,61,Pacific,21
+12/18/2023,Cal St.Stanislaus,46,Pacific,68,Pacific,-22
+12/30/2023,California Maritime,66,Pacific,80,Pacific,-14
+11/06/2023,John Jay,57,Penn,102,Penn,-45
+11/08/2023,Bucknell,61,Penn,80,Penn,-19
+11/13/2023,Villanova,72,Penn,76,Penn,-4
+11/24/2023,Lafayette,72,Penn,74,Penn,-2
+11/25/2023,Belmont,84,Penn,79,Penn,5
+11/26/2023,Monmouth,61,Penn,76,Penn,-15
+12/02/2023,La Salle,93,Penn,92,Penn,1
+12/06/2023,FDU Florham,57,Penn,111,Penn,-54
+12/09/2023,Kentucky,81,Penn,66,Penn,15
+12/11/2023,Howard,68,Penn,78,Penn,-10
+11/06/2023,Delaware St.,45,Penn St.,79,Penn St.,-34
+11/10/2023,Lehigh,65,Penn St.,74,Penn St.,-9
+11/14/2023,Saint Francis,53,Penn St.,83,Penn St.,-30
+11/17/2023,Morehead St.,51,Penn St.,74,Penn St.,-23
+12/02/2023,Bucknell,76,Penn St.,67,Penn St.,9
+12/09/2023,Ohio St.,80,Penn St.,83,Penn St.,-3
+12/16/2023,Georgia Tech,82,Penn St.,81,Penn St.,1
+12/21/2023,Le Moyne,55,Penn St.,72,Penn St.,-17
+12/29/2023,Rider,63,Penn St.,90,Penn St.,-27
+11/06/2023,Concordia CA,64,Pepperdine,76,Pepperdine,-12
+11/12/2023,Lafayette,53,Pepperdine,76,Pepperdine,-23
+11/13/2023,LIU,53,Pepperdine,88,Pepperdine,-35
+11/17/2023,UNLV,82,Pepperdine,68,Pepperdine,14
+11/22/2023,Indiana St.,90,Pepperdine,82,Pepperdine,8
+11/28/2023,Idaho St.,62,Pepperdine,77,Pepperdine,-15
+12/06/2023,Cal St. Fullerton,60,Pepperdine,55,Pepperdine,5
+12/09/2023,UC San Diego,62,Pepperdine,68,Pepperdine,-6
+12/21/2023,William & Mary,59,Pepperdine,71,Pepperdine,-12
+12/29/2023,Westcliff,47,Pepperdine,83,Pepperdine,-36
+11/06/2023,North Carolina A&T,52,Pittsburgh,100,Pittsburgh,-48
+11/10/2023,Binghamton,60,Pittsburgh,89,Pittsburgh,-29
+11/13/2023,Florida Gulf Coast,74,Pittsburgh,86,Pittsburgh,-12
+11/17/2023,Jacksonville,56,Pittsburgh,107,Pittsburgh,-51
+11/22/2023,Florida,86,Pittsburgh,71,Pittsburgh,15
+11/24/2023,Oregon St.,51,Pittsburgh,76,Pittsburgh,-25
+11/28/2023,Missouri,71,Pittsburgh,64,Pittsburgh,7
+12/03/2023,Clemson,79,Pittsburgh,70,Pittsburgh,9
+12/09/2023,Canisius,71,Pittsburgh,82,Pittsburgh,-11
+12/16/2023,South Carolina St.,50,Pittsburgh,86,Pittsburgh,-36
+12/20/2023,Purdue Fort Wayne,48,Pittsburgh,62,Pittsburgh,-14
+11/06/2023,Long Beach St.,73,Portland,78,Portland,-5
+11/08/2023,Lewis & Clark,72,Portland,89,Portland,-17
+11/12/2023,UC Riverside,65,Portland,76,Portland,-11
+11/15/2023,Tennessee St.,75,Portland,65,Portland,10
+11/25/2023,Willamette,84,Portland,107,Portland,-23
+12/01/2023,Wyoming,70,Portland,81,Portland,-11
+12/03/2023,Air Force,80,Portland,58,Portland,22
+12/22/2023,Massachusetts,100,Portland,78,Portland,22
+12/24/2023,Temple,55,Portland,54,Portland,1
+11/12/2023,Linfield,53,Portland St.,70,Portland St.,-17
+11/19/2023,St. Thomas,76,Portland St.,70,Portland St.,6
+11/28/2023,Portland,74,Portland St.,75,Portland St.,-1
+12/06/2023,Lewis & Clark,60,Portland St.,104,Portland St.,-44
+12/09/2023,George Fox,77,Portland St.,83,Portland St.,-6
+11/06/2023,Kansas Christian,66,Prairie View A&M,89,Prairie View A&M,-23
+12/18/2023,North American,61,Prairie View A&M,92,Prairie View A&M,-31
+11/09/2023,Columbia International,58,Presbyterian,100,Presbyterian,-42
+11/13/2023,The Citadel,64,Presbyterian,71,Presbyterian,-7
+11/18/2023,Northwestern St.,75,Presbyterian,78,Presbyterian,-3
+11/22/2023,Tennessee Tech,79,Presbyterian,75,Presbyterian,4
+12/06/2023,Florida A&M,65,Presbyterian,60,Presbyterian,5
+12/13/2023,Mid Atlantic Christian,51,Presbyterian,118,Presbyterian,-67
+12/16/2023,Kennesaw St.,94,Presbyterian,84,Presbyterian,10
+12/30/2023,Johnson & Wales NC,67,Presbyterian,91,Presbyterian,-24
+11/25/2023,Northeastern,66,Princeton,80,Princeton,-14
+12/02/2023,Furman,69,Princeton,70,Princeton,-1
+12/05/2023,Drexel,70,Princeton,81,Princeton,-11
+12/13/2023,Bryn Athyn,40,Princeton,92,Princeton,-52
+12/22/2023,Delaware Valley,53,Princeton,84,Princeton,-31
+11/06/2023,Columbia,59,Providence,78,Providence,-19
+11/11/2023,Milwaukee,69,Providence,79,Providence,-10
+11/14/2023,Wisconsin,59,Providence,72,Providence,-13
+11/17/2023,Kansas St.,73,Providence,70,Providence,3
+11/19/2023,Georgia,64,Providence,71,Providence,-7
+11/24/2023,Lehigh,64,Providence,78,Providence,-14
+11/28/2023,Wagner,52,Providence,86,Providence,-34
+12/02/2023,Rhode Island,69,Providence,84,Providence,-15
+12/10/2023,Brown,54,Providence,74,Providence,-20
+12/16/2023,Sacred Heart,64,Providence,78,Providence,-14
+12/19/2023,Marquette,57,Providence,72,Providence,-15
+12/23/2023,Butler,75,Providence,85,Providence,-10
+11/06/2023,Samford,45,Purdue,98,Purdue,-53
+11/10/2023,Morehead St.,57,Purdue,87,Purdue,-30
+11/13/2023,Xavier,71,Purdue,83,Purdue,-12
+11/21/2023,Tennessee,67,Purdue,71,Purdue,-4
+11/28/2023,Texas Southern,67,Purdue,99,Purdue,-32
+12/04/2023,Iowa,68,Purdue,87,Purdue,-19
+12/16/2023,Arizona,84,Purdue,92,Purdue,-8
+12/21/2023,Jacksonville,57,Purdue,100,Purdue,-43
+12/29/2023,Eastern Kentucky,53,Purdue,80,Purdue,-27
+11/09/2023,Andrews,34,Purdue Fort Wayne,130,Purdue Fort Wayne,-96
+11/12/2023,Texas A&M Commerce,64,Purdue Fort Wayne,86,Purdue Fort Wayne,-22
+11/17/2023,Northern Arizona,67,Purdue Fort Wayne,77,Purdue Fort Wayne,-10
+11/18/2023,South Dakota,81,Purdue Fort Wayne,93,Purdue Fort Wayne,-12
+11/25/2023,Wittenberg,64,Purdue Fort Wayne,95,Purdue Fort Wayne,-31
+11/29/2023,Green Bay,71,Purdue Fort Wayne,75,Purdue Fort Wayne,-4
+12/09/2023,Southeast Missouri St.,80,Purdue Fort Wayne,89,Purdue Fort Wayne,-9
+12/16/2023,Bethune Cookman,63,Purdue Fort Wayne,86,Purdue Fort Wayne,-23
+12/29/2023,Northern Kentucky,60,Purdue Fort Wayne,73,Purdue Fort Wayne,-13
+12/31/2023,Detroit Mercy,56,Purdue Fort Wayne,91,Purdue Fort Wayne,-35
+11/14/2023,High Point,72,Queens,74,Queens,-2
+11/22/2023,Fairleigh Dickinson,84,Queens,97,Queens,-13
+11/29/2023,Gardner Webb,80,Queens,83,Queens,-3
+12/01/2023,Carolina Christian,69,Queens,134,Queens,-65
+12/09/2023,Carolina,64,Queens,112,Queens,-48
+12/13/2023,Appalachian St.,93,Queens,81,Queens,12
+11/06/2023,Coast Guard,48,Quinnipiac,116,Quinnipiac,-68
+11/10/2023,Central Connecticut,70,Quinnipiac,74,Quinnipiac,-4
+11/19/2023,Albany,82,Quinnipiac,85,Quinnipiac,-3
+11/26/2023,Stonehill,69,Quinnipiac,80,Quinnipiac,-11
+12/08/2023,Navy,68,Quinnipiac,71,Quinnipiac,-3
+12/11/2023,Yale,73,Quinnipiac,66,Quinnipiac,7
+11/12/2023,Eastern Mennonite,47,Radford,84,Radford,-37
+11/21/2023,Morgan St.,72,Radford,82,Radford,-10
+11/26/2023,Notre Dame MD,53,Radford,100,Radford,-47
+12/03/2023,Elon,72,Radford,82,Radford,-10
+12/09/2023,North Carolina Central,74,Radford,82,Radford,-8
+12/12/2023,VMI,56,Radford,73,Radford,-17
+11/06/2023,Central Connecticut,70,Rhode Island,81,Rhode Island,-11
+11/09/2023,Fairfield,80,Rhode Island,93,Rhode Island,-13
+11/14/2023,Wagner,53,Rhode Island,69,Rhode Island,-16
+11/19/2023,Washington St.,78,Rhode Island,57,Rhode Island,21
+11/22/2023,Johnson & Wales RI,59,Rhode Island,97,Rhode Island,-38
+11/26/2023,Yale,72,Rhode Island,76,Rhode Island,-4
+12/06/2023,Brown,67,Rhode Island,64,Rhode Island,3
+12/16/2023,Delaware,67,Rhode Island,56,Rhode Island,11
+12/21/2023,New Hampshire,81,Rhode Island,71,Rhode Island,10
+12/30/2023,Northeastern,71,Rhode Island,82,Rhode Island,-11
+11/07/2023,St. Thomas TX,57,Rice,101,Rice,-44
+11/10/2023,Harvard,89,Rice,76,Rice,13
+11/22/2023,New Mexico,90,Rice,56,Rice,34
+11/30/2023,Tennessee Martin,78,Rice,98,Rice,-20
+12/02/2023,Houston Christian,56,Rice,65,Rice,-9
+12/13/2023,Incarnate Word,57,Rice,80,Rice,-23
+12/20/2023,Prairie View A&M,56,Rice,82,Rice,-26
+12/22/2023,Louisiana,84,Rice,67,Rice,17
+11/06/2023,VMI,75,Richmond,93,Richmond,-18
+11/11/2023,Siena,48,Richmond,90,Richmond,-42
+11/20/2023,Colorado,64,Richmond,59,Richmond,5
+11/21/2023,UNLV,65,Richmond,82,Richmond,-17
+11/25/2023,Queens,61,Richmond,90,Richmond,-29
+12/02/2023,William & Mary,69,Richmond,88,Richmond,-19
+12/16/2023,Charlotte,56,Richmond,64,Richmond,-8
+12/21/2023,Buffalo,66,Richmond,72,Richmond,-6
+12/30/2023,Lafayette,38,Richmond,59,Richmond,-21
+11/06/2023,Immaculata,67,Rider,113,Rider,-46
+12/03/2023,Fairfield,88,Rider,81,Rider,7
+12/08/2023,Stonehill,56,Rider,73,Rider,-17
+12/23/2023,Penn,77,Rider,73,Rider,4
+11/09/2023,Point Park,56,Robert Morris,66,Robert Morris,-10
+11/24/2023,Jacksonville,74,Robert Morris,65,Robert Morris,9
+11/26/2023,Fairleigh Dickinson,86,Robert Morris,97,Robert Morris,-11
+12/02/2023,Youngstown St.,71,Robert Morris,57,Robert Morris,14
+12/11/2023,Delaware,73,Robert Morris,69,Robert Morris,4
+12/17/2023,St. Vincent,46,Robert Morris,95,Robert Morris,-49
+12/22/2023,Cornell,90,Robert Morris,85,Robert Morris,5
+11/06/2023,Princeton,68,Rutgers,61,Rutgers,7
+11/10/2023,Boston University,45,Rutgers,69,Rutgers,-24
+11/12/2023,Bryant,57,Rutgers,66,Rutgers,-9
+11/15/2023,Georgetown,60,Rutgers,71,Rutgers,-11
+11/18/2023,Howard,63,Rutgers,85,Rutgers,-22
+11/27/2023,Saint Peter's,40,Rutgers,71,Rutgers,-31
+12/02/2023,Illinois,76,Rutgers,58,Rutgers,18
+12/16/2023,LIU,61,Rutgers,83,Rutgers,-22
+12/23/2023,Mississippi St.,70,Rutgers,60,Rutgers,10
+12/30/2023,Stonehill,58,Rutgers,59,Rutgers,-1
+11/09/2023,North Park,67,SIU Edwardsville,92,SIU Edwardsville,-25
+11/16/2023,Denver,74,SIU Edwardsville,77,SIU Edwardsville,-3
+11/25/2023,Detroit Mercy,67,SIU Edwardsville,81,SIU Edwardsville,-14
+11/28/2023,Missouri Baptist,62,SIU Edwardsville,86,SIU Edwardsville,-24
+12/06/2023,Green Bay,69,SIU Edwardsville,78,SIU Edwardsville,-9
+12/18/2023,Central Christian MO,56,SIU Edwardsville,99,SIU Edwardsville,-43
+12/29/2023,Eastern Illinois,58,SIU Edwardsville,67,SIU Edwardsville,-9
+12/31/2023,Western Illinois,78,SIU Edwardsville,70,SIU Edwardsville,8
+11/06/2023,SW Assemblies of God,63,SMU,82,SMU,-19
+11/08/2023,Western Illinois,53,SMU,90,SMU,-37
+11/09/2023,Lamar,67,SMU,78,SMU,-11
+11/14/2023,Texas A&M,79,SMU,66,SMU,13
+11/20/2023,West Virginia,58,SMU,70,SMU,-12
+11/22/2023,Wisconsin,69,SMU,61,SMU,8
+11/26/2023,Louisiana Monroe,57,SMU,70,SMU,-13
+11/29/2023,Dayton,65,SMU,63,SMU,2
+12/03/2023,Texas A&M Commerce,47,SMU,90,SMU,-43
+12/19/2023,Houston Christian,53,SMU,89,SMU,-36
+11/14/2023,Pacific Union,66,Sacramento St.,128,Sacramento St.,-62
+11/20/2023,Cal St. Bakersfield,75,Sacramento St.,71,Sacramento St.,4
+12/09/2023,Cal St. Fullerton,62,Sacramento St.,60,Sacramento St.,2
+12/18/2023,UC San Diego,83,Sacramento St.,52,Sacramento St.,31
+12/21/2023,Bethesda,45,Sacramento St.,100,Sacramento St.,-55
+11/06/2023,Sarah Lawrence,51,Sacred Heart,95,Sacred Heart,-44
+11/21/2023,Binghamton,75,Sacred Heart,89,Sacred Heart,-14
+11/30/2023,New Hampshire,90,Sacred Heart,84,Sacred Heart,6
+12/02/2023,Boston University,70,Sacred Heart,49,Sacred Heart,21
+12/09/2023,Fairfield,67,Sacred Heart,57,Sacred Heart,10
+12/21/2023,Dartmouth,57,Sacred Heart,67,Sacred Heart,-10
+12/30/2023,Mercy,63,Sacred Heart,92,Sacred Heart,-29
+11/20/2023,Pittsburgh Greensburg,63,Saint Francis,77,Saint Francis,-14
+11/22/2023,Franciscan,54,Saint Francis,107,Saint Francis,-53
+11/25/2023,Niagara,69,Saint Francis,61,Saint Francis,8
+12/15/2023,Mount St. Mary's,72,Saint Francis,65,Saint Francis,7
+12/20/2023,Robert Morris,75,Saint Francis,73,Saint Francis,2
+12/30/2023,Campbell,76,Saint Francis,78,Saint Francis,-2
+11/06/2023,Lafayette,60,Saint Joseph's,81,Saint Joseph's,-21
+11/10/2023,Penn,61,Saint Joseph's,69,Saint Joseph's,-8
+11/14/2023,Stonehill,56,Saint Joseph's,100,Saint Joseph's,-44
+11/17/2023,Texas A&M Commerce,57,Saint Joseph's,54,Saint Joseph's,3
+11/26/2023,Sacred Heart,55,Saint Joseph's,64,Saint Joseph's,-9
+12/02/2023,Temple,65,Saint Joseph's,74,Saint Joseph's,-9
+12/06/2023,American,53,Saint Joseph's,69,Saint Joseph's,-16
+12/10/2023,Princeton,70,Saint Joseph's,74,Saint Joseph's,-4
+12/16/2023,Iona,58,Saint Joseph's,83,Saint Joseph's,-25
+12/29/2023,Loyola MD,56,Saint Joseph's,97,Saint Joseph's,-41
+11/06/2023,Southern Indiana,63,Saint Louis,75,Saint Louis,-12
+11/08/2023,Lincoln MO,66,Saint Louis,102,Saint Louis,-36
+11/11/2023,Illinois St.,71,Saint Louis,80,Saint Louis,-9
+11/17/2023,Vermont,78,Saint Louis,68,Saint Louis,10
+11/25/2023,Dartmouth,65,Saint Louis,66,Saint Louis,-1
+11/28/2023,Utah St.,81,Saint Louis,76,Saint Louis,5
+12/09/2023,Hofstra,68,Saint Louis,71,Saint Louis,-3
+12/16/2023,Louisiana Tech,74,Saint Louis,75,Saint Louis,-1
+11/06/2023,Cal St.Stanislaus,28,Saint Mary's,107,Saint Mary's,-79
+11/09/2023,New Mexico,58,Saint Mary's,72,Saint Mary's,-14
+11/12/2023,Weber St.,61,Saint Mary's,57,Saint Mary's,4
+11/17/2023,San Diego St.,79,Saint Mary's,54,Saint Mary's,25
+11/24/2023,Davidson,55,Saint Mary's,89,Saint Mary's,-34
+11/27/2023,Utah,78,Saint Mary's,71,Saint Mary's,7
+12/05/2023,Cleveland St.,57,Saint Mary's,70,Saint Mary's,-13
+12/16/2023,UNLV,67,Saint Mary's,69,Saint Mary's,-2
+12/19/2023,Middle Tennessee,34,Saint Mary's,71,Saint Mary's,-37
+12/21/2023,Northern Kentucky,56,Saint Mary's,92,Saint Mary's,-36
+12/23/2023,Missouri St.,69,Saint Mary's,64,Saint Mary's,5
+12/29/2023,Kent St.,46,Saint Mary's,66,Saint Mary's,-20
+11/20/2023,UMass Lowell,69,Saint Peter's,61,Saint Peter's,8
+12/12/2023,UMBC,60,Saint Peter's,66,Saint Peter's,-6
+12/22/2023,Kean,70,Saint Peter's,73,Saint Peter's,-3
+11/09/2023,Utah Valley,79,Sam Houston St.,73,Sam Houston St.,6
+11/22/2023,Grambling St.,68,Sam Houston St.,86,Sam Houston St.,-18
+11/25/2023,Paul Quinn,61,Sam Houston St.,78,Sam Houston St.,-17
+12/03/2023,Lamar,70,Sam Houston St.,90,Sam Houston St.,-20
+12/12/2023,Louisiana Monroe,62,Sam Houston St.,63,Sam Houston St.,-1
+12/15/2023,Texas St.,73,Sam Houston St.,60,Sam Houston St.,13
+11/14/2023,Mississippi College,52,Samford,96,Samford,-44
+11/17/2023,South Carolina St.,72,Samford,89,Samford,-17
+11/22/2023,Alabama St.,67,Samford,99,Samford,-32
+11/24/2023,Merrimack,71,Samford,79,Samford,-8
+11/25/2023,North Carolina A&T,83,Samford,101,Samford,-18
+11/30/2023,Louisiana,65,Samford,88,Samford,-23
+12/03/2023,LaGrange,82,Samford,128,Samford,-46
+12/11/2023,Alabama A&M,91,Samford,118,Samford,-27
+12/16/2023,Belmont,93,Samford,99,Samford,-6
+11/06/2023,Sonoma St.,64,San Diego,68,San Diego,-4
+11/08/2023,Jackson St.,61,San Diego,87,San Diego,-26
+11/17/2023,Le Moyne,71,San Diego,80,San Diego,-9
+11/20/2023,Navy,59,San Diego,67,San Diego,-8
+11/24/2023,Arkansas St.,57,San Diego,71,San Diego,-14
+11/25/2023,Hawaii,77,San Diego,66,San Diego,11
+11/29/2023,Northern Colorado,72,San Diego,74,San Diego,-2
+12/09/2023,Arizona St.,84,San Diego,89,San Diego,-5
+12/15/2023,Portland St.,65,San Diego,69,San Diego,-4
+12/21/2023,South Dakota,66,San Diego,69,San Diego,-3
+12/29/2023,Fresno St.,71,San Diego,67,San Diego,4
+12/31/2023,Westcliff,65,San Diego,78,San Diego,-13
+11/06/2023,Cal St. Fullerton,57,San Diego St.,83,San Diego St.,-26
+11/14/2023,Long Beach St.,76,San Diego St.,88,San Diego St.,-12
+11/25/2023,California,67,San Diego St.,76,San Diego St.,-9
+11/27/2023,Point Loma Nazarene,51,San Diego St.,71,San Diego St.,-20
+12/09/2023,UC Irvine,62,San Diego St.,63,San Diego St.,-1
+12/19/2023,Saint Katherine,57,San Diego St.,91,San Diego St.,-34
+12/21/2023,Stanford,60,San Diego St.,74,San Diego St.,-14
+11/06/2023,Bethesda,59,San Francisco,128,San Francisco,-69
+11/09/2023,Saint Francis,52,San Francisco,84,San Francisco,-32
+11/22/2023,Purdue Fort Wayne,60,San Francisco,76,San Francisco,-16
+11/26/2023,Minnesota,58,San Francisco,76,San Francisco,-18
+12/11/2023,New Orleans,72,San Francisco,85,San Francisco,-13
+12/13/2023,Seattle,59,San Francisco,62,San Francisco,-3
+12/20/2023,Northern Arizona,51,San Francisco,91,San Francisco,-40
+12/22/2023,Fresno St.,57,San Francisco,77,San Francisco,-20
+12/30/2023,Mississippi Valley St.,42,San Francisco,92,San Francisco,-50
+11/07/2023,UC Irvine,64,San Jose St.,72,San Jose St.,-8
+11/09/2023,Bethesda,72,San Jose St.,117,San Jose St.,-45
+11/17/2023,Abilene Christian,77,San Jose St.,71,San Jose St.,6
+11/18/2023,Norfolk St.,53,San Jose St.,77,San Jose St.,-24
+11/27/2023,North Dakota St.,65,San Jose St.,78,San Jose St.,-13
+12/09/2023,New Orleans,82,San Jose St.,87,San Jose St.,-5
+12/17/2023,Montana,86,San Jose St.,75,San Jose St.,11
+12/20/2023,Santa Clara,78,San Jose St.,81,San Jose St.,-3
+11/08/2023,Utah Tech,69,Santa Clara,77,Santa Clara,-8
+11/11/2023,Saint Francis,59,Santa Clara,82,Santa Clara,-23
+11/18/2023,Southeastern Louisiana,63,Santa Clara,65,Santa Clara,-2
+11/20/2023,Mississippi Valley St.,39,Santa Clara,81,Santa Clara,-42
+11/24/2023,Oregon,82,Santa Clara,88,Santa Clara,-6
+11/25/2023,Ohio St.,86,Santa Clara,56,Santa Clara,30
+11/29/2023,Menlo,69,Santa Clara,106,Santa Clara,-37
+12/13/2023,Utah St.,84,Santa Clara,82,Santa Clara,2
+12/23/2023,Duquesne,73,Santa Clara,81,Santa Clara,-8
+12/30/2023,Yale,66,Santa Clara,58,Santa Clara,8
+11/08/2023,Prairie View A&M,60,Seattle,71,Seattle,-11
+11/11/2023,Montana St.,68,Seattle,71,Seattle,-3
+11/15/2023,Northern Arizona,62,Seattle,60,Seattle,2
+11/22/2023,Idaho,55,Seattle,92,Seattle,-37
+11/26/2023,UC San Diego,67,Seattle,79,Seattle,-12
+12/02/2023,Southern Utah,63,Seattle,73,Seattle,-10
+12/09/2023,Northwest,46,Seattle,101,Seattle,-55
+12/17/2023,Washington,100,Seattle,99,Seattle,1
+12/20/2023,Louisiana Tech,73,Seattle,79,Seattle,-6
+11/06/2023,Saint Peter's,59,Seton Hall,70,Seton Hall,-11
+11/11/2023,Fairleigh Dickinson,55,Seton Hall,85,Seton Hall,-30
+11/15/2023,Albany,71,Seton Hall,96,Seton Hall,-25
+11/18/2023,Wagner,51,Seton Hall,72,Seton Hall,-21
+11/24/2023,Iowa,85,Seton Hall,72,Seton Hall,13
+11/29/2023,Northeastern,75,Seton Hall,88,Seton Hall,-13
+12/09/2023,Rutgers,70,Seton Hall,63,Seton Hall,7
+12/12/2023,Monmouth,61,Seton Hall,70,Seton Hall,-9
+12/20/2023,Connecticut,60,Seton Hall,75,Seton Hall,-15
+11/06/2023,Holy Cross,71,Siena,73,Siena,-2
+11/26/2023,Albany,86,Siena,51,Siena,35
+12/01/2023,Rider,65,Siena,67,Siena,-2
+12/06/2023,Bryant,67,Siena,51,Siena,16
+12/19/2023,Cornell,95,Siena,74,Siena,21
+11/06/2023,Mobile,83,South Alabama,74,South Alabama,9
+11/16/2023,Nicholls St.,102,South Alabama,97,South Alabama,5
+11/17/2023,Denver,75,South Alabama,82,South Alabama,-7
+11/19/2023,SIU Edwardsville,74,South Alabama,86,South Alabama,-12
+11/21/2023,Lynn,62,South Alabama,74,South Alabama,-12
+12/09/2023,Spring Hill,74,South Alabama,91,South Alabama,-17
+12/21/2023,Alabama A&M,67,South Alabama,83,South Alabama,-16
+11/06/2023,USC Upstate,53,South Carolina,82,South Carolina,-29
+11/10/2023,Virginia Tech,77,South Carolina,79,South Carolina,-2
+11/13/2023,VMI,64,South Carolina,74,South Carolina,-10
+11/17/2023,DePaul,68,South Carolina,73,South Carolina,-5
+11/28/2023,Notre Dame,53,South Carolina,65,South Carolina,-12
+12/01/2023,George Washington,67,South Carolina,89,South Carolina,-22
+12/16/2023,Charleston Southern,69,South Carolina,73,South Carolina,-4
+12/19/2023,Winthrop,62,South Carolina,72,South Carolina,-10
+12/22/2023,Elon,43,South Carolina,70,South Carolina,-27
+12/30/2023,Florida A&M,62,South Carolina,94,South Carolina,-32
+11/06/2023,Voorhees,57,South Carolina St.,65,South Carolina St.,-8
+11/13/2023,North Florida,77,South Carolina St.,87,South Carolina St.,-10
+12/09/2023,Bethune Cookman,80,South Carolina St.,71,South Carolina St.,9
+12/11/2023,Jacksonville,85,South Carolina St.,86,South Carolina St.,-1
+12/22/2023,Brewton Parker,84,South Carolina St.,101,South Carolina St.,-17
+11/06/2023,Mount Marty,53,South Dakota,85,South Dakota,-32
+11/10/2023,UT Rio Grande Valley,79,South Dakota,100,South Dakota,-21
+11/22/2023,Northland,48,South Dakota,100,South Dakota,-52
+11/26/2023,Air Force,58,South Dakota,57,South Dakota,1
+11/28/2023,Waldorf,71,South Dakota,93,South Dakota,-22
+12/09/2023,Cal St. Bakersfield,73,South Dakota,78,South Dakota,-5
+12/31/2023,Nebraska Omaha,67,South Dakota,51,South Dakota,16
+11/06/2023,Akron,81,South Dakota St.,75,South Dakota St.,6
+11/08/2023,Dakota Wesleyan,55,South Dakota St.,83,South Dakota St.,-28
+11/20/2023,George Mason,73,South Dakota St.,71,South Dakota St.,2
+11/27/2023,Mount Marty,70,South Dakota St.,92,South Dakota St.,-22
+12/01/2023,Towson,48,South Dakota St.,61,South Dakota St.,-13
+12/05/2023,Kent St.,82,South Dakota St.,73,South Dakota St.,9
+12/14/2023,Mayville St.,62,South Dakota St.,94,South Dakota St.,-32
+12/31/2023,North Dakota,61,South Dakota St.,80,South Dakota St.,-19
+11/09/2023,South Carolina St.,52,South Florida,96,South Florida,-44
+11/15/2023,Central Michigan,68,South Florida,63,South Florida,5
+11/19/2023,Northern Iowa,65,South Florida,74,South Florida,-9
+11/22/2023,Maine,70,South Florida,59,South Florida,11
+12/09/2023,Florida St.,72,South Florida,88,South Florida,-16
+12/12/2023,Arkansas Pine Bluff,86,South Florida,104,South Florida,-18
+12/16/2023,Loyola Chicago,64,South Florida,77,South Florida,-13
+12/22/2023,Albany,73,South Florida,89,South Florida,-16
+12/29/2023,Alabama St.,70,South Florida,73,South Florida,-3
+11/15/2023,Evansville,76,Southeast Missouri St.,57,Southeast Missouri St.,19
+11/20/2023,Central Arkansas,68,Southeast Missouri St.,70,Southeast Missouri St.,-2
+11/25/2023,Evansville,93,Southeast Missouri St.,74,Southeast Missouri St.,19
+12/03/2023,Missouri Baptist,56,Southeast Missouri St.,84,Southeast Missouri St.,-28
+12/06/2023,Harris Stowe,45,Southeast Missouri St.,95,Southeast Missouri St.,-50
+12/17/2023,Lindsey Wilson,59,Southeast Missouri St.,87,Southeast Missouri St.,-28
+12/29/2023,Southern Indiana,91,Southeast Missouri St.,93,Southeast Missouri St.,-2
+12/31/2023,Morehead St.,83,Southeast Missouri St.,64,Southeast Missouri St.,19
+11/06/2023,Delta St.,71,Southeastern Louisiana,90,Southeastern Louisiana,-19
+11/25/2023,Tennessee St.,91,Southeastern Louisiana,77,Southeastern Louisiana,14
+11/28/2023,Southern New Orleans,55,Southeastern Louisiana,101,Southeastern Louisiana,-46
+12/20/2023,Grambling St.,47,Southeastern Louisiana,48,Southeastern Louisiana,-1
+12/30/2023,Loyola LA,64,Southeastern Louisiana,87,Southeastern Louisiana,-23
+12/09/2023,Southeastern Louisiana,44,Southern,69,Southern,-25
+12/12/2023,Champion Christian,61,Southern,109,Southern,-48
+12/19/2023,Wiley,49,Southern,82,Southern,-33
+12/31/2023,Ecclesia,42,Southern,115,Southern,-73
+11/06/2023,Kentucky St.,57,Southern Illinois,88,Southern Illinois,-31
+11/10/2023,Queens,68,Southern Illinois,91,Southern Illinois,-23
+11/16/2023,Chicago St.,55,Southern Illinois,71,Southern Illinois,-16
+11/21/2023,James Madison,82,Southern Illinois,76,Southern Illinois,6
+12/02/2023,Saint Louis,62,Southern Illinois,101,Southern Illinois,-39
+12/05/2023,Oklahoma St.,68,Southern Illinois,70,Southern Illinois,-2
+12/12/2023,Austin Peay,70,Southern Illinois,68,Southern Illinois,2
+12/19/2023,North Dakota St.,63,Southern Illinois,76,Southern Illinois,-13
+12/22/2023,Southern Indiana,50,Southern Illinois,81,Southern Illinois,-31
+12/30/2023,Illinois Chicago,50,Southern Illinois,62,Southern Illinois,-12
+11/12/2023,Chicago St.,78,Southern Indiana,67,Southern Indiana,11
+11/14/2023,Tiffin,65,Southern Indiana,68,Southern Indiana,-3
+11/28/2023,East West,49,Southern Indiana,107,Southern Indiana,-58
+12/02/2023,Bowling Green,54,Southern Indiana,52,Southern Indiana,2
+12/06/2023,Purdue Fort Wayne,70,Southern Indiana,57,Southern Indiana,13
+12/19/2023,St. Francis IL,47,Southern Indiana,79,Southern Indiana,-32
+11/06/2023,William Carey,42,Southern Miss,64,Southern Miss,-22
+11/15/2023,Xavier LA,45,Southern Miss,76,Southern Miss,-31
+11/19/2023,Utah Valley,67,Southern Miss,65,Southern Miss,2
+11/22/2023,South Dakota St.,65,Southern Miss,54,Southern Miss,11
+12/09/2023,Northwestern St.,74,Southern Miss,83,Southern Miss,-9
+11/09/2023,Life Pacific,73,Southern Utah,108,Southern Utah,-35
+11/29/2023,Cal Baptist,91,Southern Utah,66,Southern Utah,25
+12/09/2023,Idaho St.,74,Southern Utah,82,Southern Utah,-8
+12/22/2023,Middle Tennessee,63,Southern Utah,69,Southern Utah,-6
+12/30/2023,Antelope Valley,78,Southern Utah,95,Southern Utah,-17
+11/06/2023,Longwood,69,St. Bonaventure,73,St. Bonaventure,-4
+11/11/2023,Canisius,70,St. Bonaventure,67,St. Bonaventure,3
+11/22/2023,Bucknell,61,St. Bonaventure,67,St. Bonaventure,-6
+11/25/2023,Miami OH,60,St. Bonaventure,90,St. Bonaventure,-30
+12/09/2023,Siena,56,St. Bonaventure,89,St. Bonaventure,-33
+12/16/2023,Florida Atlantic,64,St. Bonaventure,54,St. Bonaventure,10
+12/22/2023,Binghamton,64,St. Bonaventure,90,St. Bonaventure,-26
+11/07/2023,Stony Brook,74,St. John's,90,St. John's,-16
+11/13/2023,Michigan,89,St. John's,73,St. John's,16
+11/25/2023,Holy Cross,45,St. John's,91,St. John's,-46
+12/06/2023,Sacred Heart,50,St. John's,85,St. John's,-35
+12/10/2023,Boston College,86,St. John's,80,St. John's,6
+12/16/2023,Fordham,55,St. John's,77,St. John's,-22
+12/20/2023,Xavier,66,St. John's,81,St. John's,-15
+12/30/2023,Hofstra,79,St. John's,84,St. John's,-5
+11/10/2023,Idaho St.,53,St. Thomas,54,St. Thomas,-1
+11/12/2023,North Central MN,54,St. Thomas,100,St. Thomas,-46
+12/06/2023,Milwaukee,71,St. Thomas,75,St. Thomas,-4
+12/17/2023,Crown,66,St. Thomas,85,St. Thomas,-19
+12/21/2023,Wisconsin River Falls,51,St. Thomas,104,St. Thomas,-53
+12/31/2023,UMKC,56,St. Thomas,77,St. Thomas,-21
+11/06/2023,Cal St. Northridge,79,Stanford,88,Stanford,-9
+11/10/2023,Sacramento St.,73,Stanford,91,Stanford,-18
+11/14/2023,Santa Clara,89,Stanford,77,Stanford,12
+11/17/2023,Eastern Washington,70,Stanford,95,Stanford,-25
+11/22/2023,Arkansas,77,Stanford,74,Stanford,3
+11/23/2023,Michigan,83,Stanford,78,Stanford,5
+11/24/2023,Northern Iowa,73,Stanford,51,Stanford,22
+12/03/2023,San Diego,64,Stanford,88,Stanford,-24
+12/17/2023,Idaho,64,Stanford,82,Stanford,-18
+12/29/2023,Arizona St.,76,Stanford,73,Stanford,3
+12/31/2023,Arizona,82,Stanford,100,Stanford,-18
+11/06/2023,North American,68,Stephen F. Austin,96,Stephen F. Austin,-28
+11/20/2023,Drake,68,Stephen F. Austin,92,Stephen F. Austin,-24
+11/29/2023,Tarleton St.,68,Stephen F. Austin,66,Stephen F. Austin,2
+12/05/2023,Louisiana Tech,56,Stephen F. Austin,49,Stephen F. Austin,7
+12/19/2023,New Mexico St.,72,Stephen F. Austin,75,Stephen F. Austin,-3
+12/22/2023,Paul Quinn,58,Stephen F. Austin,115,Stephen F. Austin,-57
+12/29/2023,New Orleans,51,Stephen F. Austin,80,Stephen F. Austin,-29
+11/06/2023,Trinity Baptist,54,Stetson,109,Stetson,-55
+11/21/2023,Central Michigan,61,Stetson,71,Stetson,-10
+11/29/2023,Coastal Georgia,49,Stetson,94,Stetson,-45
+12/10/2023,Johnson FL,43,Stetson,123,Stetson,-80
+12/29/2023,Charlotte,75,Stetson,79,Stetson,-4
+11/09/2023,Army,44,Stonehill,57,Stonehill,-13
+11/29/2023,UMass Lowell,80,Stonehill,74,Stonehill,6
+12/02/2023,Binghamton,79,Stonehill,64,Stonehill,15
+12/17/2023,Hartford,44,Stonehill,71,Stonehill,-27
+11/10/2023,St. Joseph's NY,50,Stony Brook,91,Stony Brook,-41
+11/20/2023,Rider,48,Stony Brook,55,Stony Brook,-7
+12/02/2023,Wagner,60,Stony Brook,59,Stony Brook,1
+12/06/2023,Stonehill,63,Stony Brook,81,Stony Brook,-18
+12/09/2023,Bryant,75,Stony Brook,86,Stony Brook,-11
+12/13/2023,Norfolk St.,78,Stony Brook,84,Stony Brook,-6
+12/29/2023,Brown,65,Stony Brook,69,Stony Brook,-4
+11/06/2023,New Hampshire,72,Syracuse,83,Syracuse,-11
+11/08/2023,Canisius,77,Syracuse,89,Syracuse,-12
+11/14/2023,Colgate,75,Syracuse,79,Syracuse,-4
+11/20/2023,Tennessee,73,Syracuse,56,Syracuse,17
+11/28/2023,LSU,57,Syracuse,80,Syracuse,-23
+12/05/2023,Cornell,70,Syracuse,81,Syracuse,-11
+12/21/2023,Niagara,71,Syracuse,83,Syracuse,-12
+12/30/2023,Pittsburgh,73,Syracuse,81,Syracuse,-8
+11/06/2023,Southern,75,TCU,108,TCU,-33
+11/09/2023,Nebraska Omaha,60,TCU,82,TCU,-22
+11/14/2023,UT Rio Grande Valley,55,TCU,88,TCU,-33
+11/17/2023,Mississippi Valley St.,52,TCU,86,TCU,-34
+11/21/2023,Alcorn St.,74,TCU,93,TCU,-19
+11/27/2023,Houston Christian,64,TCU,101,TCU,-37
+12/16/2023,Arizona St.,59,TCU,79,TCU,-20
+12/22/2023,Nevada,88,TCU,75,TCU,13
+11/11/2023,UNT Dallas,52,Tarleton St.,93,Tarleton St.,-41
+11/22/2023,Cal St. Bakersfield,40,Tarleton St.,59,Tarleton St.,-19
+12/02/2023,UT Rio Grande Valley,75,Tarleton St.,77,Tarleton St.,-2
+12/05/2023,Hardin Simmons,56,Tarleton St.,92,Tarleton St.,-36
+12/12/2023,Sterling KS,47,Tarleton St.,85,Tarleton St.,-38
+12/18/2023,Jacksonville St.,65,Tarleton St.,62,Tarleton St.,3
+11/06/2023,Maryland Eastern Shore,65,Temple,85,Temple,-20
+11/18/2023,Columbia,78,Temple,73,Temple,5
+11/22/2023,Mississippi,77,Temple,76,Temple,1
+11/29/2023,La Salle,99,Temple,106,Temple,-7
+12/06/2023,Bloomsburg,55,Temple,85,Temple,-30
+12/10/2023,Albany,73,Temple,78,Temple,-5
+11/06/2023,Tennessee Tech,42,Tennessee,80,Tennessee,-38
+11/14/2023,Wofford,61,Tennessee,82,Tennessee,-21
+12/05/2023,George Mason,66,Tennessee,87,Tennessee,-21
+12/09/2023,Illinois,79,Tennessee,86,Tennessee,-7
+12/12/2023,Georgia Southern,56,Tennessee,74,Tennessee,-18
+12/16/2023,N.C. State,70,Tennessee,79,Tennessee,-9
+12/21/2023,Tarleton St.,46,Tennessee,65,Tennessee,-19
+11/06/2023,Champion Christian,76,Tennessee Martin,104,Tennessee Martin,-28
+11/13/2023,Brescia,72,Tennessee Martin,90,Tennessee Martin,-18
+11/19/2023,Prairie View A&M,78,Tennessee Martin,66,Tennessee Martin,12
+11/22/2023,North Alabama,103,Tennessee Martin,105,Tennessee Martin,-2
+12/10/2023,Ecclesia,52,Tennessee Martin,110,Tennessee Martin,-58
+12/20/2023,William Woods,75,Tennessee Martin,78,Tennessee Martin,-3
+11/06/2023,Fisk,61,Tennessee St.,76,Tennessee St.,-15
+11/09/2023,Kentucky St.,58,Tennessee St.,83,Tennessee St.,-25
+11/20/2023,Midway,70,Tennessee St.,87,Tennessee St.,-17
+11/24/2023,Mercer,60,Tennessee St.,59,Tennessee St.,1
+12/02/2023,Austin Peay,65,Tennessee St.,69,Tennessee St.,-4
+12/16/2023,Boyce,59,Tennessee St.,117,Tennessee St.,-58
+12/28/2023,Tennessee Martin,91,Tennessee St.,75,Tennessee St.,16
+12/30/2023,Little Rock,82,Tennessee St.,90,Tennessee St.,-8
+11/14/2023,Lipscomb,96,Tennessee Tech,65,Tennessee Tech,31
+11/16/2023,Midway,70,Tennessee Tech,82,Tennessee Tech,-12
+11/28/2023,Western Carolina,69,Tennessee Tech,65,Tennessee Tech,4
+12/03/2023,Alice Lloyd,82,Tennessee Tech,108,Tennessee Tech,-26
+12/12/2023,Bethel TN,74,Tennessee Tech,81,Tennessee Tech,-7
+12/16/2023,North Alabama,67,Tennessee Tech,70,Tennessee Tech,-3
+12/28/2023,Little Rock,81,Tennessee Tech,75,Tennessee Tech,6
+12/30/2023,Tennessee Martin,81,Tennessee Tech,73,Tennessee Tech,8
+11/06/2023,Incarnate Word,56,Texas,88,Texas,-32
+11/10/2023,Delaware St.,59,Texas,86,Texas,-27
+11/15/2023,Rice,64,Texas,80,Texas,-16
+11/20/2023,Connecticut,81,Texas,71,Texas,10
+11/26/2023,Wyoming,63,Texas,86,Texas,-23
+11/30/2023,Texas St.,58,Texas,77,Texas,-19
+12/09/2023,Houston Christian,50,Texas,77,Texas,-27
+12/16/2023,LSU,85,Texas,96,Texas,-11
+12/22/2023,Texas A&M Corpus Chris,55,Texas,71,Texas,-16
+12/29/2023,UNC Greensboro,37,Texas,72,Texas,-35
+11/06/2023,Texas A&M Commerce,46,Texas A&M,78,Texas A&M,-32
+11/17/2023,Oral Roberts,66,Texas A&M,74,Texas A&M,-8
+11/23/2023,Penn St.,77,Texas A&M,89,Texas A&M,-12
+12/06/2023,DePaul,64,Texas A&M,89,Texas A&M,-25
+12/10/2023,Memphis,81,Texas A&M,75,Texas A&M,6
+12/22/2023,Houston Christian,52,Texas A&M,79,Texas A&M,-27
+12/30/2023,Prairie View A&M,54,Texas A&M,79,Texas A&M,-25
+11/15/2023,Science and Arts,63,Texas A&M Commerce,113,Texas A&M Commerce,-50
+11/20/2023,Stonehill,86,Texas A&M Commerce,97,Texas A&M Commerce,-11
+11/26/2023,Denver,71,Texas A&M Commerce,61,Texas A&M Commerce,10
+11/29/2023,Dallas Christian,48,Texas A&M Commerce,100,Texas A&M Commerce,-52
+12/11/2023,Northern Colorado,99,Texas A&M Commerce,101,Texas A&M Commerce,-2
+12/18/2023,Arlington Baptist,53,Texas A&M Commerce,130,Texas A&M Commerce,-77
+11/07/2023,Southwestern Adventist,46,Texas A&M Corpus Chris,111,Texas A&M Corpus Chris,-65
+11/13/2023,Dallas Christian,45,Texas A&M Corpus Chris,104,Texas A&M Corpus Chris,-59
+12/06/2023,UT Rio Grande Valley,76,Texas A&M Corpus Chris,74,Texas A&M Corpus Chris,2
+12/09/2023,Nebraska Omaha,58,Texas A&M Corpus Chris,62,Texas A&M Corpus Chris,-4
+12/18/2023,Texas Lutheran,50,Texas A&M Corpus Chris,102,Texas A&M Corpus Chris,-52
+12/30/2023,Schreiner,61,Texas A&M Corpus Chris,84,Texas A&M Corpus Chris,-23
+12/17/2023,Howard,78,Texas Southern,79,Texas Southern,-1
+12/21/2023,Samford,87,Texas Southern,65,Texas Southern,22
+12/28/2023,Biblical Studies,72,Texas Southern,108,Texas Southern,-36
+11/17/2023,UTSA,62,Texas St.,72,Texas St.,-10
+11/22/2023,Southern Utah,74,Texas St.,67,Texas St.,7
+12/11/2023,Jarvis Christian,58,Texas St.,107,Texas St.,-49
+12/18/2023,LeTourneau,68,Texas St.,110,Texas St.,-42
+11/08/2023,Texas A&M Commerce,46,Texas Tech,73,Texas Tech,-27
+11/12/2023,San Jose St.,42,Texas Tech,56,Texas Tech,-14
+11/16/2023,Texas A&M Corpus Chris,64,Texas Tech,73,Texas Tech,-9
+11/22/2023,Villanova,85,Texas Tech,69,Texas Tech,16
+11/23/2023,Northern Iowa,70,Texas Tech,72,Texas Tech,-2
+12/06/2023,Nebraska Omaha,58,Texas Tech,87,Texas Tech,-29
+12/12/2023,Oral Roberts,76,Texas Tech,82,Texas Tech,-6
+12/16/2023,Vanderbilt,54,Texas Tech,76,Texas Tech,-22
+12/21/2023,UT Arlington,66,Texas Tech,77,Texas Tech,-11
+12/28/2023,Sam Houston St.,60,Texas Tech,96,Texas Tech,-36
+11/10/2023,Boston College,75,The Citadel,71,The Citadel,4
+11/16/2023,North Greenville,59,The Citadel,77,The Citadel,-18
+11/21/2023,North Carolina Central,61,The Citadel,67,The Citadel,-6
+11/28/2023,Charleston Southern,52,The Citadel,81,The Citadel,-29
+12/05/2023,Pfeiffer,60,The Citadel,88,The Citadel,-28
+12/30/2023,Toccoa Falls,76,The Citadel,106,The Citadel,-30
+11/06/2023,Detroit Mercy,60,Toledo,94,Toledo,-34
+11/11/2023,Louisiana,78,Toledo,87,Toledo,-9
+11/22/2023,UC Irvine,77,Toledo,71,Toledo,6
+12/02/2023,George Mason,86,Toledo,77,Toledo,9
+12/09/2023,Northern Iowa,80,Toledo,84,Toledo,-4
+12/13/2023,Marshall,87,Toledo,88,Toledo,-1
+12/20/2023,Vermont,86,Toledo,60,Toledo,26
+11/12/2023,Robert Morris,62,Towson,66,Towson,-4
+11/16/2023,Houston,65,Towson,49,Towson,16
+11/19/2023,North Texas,65,Towson,39,Towson,26
+11/26/2023,Morgan St.,58,Towson,67,Towson,-9
+12/06/2023,Massachusetts,71,Towson,81,Towson,-10
+12/22/2023,Nicholls St.,55,Towson,65,Towson,-10
+12/30/2023,Arcadia,46,Towson,97,Towson,-51
+11/06/2023,Fort Lauderdale,47,Troy,92,Troy,-45
+11/14/2023,Reinhardt,46,Troy,111,Troy,-65
+11/20/2023,Sam Houston St.,88,Troy,86,Troy,2
+11/24/2023,Grambling St.,67,Troy,80,Troy,-13
+12/01/2023,SIU Edwardsville,60,Troy,83,Troy,-23
+12/12/2023,Southern New Orleans,63,Troy,110,Troy,-47
+12/21/2023,Eastern Kentucky,81,Troy,88,Troy,-7
+11/06/2023,Nicholls St.,81,Tulane,91,Tulane,-10
+11/09/2023,Northwestern St.,71,Tulane,88,Tulane,-17
+11/17/2023,Sacramento St.,57,Tulane,92,Tulane,-35
+11/20/2023,Bradley,80,Tulane,77,Tulane,3
+11/29/2023,Prairie View A&M,77,Tulane,98,Tulane,-21
+12/14/2023,Furman,110,Tulane,117,Tulane,-7
+12/16/2023,Southern,81,Tulane,105,Tulane,-24
+12/22/2023,George Mason,69,Tulane,66,Tulane,3
+12/29/2023,Dillard,64,Tulane,94,Tulane,-30
+11/06/2023,Central Arkansas,53,Tulsa,70,Tulsa,-17
+11/11/2023,Incarnate Word,71,Tulsa,85,Tulsa,-14
+11/16/2023,Jackson St.,52,Tulsa,72,Tulsa,-20
+11/20/2023,South Carolina St.,70,Tulsa,90,Tulsa,-20
+12/05/2023,Loyola Chicago,77,Tulsa,88,Tulsa,-11
+12/16/2023,Missouri St.,72,Tulsa,73,Tulsa,-1
+12/19/2023,Mississippi Valley St.,50,Tulsa,79,Tulsa,-29
+12/22/2023,New Mexico St.,59,Tulsa,65,Tulsa,-6
+12/29/2023,Southwestern Oklahoma,54,Tulsa,95,Tulsa,-41
+11/06/2023,Bradley,73,UAB,71,UAB,2
+11/10/2023,Clemson,77,UAB,76,UAB,1
+11/12/2023,Maryland,63,UAB,66,UAB,-3
+11/16/2023,Alcorn St.,77,UAB,80,UAB,-3
+11/25/2023,Furman,86,UAB,92,UAB,-6
+11/28/2023,McNeese St.,81,UAB,60,UAB,21
+12/01/2023,Southern Miss,85,UAB,82,UAB,3
+12/17/2023,Montevallo,56,UAB,92,UAB,-36
+12/22/2023,Drake,78,UAB,79,UAB,-1
+12/29/2023,UNC Asheville,85,UAB,90,UAB,-5
+11/06/2023,Jessup,51,UC Davis,86,UC Davis,-35
+11/09/2023,Pepperdine,78,UC Davis,79,UC Davis,-1
+11/14/2023,North Dakota St.,53,UC Davis,68,UC Davis,-15
+11/26/2023,Sacramento St.,69,UC Davis,63,UC Davis,6
+12/09/2023,Milwaukee,81,UC Davis,79,UC Davis,2
+12/19/2023,Montana,73,UC Davis,61,UC Davis,12
+12/21/2023,California Merced,57,UC Davis,80,UC Davis,-23
+12/28/2023,UC Santa Barbara,62,UC Davis,76,UC Davis,-14
+12/30/2023,Cal Poly,46,UC Davis,71,UC Davis,-25
+11/11/2023,New Mexico St.,74,UC Irvine,91,UC Irvine,-17
+11/17/2023,Occidental,51,UC Irvine,111,UC Irvine,-60
+11/21/2023,Pepperdine,60,UC Irvine,76,UC Irvine,-16
+11/24/2023,Rice,68,UC Irvine,83,UC Irvine,-15
+12/16/2023,South Dakota,78,UC Irvine,121,UC Irvine,-43
+12/28/2023,UC Riverside,66,UC Irvine,73,UC Irvine,-7
+11/07/2023,California Merced,69,UC Riverside,76,UC Riverside,-7
+11/26/2023,Bethesda,63,UC Riverside,109,UC Riverside,-46
+12/03/2023,North Dakota,62,UC Riverside,68,UC Riverside,-6
+12/16/2023,Cal Baptist,70,UC Riverside,69,UC Riverside,1
+12/21/2023,Idaho,67,UC Riverside,82,UC Riverside,-15
+12/30/2023,UC Santa Barbara,77,UC Riverside,79,UC Riverside,-2
+11/06/2023,Denver,87,UC San Diego,95,UC San Diego,-8
+11/11/2023,San Diego,63,UC San Diego,69,UC San Diego,-6
+11/13/2023,La Verne,57,UC San Diego,116,UC San Diego,-59
+11/18/2023,Navy,55,UC San Diego,73,UC San Diego,-18
+12/01/2023,San Diego St.,63,UC San Diego,62,UC San Diego,1
+12/05/2023,Occidental,67,UC San Diego,98,UC San Diego,-31
+12/28/2023,Cal St. Bakersfield,64,UC San Diego,76,UC San Diego,-12
+11/09/2023,Portland St.,82,UC Santa Barbara,76,UC Santa Barbara,6
+11/19/2023,Le Moyne,72,UC Santa Barbara,96,UC Santa Barbara,-24
+11/22/2023,Westmont,79,UC Santa Barbara,91,UC Santa Barbara,-12
+11/29/2023,Northern Arizona,59,UC Santa Barbara,70,UC Santa Barbara,-11
+12/09/2023,Bethesda,76,UC Santa Barbara,126,UC Santa Barbara,-50
+12/20/2023,Howard,81,UC Santa Barbara,94,UC Santa Barbara,-13
+11/06/2023,FIU,62,UCF,85,UCF,-23
+11/16/2023,Cal St. Fullerton,44,UCF,72,UCF,-28
+11/19/2023,South Dakota St.,80,UCF,83,UCF,-3
+11/20/2023,Charlotte,71,UCF,74,UCF,-3
+11/26/2023,Stetson,85,UCF,82,UCF,3
+12/02/2023,Lipscomb,57,UCF,72,UCF,-15
+12/06/2023,Jacksonville,52,UCF,94,UCF,-42
+12/10/2023,Mississippi,70,UCF,68,UCF,2
+12/18/2023,Maine,51,UCF,74,UCF,-23
+12/21/2023,Florida A&M,56,UCF,69,UCF,-13
+12/29/2023,Bethune Cookman,54,UCF,98,UCF,-44
+11/06/2023,Saint Francis,44,UCLA,75,UCLA,-31
+11/10/2023,Lafayette,50,UCLA,68,UCLA,-18
+11/15/2023,LIU,58,UCLA,78,UCLA,-20
+11/22/2023,Gonzaga,69,UCLA,65,UCLA,4
+11/30/2023,UC Riverside,65,UCLA,66,UCLA,-1
+12/19/2023,Cal St. Northridge,76,UCLA,72,UCLA,4
+12/22/2023,Maryland,69,UCLA,60,UCLA,9
+11/11/2023,Marist,65,UMBC,59,UMBC,6
+11/14/2023,Penn St. York,65,UMBC,84,UMBC,-19
+11/17/2023,Sacred Heart,80,UMBC,85,UMBC,-5
+11/19/2023,Loyola MD,79,UMBC,94,UMBC,-15
+12/02/2023,Lehigh,87,UMBC,92,UMBC,-5
+12/09/2023,Towson,89,UMBC,73,UMBC,16
+12/29/2023,American,87,UMBC,85,UMBC,2
+11/06/2023,Avila,48,UMKC,79,UMKC,-31
+11/11/2023,Saint Mary,42,UMKC,95,UMKC,-53
+11/24/2023,UNC Greensboro,76,UMKC,64,UMKC,12
+11/30/2023,Southeast Missouri St.,44,UMKC,74,UMKC,-30
+12/12/2023,Tabor,57,UMKC,80,UMKC,-23
+12/29/2023,Oral Roberts,60,UMKC,77,UMKC,-17
+11/06/2023,Rivier,51,UMass Lowell,96,UMass Lowell,-45
+12/05/2023,Fisher,69,UMass Lowell,117,UMass Lowell,-48
+12/12/2023,LIU,65,UMass Lowell,78,UMass Lowell,-13
+12/16/2023,Central Connecticut,57,UMass Lowell,54,UMass Lowell,3
+12/31/2023,Emerson,48,UMass Lowell,116,UMass Lowell,-68
+11/11/2023,UNC Wilmington,83,UNC Asheville,66,UNC Asheville,17
+11/14/2023,Carolina,54,UNC Asheville,117,UNC Asheville,-63
+11/18/2023,Virginia Lynchburg,59,UNC Asheville,114,UNC Asheville,-55
+11/25/2023,Wofford,82,UNC Asheville,85,UNC Asheville,-3
+11/26/2023,Western Kentucky,67,UNC Asheville,77,UNC Asheville,-10
+12/01/2023,Johnson TN,51,UNC Asheville,97,UNC Asheville,-46
+12/18/2023,South Carolina St.,75,UNC Asheville,79,UNC Asheville,-4
+12/23/2023,Kennesaw St.,70,UNC Asheville,79,UNC Asheville,-9
+11/10/2023,North Carolina A&T,78,UNC Greensboro,94,UNC Greensboro,-16
+12/01/2023,William Peace,56,UNC Greensboro,88,UNC Greensboro,-32
+12/07/2023,Eastern Kentucky,85,UNC Greensboro,87,UNC Greensboro,-2
+12/10/2023,Elon,73,UNC Greensboro,82,UNC Greensboro,-9
+12/21/2023,Virginia Lynchburg,57,UNC Greensboro,135,UNC Greensboro,-78
+11/06/2023,Mount Olive,66,UNC Wilmington,105,UNC Wilmington,-39
+11/14/2023,Columbia International,80,UNC Wilmington,116,UNC Wilmington,-36
+12/10/2023,Montreat,50,UNC Wilmington,119,UNC Wilmington,-69
+11/08/2023,Southern,85,UNLV,71,UNLV,14
+11/11/2023,Stetson,55,UNLV,71,UNLV,-16
+11/20/2023,Florida St.,83,UNLV,75,UNLV,8
+11/28/2023,Akron,70,UNLV,72,UNLV,-2
+12/09/2023,Loyola Marymount,78,UNLV,75,UNLV,3
+12/13/2023,Creighton,64,UNLV,79,UNLV,-15
+12/21/2023,Hofstra,56,UNLV,74,UNLV,-18
+12/31/2023,Carroll MT,51,UNLV,87,UNLV,-36
+11/09/2023,Cal St. Bakersfield,59,USC,85,USC,-26
+11/14/2023,UC Irvine,70,USC,60,USC,10
+11/19/2023,Brown,70,USC,81,USC,-11
+11/23/2023,Seton Hall,63,USC,71,USC,-8
+11/24/2023,Oklahoma,72,USC,70,USC,2
+11/29/2023,Eastern Washington,78,USC,106,USC,-28
+12/02/2023,Gonzaga,89,USC,76,USC,13
+12/10/2023,Long Beach St.,84,USC,79,USC,5
+11/12/2023,Carolina,48,USC Upstate,106,USC Upstate,-58
+11/25/2023,Voorhees,44,USC Upstate,79,USC Upstate,-35
+12/09/2023,Kennesaw St.,84,USC Upstate,77,USC Upstate,7
+12/16/2023,Western Carolina,70,USC Upstate,53,USC Upstate,17
+12/30/2023,Coker,76,USC Upstate,96,USC Upstate,-20
+11/06/2023,Oral Roberts,71,UT Arlington,75,UT Arlington,-4
+11/11/2023,Texas Tyler,64,UT Arlington,95,UT Arlington,-31
+11/22/2023,Alcorn St.,69,UT Arlington,82,UT Arlington,-13
+11/25/2023,Texas St.,73,UT Arlington,66,UT Arlington,7
+11/29/2023,Abilene Christian,71,UT Arlington,86,UT Arlington,-15
+12/06/2023,UNT Dallas,37,UT Arlington,74,UT Arlington,-37
+12/16/2023,Air Force,73,UT Arlington,76,UT Arlington,-3
+11/06/2023,Southwestern Adventist,59,UT Rio Grande Valley,110,UT Rio Grande Valley,-51
+11/20/2023,North American,73,UT Rio Grande Valley,92,UT Rio Grande Valley,-19
+11/29/2023,Grand Canyon,79,UT Rio Grande Valley,69,UT Rio Grande Valley,10
+12/15/2023,Texas A&M Corpus Chris,86,UT Rio Grande Valley,76,UT Rio Grande Valley,10
+12/30/2023,Incarnate Word,74,UT Rio Grande Valley,77,UT Rio Grande Valley,-3
+11/06/2023,McMurry,71,UTEP,120,UTEP,-49
+11/09/2023,Science and Arts,72,UTEP,123,UTEP,-51
+11/13/2023,UC Santa Barbara,76,UTEP,89,UTEP,-13
+11/17/2023,Austin Peay,63,UTEP,71,UTEP,-8
+11/22/2023,Bradley,63,UTEP,59,UTEP,4
+11/29/2023,Texas A&M Corpus Chris,67,UTEP,63,UTEP,4
+12/04/2023,Western New Mexico,62,UTEP,90,UTEP,-28
+12/20/2023,Norfolk St.,65,UTEP,67,UTEP,-2
+12/21/2023,Wyoming,67,UTEP,78,UTEP,-11
+12/30/2023,Seattle,73,UTEP,61,UTEP,12
+11/06/2023,Western Illinois,68,UTSA,78,UTSA,-10
+11/24/2023,Jacksonville St.,77,UTSA,62,UTSA,15
+11/25/2023,Incarnate Word,80,UTSA,90,UTSA,-10
+11/30/2023,Lamar,83,UTSA,86,UTSA,-3
+12/10/2023,Arkansas Fort Smith,60,UTSA,93,UTSA,-33
+12/21/2023,Army,63,UTSA,53,UTSA,10
+12/28/2023,Prairie View A&M,89,UTSA,103,UTSA,-14
+11/06/2023,Eastern Washington,66,Utah,101,Utah,-35
+11/10/2023,UC Riverside,53,Utah,82,Utah,-29
+11/17/2023,Houston,76,Utah,66,Utah,10
+11/19/2023,St. John's,91,Utah,82,Utah,9
+11/30/2023,Hawaii,66,Utah,79,Utah,-13
+12/05/2023,Southern Utah,86,Utah,88,Utah,-2
+12/09/2023,BYU,69,Utah,73,Utah,-4
+12/16/2023,Utah Valley,62,Utah,76,Utah,-14
+12/20/2023,Bellarmine,43,Utah,85,Utah,-42
+12/29/2023,Washington St.,58,Utah,80,Utah,-22
+12/31/2023,Washington,90,Utah,95,Utah,-5
+11/06/2023,South Dakota Mines,48,Utah St.,101,Utah St.,-53
+11/14/2023,Southern Utah,84,Utah St.,93,Utah St.,-9
+11/19/2023,Marshall,60,Utah St.,83,Utah St.,-23
+11/21/2023,Stephen F. Austin,49,Utah St.,79,Utah St.,-30
+12/02/2023,UC Irvine,69,Utah St.,79,Utah St.,-10
+12/06/2023,San Diego,81,Utah St.,108,Utah St.,-27
+12/09/2023,Northwest Nazarene,53,Utah St.,84,Utah St.,-31
+12/16/2023,San Francisco,53,Utah St.,54,Utah St.,-1
+12/22/2023,East Tennessee St.,65,Utah St.,80,Utah St.,-15
+12/02/2023,Utah Valley,53,Utah Tech,65,Utah Tech,-12
+12/09/2023,Idaho,63,Utah Tech,62,Utah Tech,1
+12/16/2023,North Dakota,79,Utah Tech,62,Utah Tech,17
+12/30/2023,FIU,92,Utah Tech,96,Utah Tech,-4
+11/06/2023,Carroll MT,73,Utah Valley,81,Utah Valley,-8
+11/24/2023,Western Colorado,52,Utah Valley,87,Utah Valley,-35
+11/29/2023,Seattle,72,Utah Valley,78,Utah Valley,-6
+12/05/2023,Weber St.,54,Utah Valley,70,Utah Valley,-16
+12/20/2023,Liberty,79,Utah Valley,63,Utah Valley,16
+11/06/2023,McNeese St.,76,VCU,65,VCU,11
+11/10/2023,Samford,65,VCU,75,VCU,-10
+11/15/2023,Radford,50,VCU,73,VCU,-23
+11/18/2023,Seattle,56,VCU,60,VCU,-4
+11/23/2023,Iowa St.,68,VCU,64,VCU,4
+11/26/2023,Penn St.,74,VCU,86,VCU,-12
+12/01/2023,Norfolk St.,63,VCU,60,VCU,3
+12/06/2023,Memphis,85,VCU,80,VCU,5
+12/10/2023,Alcorn St.,58,VCU,86,VCU,-28
+12/16/2023,Temple,78,VCU,87,VCU,-9
+12/22/2023,Maryland Eastern Shore,51,VCU,75,VCU,-24
+12/30/2023,Gardner Webb,73,VCU,87,VCU,-14
+11/09/2023,Christendom,53,VMI,87,VMI,-34
+11/17/2023,South Dakota,85,VMI,81,VMI,4
+11/25/2023,Clarks Summit,63,VMI,100,VMI,-37
+12/02/2023,Presbyterian,75,VMI,71,VMI,4
+12/09/2023,American,77,VMI,69,VMI,8
+12/22/2023,Penn State New Kensing,65,VMI,82,VMI,-17
+11/06/2023,Trinity Christian,61,Valparaiso,100,Valparaiso,-39
+11/10/2023,IUPUI,66,Valparaiso,56,Valparaiso,10
+11/14/2023,Green Bay,59,Valparaiso,64,Valparaiso,-5
+11/21/2023,Western Illinois,66,Valparaiso,73,Valparaiso,-7
+11/25/2023,Southern,59,Valparaiso,71,Valparaiso,-12
+11/29/2023,Drake,83,Valparaiso,65,Valparaiso,18
+12/16/2023,Chicago St.,63,Valparaiso,62,Valparaiso,1
+12/19/2023,Samford,79,Valparaiso,61,Valparaiso,18
+11/07/2023,Presbyterian,68,Vanderbilt,62,Vanderbilt,6
+11/10/2023,USC Upstate,67,Vanderbilt,74,Vanderbilt,-7
+11/14/2023,UNC Greensboro,70,Vanderbilt,74,Vanderbilt,-4
+11/17/2023,Central Arkansas,71,Vanderbilt,75,Vanderbilt,-4
+11/23/2023,N.C. State,84,Vanderbilt,78,Vanderbilt,6
+11/29/2023,Boston College,80,Vanderbilt,62,Vanderbilt,18
+12/02/2023,Alabama A&M,59,Vanderbilt,78,Vanderbilt,-19
+12/06/2023,San Francisco,73,Vanderbilt,60,Vanderbilt,13
+12/19/2023,Western Carolina,63,Vanderbilt,62,Vanderbilt,1
+12/30/2023,Dartmouth,53,Vanderbilt,69,Vanderbilt,-16
+11/06/2023,Merrimack,55,Vermont,67,Vermont,-12
+11/11/2023,Plattsburgh St.,41,Vermont,92,Vermont,-51
+11/16/2023,Charleston,64,Vermont,73,Vermont,-9
+11/22/2023,Northern Vermont,57,Vermont,106,Vermont,-49
+11/29/2023,Dartmouth,53,Vermont,64,Vermont,-11
+12/02/2023,Yale,65,Vermont,66,Vermont,-1
+12/09/2023,Colgate,77,Vermont,71,Vermont,6
+11/06/2023,American,63,Villanova,90,Villanova,-27
+11/10/2023,Le Moyne,57,Villanova,83,Villanova,-26
+11/17/2023,Maryland,40,Villanova,57,Villanova,-17
+11/23/2023,North Carolina,81,Villanova,83,Villanova,-2
+11/29/2023,Saint Joseph's,78,Villanova,65,Villanova,13
+12/02/2023,Drexel,57,Villanova,55,Villanova,2
+12/09/2023,UCLA,56,Villanova,65,Villanova,-9
+11/06/2023,Tarleton St.,50,Virginia,80,Virginia,-30
+11/14/2023,North Carolina A&T,51,Virginia,80,Virginia,-29
+11/16/2023,Texas Southern,33,Virginia,62,Virginia,-29
+11/20/2023,Wisconsin,65,Virginia,41,Virginia,24
+11/29/2023,Texas A&M,47,Virginia,59,Virginia,-12
+12/02/2023,Syracuse,62,Virginia,84,Virginia,-22
+12/05/2023,North Carolina Central,47,Virginia,77,Virginia,-30
+12/16/2023,Northeastern,54,Virginia,56,Virginia,-2
+12/27/2023,Morgan St.,44,Virginia,79,Virginia,-35
+11/06/2023,Coppin St.,55,Virginia Tech,100,Virginia Tech,-45
+11/15/2023,Campbell,44,Virginia Tech,60,Virginia Tech,-16
+11/19/2023,Wofford,76,Virginia Tech,98,Virginia Tech,-22
+11/23/2023,Boise St.,75,Virginia Tech,82,Virginia Tech,-7
+11/24/2023,Iowa St.,62,Virginia Tech,71,Virginia Tech,-9
+11/26/2023,Florida Atlantic,84,Virginia Tech,50,Virginia Tech,34
+12/03/2023,Louisville,68,Virginia Tech,75,Virginia Tech,-7
+12/09/2023,Valparaiso,50,Virginia Tech,71,Virginia Tech,-21
+12/16/2023,Vermont,51,Virginia Tech,73,Virginia Tech,-22
+12/21/2023,American,55,Virginia Tech,77,Virginia Tech,-22
+11/09/2023,Molloy,48,Wagner,83,Wagner,-35
+11/25/2023,NJIT,51,Wagner,64,Wagner,-13
+12/10/2023,Boston University,73,Wagner,59,Wagner,14
+12/22/2023,Gwynedd Mercy,49,Wagner,98,Wagner,-49
+11/06/2023,Elon,78,Wake Forest,101,Wake Forest,-23
+11/16/2023,Utah,77,Wake Forest,70,Wake Forest,7
+11/17/2023,Towson,61,Wake Forest,71,Wake Forest,-10
+11/19/2023,LSU,86,Wake Forest,80,Wake Forest,6
+11/24/2023,Charleston Southern,56,Wake Forest,71,Wake Forest,-15
+11/29/2023,Florida,71,Wake Forest,82,Wake Forest,-11
+12/06/2023,Rutgers,57,Wake Forest,76,Wake Forest,-19
+12/09/2023,NJIT,59,Wake Forest,83,Wake Forest,-24
+12/18/2023,Delaware St.,59,Wake Forest,88,Wake Forest,-29
+12/21/2023,Presbyterian,68,Wake Forest,91,Wake Forest,-23
+12/30/2023,Virginia Tech,63,Wake Forest,86,Wake Forest,-23
+11/06/2023,Bellarmine,57,Washington,91,Washington,-34
+11/09/2023,Northern Kentucky,67,Washington,75,Washington,-8
+11/12/2023,Nevada,83,Washington,76,Washington,7
+11/17/2023,Xavier,71,Washington,74,Washington,-3
+11/19/2023,San Diego St.,100,Washington,97,Washington,3
+11/28/2023,UC San Diego,56,Washington,83,Washington,-27
+12/02/2023,Colorado St.,86,Washington,81,Washington,5
+12/05/2023,Montana St.,61,Washington,85,Washington,-24
+12/09/2023,Gonzaga,73,Washington,78,Washington,-5
+12/21/2023,Eastern Washington,66,Washington,73,Washington,-7
+11/06/2023,Idaho,59,Washington St.,84,Washington St.,-25
+11/10/2023,Prairie View A&M,65,Washington St.,83,Washington St.,-18
+11/18/2023,Mississippi St.,76,Washington St.,64,Washington St.,12
+11/24/2023,Utah Tech,53,Washington St.,93,Washington St.,-40
+11/27/2023,Eastern Washington,72,Washington St.,82,Washington St.,-10
+12/02/2023,Portland St.,61,Washington St.,71,Washington St.,-10
+12/06/2023,UC Riverside,49,Washington St.,86,Washington St.,-37
+12/10/2023,Grambling St.,65,Washington St.,83,Washington St.,-18
+12/16/2023,Santa Clara,69,Washington St.,61,Washington St.,8
+12/21/2023,Boise St.,61,Washington St.,66,Washington St.,-5
+11/07/2023,Benedictine Mesa,62,Weber St.,96,Weber St.,-34
+11/17/2023,Gardner Webb,62,Weber St.,61,Weber St.,1
+11/19/2023,Colgate,57,Weber St.,55,Weber St.,2
+11/27/2023,Navajo Tech,45,Weber St.,107,Weber St.,-62
+12/09/2023,Cal Poly,50,Weber St.,78,Weber St.,-28
+12/21/2023,Park Gilbert,39,Weber St.,90,Weber St.,-51
+12/28/2023,Montana,63,Weber St.,93,Weber St.,-30
+12/30/2023,Montana St.,64,Weber St.,86,Weber St.,-22
+11/06/2023,Missouri St.,59,West Virginia,67,West Virginia,-8
+11/10/2023,Monmouth,73,West Virginia,65,West Virginia,8
+11/14/2023,Jacksonville St.,57,West Virginia,70,West Virginia,-13
+11/22/2023,Virginia,56,West Virginia,54,West Virginia,2
+11/26/2023,Bellarmine,58,West Virginia,62,West Virginia,-4
+12/01/2023,St. John's,79,West Virginia,73,West Virginia,6
+12/06/2023,Pittsburgh,80,West Virginia,63,West Virginia,17
+12/09/2023,Drexel,60,West Virginia,66,West Virginia,-6
+12/20/2023,Radford,66,West Virginia,65,West Virginia,1
+12/23/2023,Toledo,81,West Virginia,91,West Virginia,-10
+11/07/2023,Dalton St.,65,Western Carolina,106,Western Carolina,-41
+11/18/2023,McNeese St.,74,Western Carolina,76,Western Carolina,-2
+11/26/2023,North Alabama,63,Western Carolina,81,Western Carolina,-18
+12/09/2023,UNC Asheville,63,Western Carolina,78,Western Carolina,-15
+12/21/2023,Brescia,47,Western Carolina,85,Western Carolina,-38
+12/30/2023,King,62,Western Carolina,90,Western Carolina,-28
+11/12/2023,St. Ambrose,59,Western Illinois,94,Western Illinois,-35
+11/17/2023,Southern,80,Western Illinois,88,Western Illinois,-8
+11/30/2023,Hannibal LaGrange,40,Western Illinois,92,Western Illinois,-52
+12/03/2023,South Dakota,70,Western Illinois,68,Western Illinois,2
+12/06/2023,Coe,58,Western Illinois,80,Western Illinois,-22
+12/18/2023,Eureka,56,Western Illinois,92,Western Illinois,-36
+11/06/2023,Kentucky Wesleyan,64,Western Kentucky,90,Western Kentucky,-26
+11/18/2023,Kentucky St.,75,Western Kentucky,95,Western Kentucky,-20
+11/25/2023,Canisius,85,Western Kentucky,77,Western Kentucky,8
+11/29/2023,Campbellsville,77,Western Kentucky,101,Western Kentucky,-24
+12/03/2023,Eastern Kentucky,69,Western Kentucky,79,Western Kentucky,-10
+12/16/2023,Austin Peay,64,Western Kentucky,65,Western Kentucky,-1
+12/30/2023,Abilene Christian,84,Western Kentucky,86,Western Kentucky,-2
+11/06/2023,North Dakota St.,80,Western Michigan,76,Western Michigan,4
+11/11/2023,Georgia St.,77,Western Michigan,70,Western Michigan,7
+11/24/2023,Southeastern Louisiana,67,Western Michigan,68,Western Michigan,-1
+11/25/2023,Mercer,66,Western Michigan,72,Western Michigan,-6
+12/01/2023,St. Thomas,66,Western Michigan,51,Western Michigan,15
+12/09/2023,Youngstown St.,72,Western Michigan,68,Western Michigan,4
+12/29/2023,Aquinas,71,Western Michigan,127,Western Michigan,-56
+11/06/2023,Lipscomb,59,Wichita St.,76,Wichita St.,-17
+11/09/2023,Western Kentucky,61,Wichita St.,71,Wichita St.,-10
+11/12/2023,Friends,65,Wichita St.,95,Wichita St.,-30
+11/19/2023,Saint Louis,69,Wichita St.,88,Wichita St.,-19
+11/25/2023,Norfolk St.,67,Wichita St.,80,Wichita St.,-13
+11/29/2023,Richmond,68,Wichita St.,80,Wichita St.,-12
+12/09/2023,South Dakota St.,79,Wichita St.,69,Wichita St.,10
+12/16/2023,Southern Illinois,68,Wichita St.,69,Wichita St.,-1
+11/06/2023,Regent,29,William & Mary,84,William & Mary,-55
+11/09/2023,American,56,William & Mary,75,William & Mary,-19
+11/19/2023,Lindenwood,71,William & Mary,60,William & Mary,11
+11/25/2023,UMBC,81,William & Mary,96,William & Mary,-15
+12/06/2023,Old Dominion,79,William & Mary,84,William & Mary,-5
+12/10/2023,Virginia Lynchburg,50,William & Mary,99,William & Mary,-49
+11/08/2023,Brevard,44,Winthrop,98,Winthrop,-54
+11/11/2023,Drexel,74,Winthrop,72,Winthrop,2
+11/17/2023,Holy Cross,51,Winthrop,89,Winthrop,-38
+11/18/2023,IUPUI,61,Winthrop,74,Winthrop,-13
+11/19/2023,Elon,70,Winthrop,78,Winthrop,-8
+11/28/2023,Bob Jones,49,Winthrop,90,Winthrop,-41
+12/05/2023,Queens,82,Winthrop,88,Winthrop,-6
+12/29/2023,Toccoa Falls,62,Winthrop,113,Winthrop,-51
+11/06/2023,Arkansas St.,76,Wisconsin,105,Wisconsin,-29
+11/10/2023,Tennessee,80,Wisconsin,70,Wisconsin,10
+11/17/2023,Robert Morris,68,Wisconsin,78,Wisconsin,-10
+11/27/2023,Western Illinois,49,Wisconsin,71,Wisconsin,-22
+12/02/2023,Marquette,64,Wisconsin,75,Wisconsin,-11
+12/14/2023,Jacksonville St.,60,Wisconsin,75,Wisconsin,-15
+12/22/2023,Chicago St.,53,Wisconsin,80,Wisconsin,-27
+11/06/2023,Brevard,68,Wofford,85,Wofford,-17
+11/11/2023,High Point,98,Wofford,99,Wofford,-1
+11/24/2023,Canisius,76,Wofford,67,Wofford,9
+11/26/2023,Lipscomb,85,Wofford,78,Wofford,7
+12/17/2023,Kentucky Christian,54,Wofford,105,Wofford,-51
+12/29/2023,Southern Wesleyan,55,Wofford,75,Wofford,-20
+11/14/2023,Toledo,78,Wright St.,77,Wright St.,1
+11/20/2023,Louisiana,85,Wright St.,91,Wright St.,-6
+11/22/2023,Illinois St.,49,Wright St.,74,Wright St.,-25
+11/29/2023,IUPUI,74,Wright St.,103,Wright St.,-29
+12/07/2023,Bethel IN,62,Wright St.,81,Wright St.,-19
+12/12/2023,Western Kentucky,91,Wright St.,84,Wright St.,7
+12/19/2023,Miami OH,82,Wright St.,92,Wright St.,-10
+12/22/2023,Muskingum,54,Wright St.,101,Wright St.,-47
+11/07/2023,Northern New Mexico,56,Wyoming,104,Wyoming,-48
+11/11/2023,Cal Poly,66,Wyoming,80,Wyoming,-14
+11/16/2023,Saint Louis,79,Wyoming,69,Wyoming,10
+11/17/2023,Charleston,60,Wyoming,67,Wyoming,-7
+12/05/2023,South Dakota Mines,59,Wyoming,80,Wyoming,-21
+12/09/2023,Stephen F. Austin,70,Wyoming,78,Wyoming,-8
+12/16/2023,Weber St.,84,Wyoming,71,Wyoming,13
+12/20/2023,South Dakota St.,65,Wyoming,78,Wyoming,-13
+11/06/2023,Robert Morris,63,Xavier,77,Xavier,-14
+11/10/2023,Jacksonville,56,Xavier,79,Xavier,-23
+11/19/2023,Saint Mary's,49,Xavier,66,Xavier,-17
+11/24/2023,Bryant,75,Xavier,100,Xavier,-25
+11/27/2023,Oakland,78,Xavier,76,Xavier,2
+12/01/2023,Houston,66,Xavier,60,Xavier,6
+12/05/2023,Delaware,87,Xavier,80,Xavier,7
+12/09/2023,Cincinnati,79,Xavier,84,Xavier,-5
+12/16/2023,Winthrop,59,Xavier,75,Xavier,-16
+12/23/2023,Seton Hall,54,Xavier,74,Xavier,-20
+11/06/2023,Vassar,53,Yale,102,Yale,-49
+11/17/2023,Colgate,50,Yale,68,Yale,-18
+11/18/2023,Weber St.,75,Yale,65,Yale,10
+11/29/2023,Stony Brook,71,Yale,79,Yale,-8
+12/06/2023,Fairfield,75,Yale,71,Yale,4
+12/08/2023,Colby Sawyer,36,Yale,95,Yale,-59
+11/13/2023,Ohio Christian,71,Youngstown St.,99,Youngstown St.,-28
+11/17/2023,Utah Tech,68,Youngstown St.,75,Youngstown St.,-7
+11/19/2023,Lake Erie,57,Youngstown St.,79,Youngstown St.,-22
+11/29/2023,Cleveland St.,69,Youngstown St.,94,Youngstown St.,-25
+12/14/2023,Bethany WV,70,Youngstown St.,107,Youngstown St.,-37
+12/18/2023,Westminster PA,45,Youngstown St.,117,Youngstown St.,-72
+12/21/2023,Navy,65,Youngstown St.,75,Youngstown St.,-10
+12/31/2023,Oakland,88,Youngstown St.,81,Youngstown St.,7

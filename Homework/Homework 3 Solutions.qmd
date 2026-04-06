@@ -1,0 +1,306 @@
+---
+title: "**MATH 3190 Homework 3 Solutions**"
+subtitle: |
+  Due February 12, 2026\
+  Focus: Notes 5\
+  Total Points: 90 + 10 (Self-Critique Comment and Uploading to GitHub) = 100
+format: 
+  html:
+    embed-resources: true # Keep this so the html file is easily shareable. 
+urlcolor: blue
+execute: # Will set these as the default for all code chunks
+  eval: true
+  echo: true
+editor_options: 
+  chunk_output_type: console
+---
+
+Note that your homework should be completed in Quarto. You can just add your answers and code to this document in the appropriate part. The file should be rendered as an html document or pdf document (html is quicker to render and you will need an installation of LaTeX to render as a pdf). You will "turn in" this homework by uploading the files, the .qmd and output file, to your GitHub `Math_3190_Assignment` repository in the `Homework/Homework_3` directory. Make sure all supporting files (if there are any) are in this directory as well. You should use `git` and `Unix` commands in a terminal for this (i.e. don't manually upload files to GitHub). In addition, you will submit just your html or pdf file on Canvas to unlock the solutions.
+
+Don't forget to also put a [self-critique comment]{.underline} on Canvas indicating what you did correctly and incorrectly and include any questions you may have about the assignment after submitting the assignment and thoroughly looking through the solutions.
+
+# Problem 1 (11 points)
+
+### Part a (9 points)
+
+Suppose we are attempting to predict a person's ability to run a marathon in under 4 hours (coded as a 1) based on a number of factors: age, sex, BMI, and blood pressure. Below is the confusion matrix in this situation:
+
+| | **Actual: 1** | **Actual: 0** |
+|:---|:---:|:---:|
+| **Predicted: 1** | 58 | 102 |
+| **Predicted: 0** | 37 | 217 |
+
+Find each of the following. Use proper formatting in Quarto when you type your answers. You can put equations between dollar signs (`$$`) and you can use the `\frac{}{}` (for a small fraction) or `\dfrac{}{}` (for a larger one) commands to nicely type fractions.
+
+-   The prevalence of those that can run a mile under 4 hours.
+-   The overall accuracy of these predictions.
+-   The sensitivity (recall).
+-   The specificity.
+-   The positive predictive value (precision).
+-   The negative predictive value.
+-   The balanced accuracy.
+-   Cohen's Kappa ($\kappa$). Check out this link on [Wikipedia: Cohen's Kappa](https://en.wikipedia.org/wiki/Cohen%27s_kappa) and scroll down to the section entitled **Binary classification confusion matrix**.
+-   F1 score. Check out what this is on [Wikipedia: F-Score](https://en.wikipedia.org/wiki/F-score)
+
+**Answers**
+
+Prevalence: $\dfrac{58+37}{58+37+102+217}=\dfrac{95}{414}=0.2295$.
+
+Accuracy: $\dfrac{58+217}{58+37+102+217}=\dfrac{275}{414} = 0.6643$.
+
+Sensitivity: $\dfrac{58}{58+37}=\dfrac{58}{95} = 0.6105$.
+
+Specificity: $\dfrac{217}{217+102}=\dfrac{217}{319} = 0.6803$.
+
+Positive predictive value: $\dfrac{58}{58+102}=\dfrac{58}{160} = 0.3625$.
+
+Negative predictive value: $\dfrac{217}{217+37}=\dfrac{217}{254} = 0.8543$.
+
+Balanced accuracy: $\dfrac{0.6105 + 0.6803}{2} = 0.6454$.
+
+Cohen's Kappa: $\dfrac{2\times(58*217 - 37*102)}{(58+102)\times(102+217) + (58+37)\times(37+217)}=\dfrac{17624}{75170}=  0.2345$.
+
+F1 score: $\dfrac{2\times58}{2\times58+102+37}=0.4549$.
+
+### Part b (2 points)
+
+Read more of the Wikipedia article on Cohen's Kappa, especially the **Interpreting magnitude** and the **Limitations** part. I cannot really verify that you did this, so this is on your honor.
+
+# Problem 2 (79 points)
+
+The `adult` dataset (from the UC Irvine [database](https://archive.ics.uci.edu/dataset/2/adult)) is one that is used to predict whether a person makes over \$50K a year based on some other variables. The data came from the Census Bureau in 1994 and can be found in the Data folder in my Math3190_S26 GitHub repo. More info on the dataset can be found in the "adult.names" file.
+
+### Part a (4 points)
+
+Read the data into **R** as a tibble, change the column names to be descriptive about what the variable in that column is, and change the one containing salary information to a factor. Read the "adult.names" file to see the column names. Note that even though this file has a `.data.` suffix, it is comma separated, so you can read it in using `read.csv()` in base **R** and the convert it to a tibble or `read_csv()` from the tidyverse, which wil read it in as a tibble.
+
+```{r}
+#| label: read_data
+#| cache: true
+#| message: false
+library(tidyverse) |> suppressPackageStartupMessages()
+library(caret) |> suppressPackageStartupMessages()
+# Set the working directory. 
+# You'd have to change this to where you keep your data
+setwd("~/My Drive/Math 3190 - Fundamentals of Data Science/Spring 2026/Data") 
+adult <- read_csv("adult.data", col_names = F) |>
+  mutate(X15 = factor(X15))
+  
+colnames(adult) <- c(
+  "age",
+  "workclass",
+  "fnlwgt",
+  "education",
+  "education_num",
+  "marital_status",
+  "occupation",
+  "relationship",
+  "race",
+  "sex",
+  "capital_gain",
+  "capital_loss",
+  "hours_per_week",
+  "native_country",
+  "salary"
+)
+```
+
+### Part b (4 points)
+
+Randomly split the dataset into a training and a testing group. Let's use 4/5 of it for training and 1/5 for testing. You can do this with any function you'd like. Please set a seed with the `set.seed()` function before you do this so the results are reproducible.
+
+```{r}
+#| label: create_partitions
+library(caret) |> suppressPackageStartupMessages()
+set.seed(2026)
+test_index <- createDataPartition(adult$salary, times = 1, p = 0.20, list = F)
+
+adult_train <- adult[-test_index,]
+adult_test <- adult[test_index,]
+```
+
+
+### Part c (5 points)
+
+Fit two models for predicting whether a person's salary is above \$50K or not:
+
+For the first model, fit a logistic regression model using something like `glm(salary ~ age + education + race + sex + hours_per_week, data = adult_train, family = "binomial")`. By the way, if you are unfamiliar with logistic regression, take some time to research it online or in my notes from Math 3150, which you can find [here](https://drive.google.com/file/d/1qQajPxb9tdgx5Qal-ppsK18XEdzsXe1o/view?usp=sharing). We will deal with logistic regression again on the next homework. You don't need to know everything about it, just learn a little about how it is used to predict the class for an observation. Of course, I'm happy to explain how it works in office hours as well.
+
+For the second model, fit a $k$ nearest neighbors model with $k=7$ neighbors using the `knn3()` function in the `caret` package. Again, use `age`, `education`, `race`, `sex`, and `hours_per_week` as the predictors.
+
+```{r}
+#| label: initial_models
+#| cache: true
+adult_train_glm <- glm(salary ~ age + education + race + sex + hours_per_week, 
+                       data = adult_train, family = "binomial")
+
+adult_train_knn <- knn3(salary ~ age + education + race + sex + hours_per_week, 
+                        data = adult_train, k = 7)
+```
+
+
+### Part d (5 points)
+
+With logistic regression, the most common cutoff value for the predicted probability for predicting a "success" is 0.5. Using 0.5 as this cutoff (above 0.5 should be labeled as "\>50K"), obtain the class predictions and convert the variable to a factor. You can use the `predict()` function with `type = "response"` to obtain the predicted probabilities of being in the "\>50K" group and then compare those probabilities to 0.5. Then use the `confusionMatrix()` function in the `caret` package to obtain the confusion matrix and many associated statistics. Print all of the output from that function. Remember to use the `positive` argument in that function. The positive should be the `>50K` category.
+
+```{r}
+#| label: glm_predictions
+y_hat_glm <- ifelse(predict(adult_train_glm, type = "response") > 0.5, 
+                    ">50K", "<=50K") |>
+  factor()
+confusionMatrix(y_hat_glm, adult_train$salary, positive = ">50K")
+```
+
+
+### Part e (4 points)
+
+Obtain the class predictions for your kNN model and output the results of the `confusionMatrix()` function for this. Note that it will take a few seconds to obtain the predictions for the kNN model.
+
+```{r}
+#| label: knn_predictions
+#| cache: true
+y_hat_knn <- predict(adult_train_knn, adult_train, type = "class")
+confusionMatrix(y_hat_knn, adult_train$salary, positive = ">50K")
+```
+
+
+### Part f (4 points)
+
+Using the output from parts d and e, write a few sentences comparing and contrasting the strengths and weaknesses of each model when it comes to predictions.
+
+**Answer**
+The kNN model was better in nearly every metric. The only metric that was better for my logistic model was the specificity, which was 0.9367 for the logistic and 0.9268 for the kNN.
+
+
+### Part g (8 points)
+
+Using the `train()` function in the `caret` package, perform 5-fold cross validation for $k$ in the kNN model using only the training set and again using `age`, `education`, `race`, `sex`, and `hours_per_week` as the predictors. Set the search for $k$ to be from 1 to 21 (we'll stop at 21 to save time) in the `tuneGrid` argument. Make sure to use the `trControl` option to set it to cross validation. Then use Cohen's $\kappa$ as the metric to determine the best $k$ value. You can change the metric in the `train()` function to Cohen's $\kappa$ by putting in `metric = "Kappa"`. 
+
+Then, if the best $k$ is different than 7, fit another kNN model with the optimal $k$ value. **Please set a seed at the beginning of this code chunk**.
+
+It is fairly computationally expensive to optimize the $k$ for the kNN model here since it takes so long to obtain the predictions. So, this may take a few minutes to run. Note that you can add `#| cache: true` to the top of the code chunk to cache the output of the code so the code doesn't need to run each time you render the document. 
+
+
+```{r}
+#| label: knn_training
+#| cache: true
+set.seed(2026)
+knn_training <- train(salary ~ age + education + race + sex + hours_per_week,
+      data = adult_train,
+      method = "knn",
+      metric = "Kappa",
+      trControl = trainControl(method = "cv", number = 5),
+      tuneGrid = data.frame(k = seq(1, 21, 2)))
+knn_training
+
+adult_train_knn3 <- knn3(salary ~ age + education + race + sex + hours_per_week, 
+                         data = adult_train, k = 3)
+```
+
+The best `k` was 3 here according to kappa, so a new model was fit. Your `k` that maximizes kappa may be different due to randomness. 
+
+
+### Part h (20 points)
+
+We mentioned the most common cutoff value for the predicted probability for predicting a "success" in logistic regression is 0.5. However, we can adjust this value to make it easier or more difficult to predict a success. Let's optimize this cutoff value using 5-fold cross validation. Note: we could also do this with kNN, but we will not on this assignment.
+
+Using the cutoff values from 0.15 to 0.85 by 0.05 (0.15, 0.20, 0.25, and so on up to 0.85) for predicting whether an adult has a salary above 50K, find which one performs best on the training set using the metric of Cohen's $\kappa$, which is given in the output of the `confusionMatrix()` function. You will need a couple loops here since the `train()` function cannot do this for us. Note: you can find the indices of the rows in each fold using the `createFolds()` function in the `caret` library. Please set a seed at the beginning of your code chunk for this part.
+
+
+```{r}
+#| label: cv_kappa
+#| cache: true
+set.seed(2026)
+cutoffs <- seq(0.15, 0.85, by = 0.05)
+split_index <- createFolds(adult_train$salary, k = 5)
+metric <- matrix(rep(0, 15 * 5), nrow = 15)
+rownames(metric) <- cutoffs
+j <- 1
+for(cutoff in cutoffs) {
+  for(i in 1:5) {
+    adult_glm_fold <- glm(salary ~ age + education + 
+                       race + sex + hours_per_week, 
+                       data = adult_train[-split_index[[i]],], 
+                       family = "binomial")
+    
+    y_hat_glm <- ifelse(predict(adult_glm_fold,
+                                adult_train[split_index[[i]],],
+                                type = "response") > cutoff, 
+                       ">50K", "<=50K") |>
+      factor()
+    
+    metric[j, i] <- confusionMatrix(
+      y_hat_glm, adult_train[split_index[[i]],]$salary
+      )$overall[["Kappa"]]
+  }
+j <- j + 1
+}
+rowMeans(metric)
+best_cutoff <- cutoffs[which.max(rowMeans(metric))]
+best_cutoff
+```
+
+The best cutoff here is 0.35 for me. 
+
+
+### Part i (5 points)
+
+Once you have your "optimal" cutoff value, repeat part d using this cutoff and compare the results of this output to the results of the output for a kNN model with the optimal $k$ value you found in part g. For which statistics is the logistic regression better now and for which is it worse?
+
+```{r}
+#| label: glm_predictions_revisited
+y_hat_glm2 <- ifelse(predict(adult_train_glm, type = "response") > 0.35, 
+                    ">50K", "<=50K") |>
+  factor()
+confusionMatrix(y_hat_glm2, adult_train$salary, positive = ">50K")
+
+y_hat_knn3 <- predict(adult_train_knn3, newdata = adult_train, type = "class")
+confusionMatrix(y_hat_knn3, adult_train$salary, positive = ">50K")
+```
+
+**Answer**
+
+Now the logistic model is better when it comes to sensitivity, negative predictive value, detection rate, detection prevalence, and is very similar (though slightly lower) in balanced accuracy. The kNN model is better for the others.
+
+
+### Part j (15 points)
+
+Finally, let's test our two models (the logistic model with the "optimal" cutoff and the kNN model with the "optimal" $k$) on the test set. We must keep a few things in mind:
+
+1.  We must use the exact models we fit to the training set. We aren't fitting new models here, we are just getting predictions from the test set using these models we already fit. You fit the logistic regression model in part c (with the best cutoff probability determined in part h) and you fit the kNN model in either part c or part g.
+2.  We should not use the results of the testing predictions to change our models. That should have been done with the training sets.
+
+Find the predictions for the test set using both models, print the output of the `confusionMatrix()` function for each model, and compare the results in a few sentences. 
+
+
+```{r}
+#| label: test
+library(caret) |> suppressPackageStartupMessages()
+y_hat_glm_test <- ifelse(
+  predict(adult_train_glm, adult_test, type = "response") > 0.35, 
+  ">50K", 
+  "<=50K"
+  ) |>
+  factor()
+confusionMatrix(y_hat_glm_test, adult_test$salary, positive = ">50K")
+
+y_hat_knn_test <- predict(adult_train_knn3, adult_test, type = "class")
+confusionMatrix(y_hat_knn_test, adult_test$salary, positive = ">50K")
+```
+
+**Answer**
+
+It seems like the logistic model is overall a little better. It has better overall accuracy, kappa, sensitivity, negative predictive value, detection rate, detection prevalence, and balanced accuracy, though many of those are close. 
+
+kNN is better when it comes to specificity and positive predictive value
+
+
+### Part k (5 points)
+
+Even though one method may be better on a given dataset than another, that does not mean that method will always predict better. However, logistic regression has a few advantages over kNN regardless of predictive power. List at least three advantages logistic regression has over kNN.
+
+**Answer**
+
+1. A logistic regression model is quicker to fit and find predictions for. 
+2. Logistic regression has less of a tendency to over fit. This can be a problem for small values of $k$ for kNN.
+3. Logistic regression has slope values for the predictors, so we can interpret how each predictor is influencing the predicted probability. This is a huge advantage!  
